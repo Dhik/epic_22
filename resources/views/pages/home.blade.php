@@ -78,9 +78,9 @@
 			</div>
 			<div class="col-md-4 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
 				<div class="card mx-auto">
-					<img src="{{ url('assets/img/theme.png')}}" class="card-img-top" alt="...">
+					<img src="{{ url('assets/img/Closing.png')}}" class="card-img-top" alt="...">
 					<div class="card-body">
-						<div class="card-title"><h4 class="theme_competition">Theme</h4></div>
+						<div class="card-title"><h4 class="theme_competition">Closing</h4></div>
 					</div>
 					<div class="card-footer">
 						<a href="{{ route('closing')}}" class="btn-block btn-read mt-2 py-2 mx-auto"><p>Read More</p></a>

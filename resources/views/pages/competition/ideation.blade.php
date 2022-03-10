@@ -16,8 +16,7 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
-			<p class="desc_ideation">&emsp;&emsp; Ideation is an annual strategic communication competition held by Communication Management Student Association of Universitas Padjadjaran. It challenges Ideators from all universities in Indonesia to create creative solutions for the presented themes. This competition is one of the six competitions by The Epicentrum: Padjadjaran Communication Festival 2021 which is held by the Faculty of Communication and Science, Universitas Padjadjaran. Not only competitions, Ideation has a series of interesting events that include webinars for the public as well as workshops for finalists as a privilege.</p>
-			<p class="desc_ideation">&emsp;&emsp;Each year, Ideation comes with different forms of competition with the same vision. We hope that the participants will be able to hone creativity, train creative thinking, and also critical thinking skills through the creation of innovations. This year, we challenge Ideators, prospective marketing communication strategists, to contribute to developing Indonesia through marketing. Then, how would you do it? Read the next explanation down below.</p>
+			<p class="desc_ideation">&emsp;&emsp; <b> Ideation 2022 </b> is one of Epicentrum's 2022 competition branches that focuses on constructing communication strategies to solve social issues, specifically climate change. Ideation invites participants to think more creatively, train their research and analytical skills, and discover the most effective communication strategies in the form of social campaigns. Participants will compete to create the best creative proposal and pitch deck regarding the most effective communication strategies to educate people about the impacts of ongoing climate change. Besides competition, Ideation 2022 conducts other activities, such as workshops to provide valuable insights for the participants and webinars for the general public. </p>
 		</div>
     </div>
 </div>
@@ -29,8 +28,14 @@
 			<div class="col-xl-6 col-lg-8">
 				<h1 class="comp_title_li">TEASER</h1>
 			</div>
-			<div class="frame_comp">
-				<iframe style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px" src="https://www.youtube.com/embed/aOe8ZAjTmUI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<div class="col-xl-6 col-lg-8">
+				<h1 class="comp_title_li">MORE ABOUT US</h1>
+			</div>
+			<div class="frame_comp col-xl-6 col-lg-8">
+				<iframe style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px" src="https://youtube.com/embed/cjpofzKwdTU " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</div>
+			<div class="frame_comp col-xl-6 col-lg-8">
+				<iframe style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px" src="https://youtube.com/embed/CFHY2c6-KOA " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</div>
 		</div>
 </section>
@@ -41,7 +46,7 @@
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 			<div class="col-md-4 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
 				<div class="card mx-auto">
-					<img src="{{ url('assets/img/theme.svg')}}" class="card-img-top" alt="...">
+					<img src="{{ url('assets/img/Theme_Desc.png')}}" class="card-img-top" alt="...">
 					<div class="card-body">
 						<div class="card-title"><h4 class="theme_competition">Theme Description</h4></div>
 					</div>
@@ -52,7 +57,7 @@
 			</div>
 			<div class="col-md-4 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
 				<div class="card mx-auto">
-					<img src="{{ url('assets/img/registration.svg')}}" class="card-img-top" alt="...">
+					<img src="{{ url('assets/img/Registration.png')}}" class="card-img-top" alt="...">
 					<div class="card-body">
 						<div class="card-title"><h4 class="theme_competition">Registration Competition</h4></div>
 					</div>
@@ -63,7 +68,7 @@
 			</div>
 			<div class="col-md-4 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
 				<div class="card mx-auto">
-					<img src="{{ url('assets/img/registration.svg')}}" class="card-img-top" alt="...">
+					<img src="{{ url('assets/img/FAQ_and_TRIVIA.png')}}" class="card-img-top" alt="...">
 					<div class="card-body">
 						<div class="card-title"><h4 class="theme_competition">FAQ & Trivia</h4></div>
 					</div>

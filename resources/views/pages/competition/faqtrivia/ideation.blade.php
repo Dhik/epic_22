@@ -1,62 +1,95 @@
-@extends('layout.temp_ideation') 
-@section('title','Epicentrum - Ideation') 
-@section('content') 
+@extends('layout.temp_ideation')
+@section('title','Epicentrum - Ideation')
+@section('content')
 <!-- ======= Hero Section ======= -->
 
- <!-- Akhir Button -->
+<!-- Akhir Button -->
 
 <section id="hero" class="d-flex align-items-center justify-content-center ">
-<div class="container" data-aos="fade-up">
-	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
-		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title_li">Ideation Trivia 2021</h1>
+	<div class="container" data-aos="fade-up">
+		<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+			<div class="col-xl-7 col-lg-8">
+				<h1 class="comp_title_li">Ideation Trivia 2022</h1>
+			</div>
 		</div>
-    </div>
-</div>
+	</div>
 </section>
 <section class="d-flex align-items-center justify-content-center">
-<div class="container" data-aos="fade-up">
-	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
-		<div class="col-xl-10 col-lg-8">
-			<p class="desc_ideation">&emsp;&emsp;Katadata Insight Center stated that there are two obstacles faced by MSMEs (Bahasa: UMKM) in adapting during this pandemic, especially in digital marketing. Some MSMEs admit that they lack knowledge in running online businesses, while some stated that they do not have a competent workforce. Based on data from the Ministry of Cooperatives and Small and Medium Enterprises (Kemenkop and UKM) as of June 2020, only 8 million out of 64 million MSMEs in Indonesia have utilized digital media. This data shows the lack of digital media use for business among MSMEs businessmen in Indonesia.</p>
-			<p class="desc_ideation">&emsp;&emsp; Meanwhile, women's MSMEs experienced a decrease in turnover of 96% due to struggles in marketing products through digital media. Digital media is the main support for business continuity of 92% of MSMEs that survived throughout this pandemic. Women have great potential in developing Indonesia’s economy through MSMEs. According to the Ministry of Cooperatives and SMEs (2017), as much as 64.5% of the total of MSMEs in Indonesia, or an equivalent of 37 million MSMEs, are managed by women. Also, according to McKinsey, there are at least four advantages in digitizing women MSMEs, namely increased sales, job-creating, price saving, and social equality.</p>
+	<div class="container" data-aos="fade-up">
+		<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+			<div class="col-xl-10 col-lg-8">
+				<p class="desc_ideation">&emsp;&emsp;The Intergovernmental Panel on Climate Change (IPCC) revealed the possibility of earth's temperature to reach or exceed 1,5°C in a shorter period of time, possibly between 2018 to 2037. This statement is in line with research found in the Nature Climate Change Journal which predicts that rising global temperatures will cause extreme sea level rise along coastlines around the world and will occur a hundred times more frequently by the end of this century. Rising sea levels can cause massive floods to occur in several coastal areas worldwide once every hundred years. Apart from massive floods, climate change may affect the earth in other ways, from natural consequences such as water scarcity that leads to increased droughts, more severe storms, extreme weather, forest fires and melting polar ice caps that leads to loss of species, to social consequences such as a global rise in hunger, health risks, poverty, and displacement.</p>
+				<p class="desc_ideation">&emsp;&emsp; Based on these data, as students who act as agents of change, we must pay great attention and actively find solutions towards the impacts of the ongoing climate change. Real actions can be done through various efforts, such as educating people on the impacts of climate change, how to adapt and take proper actions amid extreme events that occur due to climate change. These efforts can be done by utilizing the ever growing digital media technology that currently covers almost all aspects of human life.</p>
+			</div>
 		</div>
-    </div>
-</div>
+	</div>
 </section>
 
 <section id="hero" class="d-flex align-items-center justify-content-center ">
-<div class="container" data-aos="fade-up">
-	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
-		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title_li">Ideation FAQ 2021</h1>
+	<div class="container" data-aos="fade-up">
+		<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+			<div class="col-xl-7 col-lg-8">
+				<h1 class="comp_title_li">Ideation FAQ 2021</h1>
+			</div>
 		</div>
-    </div>
-</div>
+	</div>
 </section>
 <section class="d-flex align-items-center justify-content-center">
-<div class="container" data-aos="fade-up">
-	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
-		<div class="col-xl-10 col-lg-8">
-			<p class="desc_ideation">&emsp;&emsp; <b>Q: What series of activities will be held by IDEATION?</br></br></b>"For 2021, IDEATION arranged a series of interesting activities for ideators from all over Indonesia. These activities include a competition in making communication strategy ideas, workshops, and a final presentation for competition finalists. IDEATION also prepared a series of seminars that can be attended by the general public."</p>
+	<div class="container" data-aos="fade-up">
+		<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+			<div class="col-xl-10 col-lg-8">
+				<p class="desc_ideation">&emsp;&emsp; <b>Q: What series of activities will be held by IDEATION?</br></br></b>"There will be three series of activities held in Ideation 2022. The first activity that will be held on May 17th, 2022, is a workshop that aims to provide helpful knowledge for participants in preparing their work. Then a webinar aimed at the general public will be held on May 18th, 2022. Lastly, participants will present their work at the final presentation day on May 19th, 2022."</p>
 
-			<p class="desc_ideation">&emsp;&emsp; <b>Q: What theme is being brought up by the 2021 IDEATION?</br></br></b>"IDEATION 2021 is bringing up "Womenpreneur for A Better Indonesia: Empowering Women MSMEs As an Effort in Economic Recovery During the Pandemic" for this year’s theme."</p>
+				<p class="desc_ideation">&emsp;&emsp; <b>Q: What theme is being brought up by the 2022 IDEATION?</br></br></b>"Ideation 2022 discusses the dangerous impacts of climate change that have occurred in various parts of the world, with the title of <b><i>“Communication to Action: Youth Changemakers for Climate Change.”</i></b>"</p>
 
-			<p class="desc_ideation">&emsp;&emsp; <b>Q: Who can participate in the IDEATION 2021 competition?</br></br></b>"All D3/D4/S1 students or equivalent, from any university and any program, who are still considered as an active student as of May 2021. The competition will be done by groups of 2 people, group members may come from different programs or faculties as long as they come from the same institution."</p>
+				<p class="desc_ideation">&emsp;&emsp; <b>Q: Who can participate in the IDEATION 2022 competition?</br></br></b>"Ideation 2022 is open for all active Associate’s (D3) and Undergraduate (D4/S1) Degree students that want to give their contribution in solving social issues, specifically climate change, through a communication perspective. Participants are groups consisting of three students that can be of different majors or faculties, but have to be from the same institution."</p>
 
-			<p class="desc_ideation">&emsp;&emsp; <b>Q: What is the output from IDEATION 2021?</br></br></b>"Ideators will be asked to design a creative proposal for a digital marketing plan on women-owned MSMEs with the MSME criteria that are listed in the competition brief."</p>
+				<p class="desc_ideation">&emsp;&emsp; <b>Q: What is the output from IDEATION 2022?</br></br></b>"Ideators will compete to create the best creative proposal and pitch deck on the most effective communication strategies to educate people regarding the dangerous impacts of the world’s ongoing climate change."</p>
 
-			<p class="desc_ideation">&emsp;&emsp; <b>Q: How do you take part in the IDEATION 2021 competition?</br></br></b>"Ideators can visit the registration form link at the following link bit.ly/DaftarIdeation2021 and follow the directions given."</p>
+				<p class="desc_ideation">&emsp;&emsp; <b>Q: How do you take part in the IDEATION 2022 competition?</br></br></b>"Ideators can register through the registration link that will be announced by the committee and follow further instructions."</p>
 
-			<p class="desc_ideation">&emsp;&emsp; <b>Q: What is the plot for IDEATION 2021?</br></br></b>"After completing the registration form, Ideators will receive a competition brief which will be sent to one of the group members through email. Ideators can make an idea proposal and send it to the email that is listed. The judge will select five finalist teams who are then obligated to attend the Epicentrum summit which will be held from the 3rd to 6th of May 2021. This summit includes seminars, workshops, and presentations of the ideas that were selected. From the five teams, three winning teams will be selected through the second (final) selection."</p>
+				<p class="desc_ideation">&emsp;&emsp; <b>Q: How is the IDEATION 2022 series of activities timeline?</b>
+				<table class="table text-white">
+					<tbody>
+						<tr>
+							<td>26th of February 2022</td>
+							<td>: Roadshow</td>
+						</tr>
+						<tr>
+							<td>15th of March 2022</td>
+							<td>: Open Registration & Open Submission</td>
+						</tr>
+						<tr>
+							<td>15th of April 2022</td>
+							<td>: Close Registration & Close Submission</td>
+						</tr>
+						<tr>
+							<td>30th of April 2022</td>
+							<td>: Finalist Announcement</td>
+						</tr>
+						<tr>
+							<td>17th of May 2022</td>
+							<td>: Workshop </td>
+						</tr>
+						<tr>
+							<td>18th of May 2022</td>
+							<td>: Close Final Submission & Webinar</td>
+						</tr>
+						<tr>
+							<td>19th of May 2022</td>
+							<td>: Final Presentation Day</td>
+						</tr>
+						<tr>
+							<td>20th of May 2022</td>
+							<td>:  Closing Ceremony</td>
+						</tr>
+					</tbody>
+				</table>
+				</p>
 
-			<p class="desc_ideation">&emsp;&emsp; <b>Q: When does the registration for IDEATION 2021 close?</br></br></b>"April 2, 2021"</p>
-
-			<p class="desc_ideation">&emsp;&emsp; <b>Q: When is the deadline for submitting works?</br></br></b>"April 5, 2021"</p>
-
-			<p class="desc_ideation">&emsp;&emsp; <b>Q: What benefits will the participants get from IDEATION 2021?</br></br></b>"Ideators will have the opportunity to gain impressive competition experiences, opportunities to improve their critical and creative thinking skills, and provide a place for ideators to innovate. Ideas that were made can also be realized as the Ideator’s contribution to society. Finalists also have the opportunity to take part in free workshops with experts. The selected finalists will also receive prizes with a total of millions of rupiahs. "</p>
+				<p class="desc_ideation">&emsp;&emsp; <b>Q: How is the competition mechanism for IDEATION 2022?</br></br></b>"After completing the registration process, Ideators will receive a competition brief within 24 hours. Ideators can submit their work until 17th April 2022. Five chosen teams will move to the final stage, where each team will get the final brief and a chance to participate in a workshop related to the theme of Ideation 2022. Finalists must submit their work no later than 18th of May 2022 and present it to the judges on 19th of May 2022. "</p>
+			</div>
 		</div>
-    </div>
-</div>
+	</div>
 </section>
 @endsection

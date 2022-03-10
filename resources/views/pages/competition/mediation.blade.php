@@ -17,9 +17,8 @@
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
 			<div class="desc_overlay">
-			<p class="desc_medi">&emsp;&emsp; Mediation (Media in Action) is a competition program from the Media Production Management department which has a Production House concept with the output of the competition in the form of Digital Posters, Audio and Video. The theme of the Mediation itself is <b>" Akselerasi Media Digital di Bidang Startup "</b></p>
-			<p class="desc_medi">&emsp;&emsp; Mediation is a competition that prioritizes creativity and how to view a person or group of people related to a national problem, of course in the Startup field. Back to Media Production Management, which is a department that studies the production of a media, which finally we formed Mediation as a competition that prioritizes the production of media content as its output.</p>
-			<p class="desc_medi">&emsp;&emsp; Through this Mediation competition we hope to help facilitate people who want to submit their work, we also hope that we can help each other to improve the quality of the content produced in the future through <b>webinars</b> and <b>sharing sessions</b> in the Mediation series.</p>
+			<p class="desc_medi">&emsp;&emsp; <b> Mediation (Media in Action) </b> adalah salah satu mata lomba Epicentrum Unpad dari Prodi Manajemen Produksi Media."</b></p>
+			<p class="desc_medi">&emsp;&emsp; Pada Mediation 2022, sub-tema yang digunakan adalah "Aksesibilitas Informasi Media terhadap Limbah Medis Rumah Tangga" dengan mengangkat konsep Production House yang mempunyai tiga output lomba yaitu videografi, audio, dan poster digital. Melalui sub-tema tersebut, Mediation 2022 berharap, dapat meningkatkan kesadaran masyarakat akan pentingnya pengelolaan limbah medis rumah tangga saat ini.</p>
 			</div>
 		</div>
     </div>
@@ -32,8 +31,15 @@
 			<div class="col-xl-6 col-lg-8">
 				<h1 class="comp_title_li">TEASER</h1>
 			</div>
-			<div>
-				<iframe style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px;" src="https://www.youtube.com/embed/gCAngp4dLok" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+			<div class="col-xl-6 col-lg-8">
+				<h1 class="comp_title_li">MORE ABOUT US</h1>
+			</div>
+			<div class="col-xl-6 col-lg-8">
+				<iframe style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px;" src="https://www.youtube.com/embed/ilmkMPywVEQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+				</iframe>
+			</div>
+			<div class="col-xl-6 col-lg-8">
+				<iframe style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px;" src="https://www.youtube.com/embed/VypFFsIOkl8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 				</iframe>
 			</div>
 		</div>
@@ -45,7 +51,7 @@
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 			<div class="col-md-4 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
 				<div class="card mx-auto">
-					<img src="{{ url('assets/img/theme.svg')}}" class="card-img-top" alt="...">
+					<img src="{{ url('assets/img/Theme_Desc.png')}}" class="card-img-top" alt="...">
 					<div class="card-body">
 						<div class="card-title"><h4 class="theme_competition">Theme Description</h4></div>
 					</div>
@@ -56,7 +62,7 @@
 			</div>
 			<div class="col-md-4 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
 				<div class="card mx-auto">
-					<img src="{{ url('assets/img/registration.svg')}}" class="card-img-top" alt="...">
+					<img src="{{ url('assets/img/Registration.png')}}" class="card-img-top" alt="...">
 					<div class="card-body">
 						<div class="card-title"><h4 class="theme_competition">Registration Competition</h4></div>
 					</div>
@@ -67,7 +73,7 @@
 			</div>
 			<div class="col-md-4 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
 				<div class="card mx-auto">
-					<img src="{{ url('assets/img/registration.svg')}}" class="card-img-top" alt="...">
+					<img src="{{ url('assets/img/FAQ_and_TRIVIA.png')}}" class="card-img-top" alt="...">
 					<div class="card-body">
 						<div class="card-title"><h4 class="theme_competition">FAQ & Trivia</h4></div>
 					</div>

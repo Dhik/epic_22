@@ -1,5 +1,5 @@
 @extends('layout.temp_tellav') 
-@section('title','Epicentrum - Tell a Vision') 
+@section('title','Epicentrum - Commoviecator') 
 @section('content') 
 <!-- ======= Hero Section ======= -->
 
@@ -9,7 +9,7 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="art_ex">Participant Requirements</h1>
+			<h1 class="art_ex">Participant Terms</h1>
 			<!--<h1 class="art_ex">Competition Terms and Condition</h1>-->
 		</div>
     </div>
@@ -68,12 +68,36 @@
 
 			<h1 class="sub-title"><b>F. Participant Requirements</b></h1>-->
 			<ul class="participant_terms text-justify" type="1">
+				<li>Participants must fill in the registration form first.</li>
+				<li>Participants must pay registration fee : Rp80.000,00</li>
 				<li>The participant is the active college student (D3/D4/S1).</li>
-				<li>Each team consist of 3 students from the same university, although they can be from different faculty and major.</li>
-				<li>Every university allowed to send more than 1 team.</li>
-				<li>Every team only allowed to send 1 proposal.</li>
-				<li>Participant considered to be in the competition once they finished the administration requirements.</li>
-				<li>Registration Fee : <b>Rp 125.000,00</b></li>
+				<li>Each university is allowed to send more than one team.</li>
+				<li>Each team is only allowed to submit one movie.</li>
+				<li>Participants are considered participating in the competition if they fulfill all the administrative requirements.</li>
+			</ul>
+		</div>
+    </div>
+</div>
+</section>
+
+<section class="d-flex align-items-center justify-content-center ">
+<div class="container" data-aos="fade-up">
+	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+		<div class="col-xl-7 col-lg-8">
+			<h1 class="comp_title">Registration Terms</h1>
+		</div>
+    </div>
+</div>
+</section>
+<section class="d-flex align-items-center justify-content-center">
+<div class="container" data-aos="fade-up">
+	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+		<div class="col-xl-10 col-lg-8">
+			<ul class="participant_terms">
+				<li>The registration is opened on March, 15 - April, 15 2022 (including payment)</li>
+				<li>Participants send registration forms that have been filled in completely along with identification (Student Identity Card / Identity Card) of producers and directors along with proof of payment (united in one folder)</li>
+				<li>Participants make a payment of IDR 80.001.00 to the 90120164287 (Jenius) account under the name of Syifa Ananda Pratiwi and send proof of transfer on registration form column “Proof of Transfer” in <b> .jpg format </b> (add unique code 1 behind IDR 80.001.00 to facilitate data collection)</li>
+				<li>Participant representative confirm by sending a message through Whatsapp number 089648429197 (Tarisa) or to the ID Line of tarisaaans, with a statement that the team has fulfilled all registration.</li>
 			</ul>
 		</div>
     </div>
@@ -96,10 +120,10 @@
 	<div class="row justify-content-center text-center">
 			<div class="col-xl-4 col-sm-6 mb-5">
 			    <div class="contact_person rounded shadow-sm py-5 px-4">
-			        <h5 class="mb-0">M. Dhaffa Attoriq</h5><span class="small text-uppercase text-muted text-center">081261378343</span>
+			        <h5 class="mb-0">Tarisa Nurul Salimi</h5><span class="small text-uppercase text-muted text-center">089648429197</span>
 			            <ul class="social mb-0 list-inline mt-3">
-			                <li class="list-inline-item"><a href="http://line.me/ti/p/~raven282" class="social-link"><i class="fa-2x fab fa-line"></i></a></li>
-			                <li class="list-inline-item"><a href="mailto:g123woodhouse@gmail.com" class="social-link"><i class="fa-2x fas fa-envelope"></i></a></li>
+			                <li class="list-inline-item"><a href="http://line.me/ti/p/~tarisaaans" class="social-link"><i class="fa-2x fab fa-line"></i></a></li>
+			                <li class="list-inline-item"><a href="mailto:taritsah@gmail.com" class="social-link"><i class="fa-2x fas fa-envelope"></i></a></li>
 			            </ul>
 			    </div>
 			</div>
@@ -111,8 +135,8 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="about" style="padding-bottom:10px;">TELL A VISION 2021 OPEN REGISTRATION</h1>
-			<a href="http://bit.ly/TellAVision2021" type="button" class="btn btn-primary btn-lg btn-block">Register</a>
+			<h1 class="about" style="padding-bottom:10px;">COMMOVIECATOR 2022 OPEN REGISTRATION</h1>
+			<a href="https://bit.ly/JoinCommoviecator2022" type="button" class="btn btn-primary btn-lg btn-block">Register</a>
 		</div>
     </div>
 </div>

@@ -1,5 +1,5 @@
 @extends('layout.temp_pprf') 
-@section('title','Epicentrum - The 9 th Padjadjaran Public Relations Fair') 
+@section('title','Epicentrum - The 10th Padjadjaran Public Relations Fair') 
 @section('content') 
 <!-- ======= Hero Section ======= -->
 
@@ -18,12 +18,14 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
+			<p class="theme-title-li" style="font-size: xx-large;">Ocean Recovery: Reducing Marine Plastic Debris to Combat Climate Change</p>
+			<br>
 			<p class="theme-title-li">OlymPRDay</p>
-			<p class="theme-title-li">“How To Restore Indonesia Tourism: Focusing on The CHSE Program”</p>
-			<p class="desc_ideation">&emsp;&emsp; The weakening condition of Indonesian tourism since the Covid-19 pandemic initiated the formation of the CHSE program by the Ministry of Tourism and Creative Economy.  CHSE is a certification program for tourism industry players that guarantees that their tourism business has been certified for cleanliness, health, safety and environmental sustainability, so tourists don't have to worry about visiting tourist attractions.  The Ministry of Tourism and Creative Economy made the CHSE their main program during the pandemic to prepare tourism industry players to be ready to accept tourists again.  That way, Indonesian tourism can recover from the downturn due to the Covid-19 pandemic.</p>
+			<p class="theme-title-li">“Reducing Marine Plastic Debris by Optimizing Waste Management”</p>
+			<p class="desc_ideation">&emsp;&emsp; In the context of global recovery, climate change has become a priority issue after the Covid-19 pandemic. Reducing marine plastic debris has been done to combat climate change. Aligned with this, the Government of Indonesia has been committed to reducing marine plastic debris by 70% in 2018-2025. One of the steps that the government focuses on is optimizing</p>
 			<p class="theme-title-li">PRSF</p>
-			<p class="theme-title-li">“Rebuilding Traveller's Trust and Confidence for Tourism Recovery Through Communication Strategy”</p>
-			<p class="desc_ideation">&emsp;&emsp; This year PRSF will talk about “Rebuilding Traveller's Trust and Confidence for Tourism Recovery Through Communication Strategy”, which is an interesting topic since tourism sector in Indonesia is one of the sectors that directly contributed the largest amount to GDP, but unfortunately the impact of Covid-19 pandemic has made the tourism sector in Indonesia experience a drastic decline, one of which is the phenomenon of lack of trust of destination. And aligned with that, the phenomenon of lack of trust of destination needs to be solved as soon as possible so that Indonesia can achieve tourism recovery. This is where PR can come into play as a problem-solver to rebuild traveller trust and confidence through communication strategy and help Indonesia to achieve the tourism recovery.</p>
+			<p class="theme-title-li">“Advancing Public’s Awareness as a Solution on Reducing Marine Plastic Debris”</p>
+			<p class="desc_ideation">&emsp;&emsp; Indonesia is a maritime country with abundant wealth and beauty of the sea. From the sea, Indonesia gets many advantages in various sectors, such as the environmental, economic, social, etc. However, the Indonesian people have not been able to maintain this wealth properly. Every year, it is estimated that Indonesia's seas receive plastic waste from the mainland, which is 70-80 percent of waste used for human consumption. The lack of public awareness about how to manage waste properly is one of the reasons why the marine plastic debris issue in Indonesia remains unsolved. This is where the role of PR is needed to Advance Public Awareness as a Solution to Reducing Marine Plastic Debris.</p>
 		</div>
     </div>
 </div>

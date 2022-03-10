@@ -28,8 +28,14 @@
 			<div class="col-xl-6 col-lg-8">
 				<h1 class="teaser">TEASER</h1>
 			</div>
-			<div class="frame_comp">
-				<iframe style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px" src="https://www.youtube.com/embed/NWeofPZbdrI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<div class="col-xl-6 col-lg-8">
+				<h1 class="teaser">MORE ABOUT US</h1>
+			</div>
+			<div class="frame_comp col-xl-6 col-lg-8">
+				<iframe style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px" src="https://youtube.com/embed/eKoO8ez1i_s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</div>
+			<div class="frame_comp col-xl-6 col-lg-8">
+				<iframe style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px" src="https://youtube.com/embed/c03MrTYI7qI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</div>
 		</div>
 </section>
@@ -40,7 +46,7 @@
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 			<div class="col-md-4 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
 				<div class="card mx-auto">
-					<img src="{{ url('assets/img/theme.svg')}}" class="card-img-top" alt="...">
+					<img src="{{ url('assets/img/Theme_Desc.png')}}" class="card-img-top" alt="...">
 					<div class="card-body">
 						<div class="card-title"><h4 class="theme_competition">Theme Description</h4></div>
 					</div>
@@ -51,7 +57,7 @@
 			</div>
 			<div class="col-md-4 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
 				<div class="card mx-auto">
-					<img src="{{ url('assets/img/registration.svg')}}" class="card-img-top" alt="...">
+					<img src="{{ url('assets/img/Registration.png')}}" class="card-img-top" alt="...">
 					<div class="card-body">
 						<div class="card-title"><h4 class="theme_competition">Registration Competition</h4></div>
 					</div>
@@ -62,7 +68,7 @@
 			</div>
 			<div class="col-md-4 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
 				<div class="card mx-auto">
-					<img src="{{ url('assets/img/registration.svg')}}" class="card-img-top" alt="...">
+					<img src="{{ url('assets/img/FAQ_and_TRIVIA.png')}}" class="card-img-top" alt="...">
 					<div class="card-body">
 						<div class="card-title"><h4 class="theme_competition">FAQ & Trivia</h4></div>
 					</div>
