@@ -22,7 +22,7 @@ use App\Http\Controllers\Admin\AdminFinalistController;
 |
 */
 Route::get('/','App\Http\Controllers\HomeController@index')->name('landing');
-Route::get('/history','App\Http\Controllers\PageController@history')->name('history');
+Route::get('/about','App\Http\Controllers\PageController@history')->name('history');
 Route::get('/competition','App\Http\Controllers\PageController@competition')->name('competition');
 Route::get('/art_exhibition','App\Http\Controllers\PageController@art_ex')->name('art_ex');
 Route::get('/contact','App\Http\Controllers\PageController@contact')->name('contact');
