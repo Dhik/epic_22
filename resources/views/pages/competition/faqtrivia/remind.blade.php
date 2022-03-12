@@ -9,19 +9,19 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title_li">Research Mindedness Trivia 2021</h1>
+			<h1 class="comp_title_li">Research Mindedness Trivia 2022</h1>
 		</div>
     </div>
 </div>
 </section>
-<section class="d-flex align-items-center justify-content-center">
+<section class="d-flex align-items-center justify-content-center" id="overlay">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
-			<p class="desc_comp">&emsp;&emsp; The United Nations World Tourism Organization (UNWTO) said that in the global tourism sector around US $ 460 billion or around Rp. 6,800 trillion would suffer losses in the first half of this year due to the new coronavirus pandemic. The tourism industry has experienced a downturn by up to 90% starting from the start of the COVID-19 outbreak in 2019, one of them is the Micro, Small and Medium Enterprises (MSME). Executive Director of the National Committee for Syariah Economics and Finance, Ventje Rahardjo reported that 72.6 percent of MSMEs were affected due to the Covid-19 pandemic. This has a huge impact considering the MSMEs have a contribution of 60 percent of the national Gross Domestic Product (GDP). Many MSMEs experienced a reduction in activity due to the policy of limiting social interactions which resulted in the cessation of the production process. Due to the widespread of the Covid-19 pandemic, MSMEs actors are expected to have a good preparation for raw materials and also for the human resource.</p>
-			<p class="desc_comp">&emsp;&emsp; The collaboration between MSMEs and elements of Pentahelix aim to assist MSMEs in maintaining their businesses because of the various challenges and limitations, ranging from financial, capacity, marketing, and compliance with hygiene standards. Through the 2020 Creative Work Indonesia program, Bank Indonesia, as one of the elements of Pentahelix, is a forum for this collaboration by inviting hundreds of cloth-based MSME owners in Indonesia to collaborate with well-known designers. This collaboration also aims to encourage and strengthen the use of digital technology for MSMEs in Indonesia. This annual event is held virtually through various channels with a total of 28,545 viewers on March 28-30 2020 managed to bring together 31 MSMEs with 16 potential buyers from abroad with a sales turnover of MSME products reaching IDR 4.86 billion. Business deals increased by 54% over the previous period.</p>
-            <p class="theme-title">TRIVIA FEEDS</p>
-            <p class="desc_comp">&emsp;&emsp; The tourism industry has experienced a downturn by up to 90% starting from the start of the COVID-19 outbreak in 2019, one of them is the Micro, Small and Medium Enterprises (MSME). This has a huge impact considering the MSMEs have a contribution of 60 percent of the national Gross Domestic Product (GDP). The collaboration between MSMEs and elements of Pentahelix aim to assist MSMEs in maintaining their businesses because of the various challenges and limitations, ranging from financial, capacity, marketing, and compliance with hygiene standards. Through the 2020 Creative Work Indonesia program, Bank Indonesia, as one of the elements of Pentahelix, is a forum for this collaboration by inviting hundreds of cloth-based MSME owners in Indonesia to collaborate with well-known designers. This collaboration also aims to encourage and strengthen the use of digital technology for MSMEs in Indonesia. This annual event is held virtually through various channels with a total of 28,545 viewers on March 28-30 2020 managed to bring together 31 MSMEs with 16 potential buyers from abroad with a sales turnover of MSME products reaching IDR 4.86 billion.</p>
+		<p class="theme-title">Research Mindedness Trivia 2022</p>
+			<p class="desc_comp">&emsp;&emsp; Social media is one of the driving factors for the emergence of fast fashion. For example, when an influencer posts a photo wearing a new outfit, the followers will try to imitate the influencer's style of dress. This will cause fast fashion brands to compete with each other to be the first to provide it. Fast fashion brands often target young people as the biggest social media users. In fact, according to a survey by the Fashion Retail Academy, nearly 75% of kids aged 18-24 believe that influencers have a huge impact on the rise of fast fashion.</p>
+			<p class="desc_comp">&emsp;&emsp; Fast fashion brands encourage consumers to continue to buy clothes at low prices and tear them away in a short period of time because of poor-quality clothes. This cycle can create serious environmental problems. Every day, the world collects mountains of non-biodegradable textile waste. The emergence of fast fashion has disastrous consequences, from dependence on synthetic fabrics, its carbon waste that can pollute the environment, to the disruption of the health of garment workers.</p>
+            <p class="desc_comp">&emsp;&emsp; Some famous fast fashion brands use toxic chemicals, harmful dyes, and synthetic fabrics that can contaminate water. Every year, at least 11 million tons of clothing are thrown away in the US. The clothes were full of lead, pesticides, and countless other chemicals. Therefore, landfills release a lot of toxins into the air. Besides having an impact on the environment, fast fashion also has an impact on the health of consumers and garment workers. These days, harmful chemicals such as benzothiazole are found in many clothes and can cause certain types of cancer and respiratory diseases. The skin is one of the sensitive organs of the body, wearing poorly made clothes can be harmful to our health.</p>
 		</div>
     </div>
 </div>
@@ -31,30 +31,33 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title_li">Research Mindedness FAQ 2021</h1>
+			<h1 class="comp_title_li">Research Mindedness FAQ 2022</h1>
 		</div>
     </div>
 </div>
 </section>
-<section class="d-flex align-items-center justify-content-center">
+<section class="d-flex align-items-center justify-content-center" id="overlay">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
-            <p class="desc_comp">&emsp;&emsp; <b>Q: What themes did REMIND 2021 raise?</br></br></b>"'Collaborative Communication to Dignify Local Tourism Industry'. This theme carries a communication strategy for MSMEs in tourist areas as well as MSMEs that produce and/or sell goods with regional identities."</p>
+            <p class="desc_comp">&emsp;&emsp; <b>Q: What is Remind 2022?</br></br></b>"Remind is an initiation of the Communication Studies Program at Padjadjaran University under the auspices of Epicentrum Unpad and is a competition that focuses on research, especially in the field of communication. The contest combines research, creative solutions, and strategic planning to find new breakthroughs in solving social problems."</p>
 
-            <p class="desc_comp">&emsp;&emsp; <b>Q: What are the activities in REMIND 2021?</br></br></b>"Competitions, seminars, and company visit."</p>
+            <p class="desc_comp">&emsp;&emsp; <b>Q: What is the theme for Remind 2022?</br></br></b>"Fast Fashion is a design, manufacturing, and marketing method that focuses on the mass production of clothes in a short time. This phenomenon is a problem of human consumerism and becomes an even bigger problem if we consume more than what we need or use."</p>
 
-            <p class="desc_comp">&emsp;&emsp; <b>Q: How do I get the REMIND 2021 Brief?</br></br></b>"After the participant registers and pays the registration fee, the brief will be sent a maximum of 1x24 via the participant's email."</p>
+            <p class="desc_comp">&emsp;&emsp; <b>Q: What activities are included in Remind 2022?</br></br></b>"Seminar, Company visit, and Final Presentation."</p>
 
-            <p class="desc_comp">&emsp;&emsp; <b>Q: What is the output of the REMIND 2021 competition?</br></br></b>"In stage 1 the outputs are research report and creative poster; In stage 2 the outputs are creative video and presentation. "</p>
+            <p class="desc_comp">&emsp;&emsp; <b>Q: How long will the Remind 2022 competition take?</br></br></b>"15 March 2022 - 15 April 2022: Open & Close registration and submission</br>30 April 2022: Finalists announcement</br>19 May 2022: Final presentation "</p>
 
-            <p class="desc_comp">&emsp;&emsp; <b>Q: Will REMIND 2021 participants be disqualified if participants are late in submitting works?</br></br></b>"Participants will not be disqualified, but the final work score will be reduced according to the duration of the delay."</p>
+            <p class="desc_comp">&emsp;&emsp; <b>Q: Who can register for Remind 2022?</br></br></b>"Undergraduate students who are currently and actively attending studies in a diploma or bachelor degree program until May 2022."</p>
 
-            <p class="desc_comp">&emsp;&emsp; <b>Q: Where will the REMIND 2021 finalists make their final presentation?</br></br></b>"The final presentation will be made via video conference, most likely Zoom or Google Meet. "</p>
+            <p class="desc_comp">&emsp;&emsp; <b>Q: How do I get the Remind 2022 brief?</br></br></b>"After registering and making payment, the brief will be given via email. "</p>
 
-            <p class="desc_comp">&emsp;&emsp; <b>Q: Who can register to become a REMIND 2021 participant?</br></br></b>"All diploma and undergraduate students who are active during the REMIND 2021 implementation."</p>
+            <p class="desc_comp">&emsp;&emsp; <b>Q: What is Remind 2022's output?</br></br></b>"The first output is research reports and creative posters, the second output is creative videos and presentations."</p>
 
-            <p class="desc_comp">&emsp;&emsp; <b>Q: How many groups of participants qualify for the final round?</br></br></b>"5 groups of participants will pass the qualification."</p>
+            <p class="desc_comp">&emsp;&emsp; <b>Q: Will teams late in submitting work be disqualified from Remind 2022?</br></br></b>"Late submission will not cause disqualification, but there will be point deduction."</p>
+
+			<p class="desc_comp">&emsp;&emsp; <b>Q: How many teams will qualify for the final round?</br></br></b>"5 teams"</p>
+			<p class="desc_comp">&emsp;&emsp; <b>Q: Where is the final presentation for the finalists take place?</br></br></b>"The final presentation will be held online."</p>
 		</div>
     </div>
 </div>

@@ -386,6 +386,15 @@
           font-family: "Montserrat", sans-serif;
           text-align: center;
         }
+
+        p.theme-title-desc{
+          margin-bottom: 20px;
+          font-size: 20px;
+          line-height: 30px;
+          color: #fff;
+          font-family: "Montserrat", sans-serif;
+          text-align: center;
+        }
   
   p.theme-title-white{
         margin: 0;
@@ -2501,5 +2510,24 @@
         color: #fff;
       }
   
-  
-      
+      #overlay {
+        position: relative;
+        display: none; 
+        width: 80%; 
+        height: 100%; 
+        background-color: rgba(255, 255, 255, 0.5); 
+        z-index: 2; 
+        margin: auto;
+        border-radius: 25px;
+      }
+
+      #overlay-dark {
+        position: relative;
+        display: none; 
+        width: 80%; 
+        height: 100%; 
+        background-color: rgba(0, 0, 0, 0.5); 
+        z-index: 2; 
+        margin: auto;
+        border-radius: 25px;
+      }

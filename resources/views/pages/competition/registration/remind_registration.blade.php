@@ -14,23 +14,23 @@
     </div>
 </div>
 </section>
-<section class="d-flex align-items-center justify-content-center">
+<section class="d-flex align-items-center justify-content-center" id="overlay">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
 			<ul class="participant_terms">
-				<li>One team consists of three people. Allowed to come from different departments and faculties as long as they still come from the same university in Indonesia.</li>
-				<li>Students must be active in both the Diploma and Undergraduate programs until June 2021.</li>
-				<li>Each university is allowed to send more than one team.</li>
-				<li>One team is only allowed to submit one work.</li>
-				<li>Participants are required to fill out the registration form and fulfil the specified administrative data.</li>
+				<li>A team must consist of <b>3 (three) students</b>. Students in one team could come from various majors as long as they come from the same university.</li>
+				<li>Undergraduate students who are currently and actively attending studies in a diploma or bachelor degree program until May 2022.</li>
+				<li>Every university can register more than one team.</li>
+				<li>Each team is only allowed to submit one research work.</li>
+				<li>Participants are required to fill in the registration form and submit all of  the administrative documents.</li>
 			</ul>
 		</div>
     </div>
 </div>
 </section>
 
-<section class="d-flex align-items-center justify-content-center ">
+<section class="d-flex align-items-center justify-content-center" >
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
@@ -39,18 +39,42 @@
     </div>
 </div>
 </section>
-<section class="d-flex align-items-center justify-content-center">
+<section class="d-flex align-items-center justify-content-center" id="overlay">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
 			<ul class="participant_terms">
-				<li>Registration fee for the competition is IDR 125.000 and have to be paid to <b>BNI: 730899335 a/n Melinda Nur Sophia</b> before proceed to competition form.</li>
-				<li>For participants with referral code, please pay according to the discounted price.</li>
-				<li>Fill out the registration form at http://bit.ly/RegistrationRemind2021.</li>
-				<li>After that, for maximum 24 hour,  the first Brief will be sent to your team leader’s e-mail.</li>
+				<li>Registration fee for the competition is  <b>IDR 175,000 or USD 12.5 or SGD  16.5</b> and has to be paid to these accounts: <b>BCA : 6050 4867 19 (Tifanny Hertantiningsih) or Jenius: 90380117217 (Meizya Rahmita Fajria)</b> before proceeding to the competition form.</li>
+				<li>Fill out the registration form at our website epicentrum.fikom.unpad.ac.id</li>
+				<li>After that, the brief will be given via email to the team leader.</li>
 			</ul>
 		</div>
     </div>
+</div>
+</section>
+
+
+<section class="d-flex align-items-center justify-content-center" >
+<div class="container" data-aos="fade-up">
+	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+		<div class="col-xl-7 col-lg-8">
+			<h1 class="art_ex">Open Registration</h1>
+		</div>
+    </div>
+</div>
+</section>
+<section class="competition-section">
+<div class="container">
+	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+			<div class="col-md-6 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
+				<div class="card mx-auto">
+					<img src="{{ url('assets/img/Registration.png')}}" class="card-img-top" alt="...">
+					<div class="card-footer">
+						<a href="https://bit.ly/RegistrationRemind2022" class="btn-block btn-read mt-2 py-2 mx-auto"><p><b>Registration</b></p></a>
+					</div>
+				</div>
+			</div>
+	</div>
 </div>
 </section>
 
@@ -69,17 +93,19 @@
 	<div class="row justify-content-center text-center">
 			<div class="col-xl-4 col-sm-6 mb-5">
 			    <div class="contact_person rounded shadow-sm py-5 px-4">
-			        <h5 class="mb-0">Bella Indira</h5><span class="small text-uppercase text-muted text-center">085725768180</span>
+			        <h5 class="mb-0">Arshila Citra Khoirunnisa</h5><span class="small text-uppercase text-muted text-center">082121030254</span></br>
 			            <ul class="social mb-0 list-inline mt-3">
-			                <li class="list-inline-item"><a href="http://line.me/ti/p/~bella-indira.a.p" class="social-link"><i class="fa-2x fab fa-line"></i></a></li>
+			                <li class="list-inline-item"><a href="http://line.me/ti/p/~rshlctr" class="social-link"><i class="fa-2x fab fa-line"></i></a></li>
+							<li class="list-inline-item"><a href="mailto:arshilacitra68@gmail.com" class="social-link"><i class="fa-2x fas fa-envelope"></i></a></li>
 			            </ul>
 			    </div>
 			</div>
 			<div class="col-xl-4 col-sm-6 mb-5">
 			    <div class="contact_person rounded shadow-sm py-5 px-4">
-			        <h5 class="mb-0">Kesyha Pratama</h5><span class="small text-uppercase text-muted">0895629303418</span>
+			        <h5 class="mb-0">Siti Halimatus Sa'adah</h5><span class="small text-uppercase text-muted">081214008142</span></br>
 			            <ul class="social mb-0 list-inline mt-3">
-			                <li class="list-inline-item"><a href="http://line.me/ti/p/~kesssssyha" class="social-link"><i class="fa-2x fab fa-line"></i></a></li>
+			                <li class="list-inline-item"><a href="http://line.me/ti/p/~sitihalimatus1" class="social-link"><i class="fa-2x fab fa-line"></i></a></li>
+							<li class="list-inline-item"><a href="mailto:sitihs12@gmail.com" class="social-link"><i class="fa-2x fas fa-envelope"></i></a></li>
 			            </ul>
 			    </div>
 			</div>
@@ -87,7 +113,7 @@
 </div>
 </section>
 
-<section class="d-flex align-items-center justify-content-center cont">
+<!-- <section class="d-flex align-items-center justify-content-center cont">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
@@ -96,5 +122,5 @@
 		</div>
     </div>
 </div>
-</section>
+</section> -->
 @endsection

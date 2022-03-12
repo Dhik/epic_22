@@ -6,17 +6,19 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="art_ex">Tell a Vision</h1>
+			<h1 class="art_ex">COMMOVIECATOR</h1>
 			<h2></h2>
 		</div>
     </div>
 </div>
 </section>
-<section class="d-flex align-items-center justify-content-center">
+<section class="d-flex align-items-center justify-content-center" id="overlay">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
-			<p class="desc_comp_tav">&emsp;&emsp; Tell A Vision is a Proposal Design Competition for Non-Drama TV Program which is held by HIMA-TVF since 2019, as a part of Epicentrum communication festival. This year, “Pendidikan dalam Layar Kaca (Education within Television)” is the theme that Tell A Vision choose. We choose this theme with the spirit to increase and improve the quality of educational television programs. In this competition, the participant who make the final will have to presented the proposal design that they’ve submitted. There are some components that you have to look such as originality, creativity, and correlation from the idea and the theme.</p>
+			<p class="desc_comp_tav">&emsp;&emsp; <b>Commoviecator</b> is a part of competition presented by Television & Film Student Union under Epicentrum event by the Faculty of Communication Sciences Universitas Padjadjaran. Commoviecator is held with goals to be the student’s forum to emerge their communication skills through short-movie. This competition is encouraging people to make a movie not only for a work of art, but also as a tool that has the ability to deliver such an impactful message.</p>
+			<p class="desc_comp_tav">&emsp;&emsp; In communication terms, an individual or a group of people that conveys messages is called a communicator. A Communicator is known as the main actor who plays an active role in building the communication process. Conveying messages in communication can be done through various media. Movie is one of its forms that conveys messages to mass audiences in audio visual form.</p>
+			<p class="desc_comp_tav">&emsp;&emsp; Hence, Commoviecator exists to maximize the role of communicator in public by promoting and expressing their messages in a film. </p>
 		</div>
     </div>
 </div>
@@ -29,11 +31,25 @@
 				<h1 class="teaser">TEASER</h1>
 			</div>
 			<div>
-				<iframe style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px;" src="https://www.youtube.com/embed/k0V03o7TnMw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+				<iframe style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px;" src="https://www.youtube.com/embed/xTRMB1ft0hM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 				</iframe>
 			</div>
 		</div>
 		</section>
+
+<section id="hero" class="d-flex align-items-center justify-content-center teas">
+	<div class="container pr-ex-center" data-aos="fade-up">
+		<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+			<div class="col-xl-6 col-lg-8">
+				<h1 class="teaser">More About Us</h1>
+			</div>
+			<div>
+				<iframe style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px;" src="https://www.youtube.com/embed/QE8loubJ1zo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+				</iframe>
+			</div>
+		</div>
+		</section>
+
 
 <!-- Awal Button -->
 <section class="competition-section">
@@ -41,7 +57,7 @@
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 			<div class="col-md-4 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
 				<div class="card mx-auto">
-					<img src="{{ url('assets/img/theme.svg')}}" class="card-img-top" alt="...">
+					<img src="{{ url('assets/img/Theme_Desc.png')}}" class="card-img-top" alt="...">
 					<div class="card-body">
 						<div class="card-title"><h4 class="theme_competition">Theme Description</h4></div>
 					</div>
@@ -52,7 +68,7 @@
 			</div>
 			<div class="col-md-4 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
 				<div class="card mx-auto">
-					<img src="{{ url('assets/img/registration.svg')}}" class="card-img-top" alt="...">
+					<img src="{{ url('assets/img/Registration.png')}}" class="card-img-top" alt="...">
 					<div class="card-body">
 						<div class="card-title"><h4 class="theme_competition">Registration Competition</h4></div>
 					</div>
@@ -63,7 +79,7 @@
 			</div>
 			<div class="col-md-4 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
 				<div class="card mx-auto">
-					<img src="{{ url('assets/img/registration.svg')}}" class="card-img-top" alt="...">
+					<img src="{{ url('assets/img/FAQ_and_TRIVIA.png')}}" class="card-img-top" alt="...">
 					<div class="card-body">
 						<div class="card-title"><h4 class="theme_competition">FAQ & Trivia</h4></div>
 					</div>

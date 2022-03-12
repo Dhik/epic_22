@@ -19,7 +19,7 @@
             <ul>
               <li><a href="{{ route('remind') }}">Research Mindedness</a></li>
               <li><a href="{{ route('ideation') }}">Ideation</a></li>
-              <li><a href="{{ route('tav') }}">Tell a Vision</a></li>
+              <li><a href="{{ route('tav') }}">Commoviecator</a></li>
               <li><a href="{{ route('mediation') }}">Mediation</a></li>
               <li><a href="{{ route('liblicious') }}">Liblicious</a></li>
               <li><a href="{{ route('parjur') }}">Parade Jurnalistik</a></li>
