@@ -9,7 +9,7 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title_li">Participant Requirements</h1>
+			<h1 class="comp_title_li">Participant Terms</h1>
 		</div>
     </div>
 </div>
@@ -19,9 +19,9 @@
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
 			<ul class="desc_ideation" type="1">
-				<li>Participants are active students  diploma or sarjana from all universities in Indonesia as evidenced by scans student ID card of each member of the team.</li>
-				<li>Participants form a team of three per team, while team members may be from different departments or faculties within one university.</li>
-				<li>One university may send more than one team.</li>
+				<li>Participants are active diploma or undergraduate students from all universities in Indonesia, as evidenced by scanning the student ID card of each member of the team.</li>
+				<li>Participants form a team of two or three per team, while team members may be from different departments or faculties within one university.</li>
+				<li>One university may send more than one team on condition that it sends different teams with different members from one competition to another</li>
 				<li>Participants must have a team name.</li>
 				<li>The committee has the right to disqualify participants who do not meet the applicable conditions.</li>
 			</ul>
@@ -34,7 +34,7 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title_li">Registration Provosions</h1>
+			<h1 class="comp_title_li">Registration Terms</h1>
 		</div>
     </div>
 </div>
@@ -44,16 +44,16 @@
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
 			<ul class="desc_ideation" type="1">
-				<li>Online registration by filling in the Google Form at the address <b>bit.ly/FormLiblicious2021</b></li>
-				<li>Paying a registration fee of Rp150,000 - via - BCA 4180557020 a/n Putri Sekar</li>
-				<li>Participants confirm registration to the contact person of the race: Ms. Gizella Nariratri (Whatsapp: 081212568596 / ID Line: gnariratri) in the format of NAMA TIM_ASAL UNIVERSITAS  and includes proof of payment.</li>
+				<li>Online registration at our website epicentrum.fikom.unpad.ac.id</b></li>
+				<li>Paying a registration fee of Rp150,000 by Mandiri 1400018285313 on behalf of Masita Dewi C</li>
+				<li>Team leader confirm registration to the contact person of the race: Ms. Najla Syarif (Whatsapp: 081214756606/ ID Line: najjsyrf) or Mr. Rafi Helmi Rabani (Whatsapp: 089693389109/ ID Line: rafihelmirabani) in the format of NAMA TIM_ASAL UNIVERSITAS and includes proof of payment.</li>
                 <li>Other registration conditions will be informed by email from the head of the race group.</li>
-                <li>When all registration conditions have been met, participants can send their proposals and registration forms via email <b>liblicious2020@gmail.com</b> with the subject <b>[PENGIRIMAN KARYA]-Liblicious-Nama Tim</b> with file name <b>[PROPOSAL]-Nama Tim</b> (for proposals) and <b>[FORM PENDAFTARAN]-Nama Tim</b> for the registration form.</li>
+                <li>When all registration conditions have been met, team leader can send their scientific article via email <a href="mailto:liblicious2020@gmail.com"> liblicious2020@gmail.com </a> with the subject PENGIRIMAN KARYA-Liblicious 2022-Team Name with file name ARTIKEL ILMIAH-Team Name</li>
                 <li>The committee will send a confirmation of acceptance via email to the team leader.</li>
-                <li>Participants who do not complete the provisions are considered to have resigned.</li>
-                <li>The selection of works was carried out by a jury.</li>
-                <li>The announcement of the five finalists will be announced on Epicentrum's social media.</li>
-                <li>The committee sent Brief 2 and an invitation to the finalists to come to the Liblicious Epicentrum event which will be held online via <i>Video Conference</i>.</li>
+                <li>Team who do not completed the provisions are considered to have resigned.</li>
+                <li>The selection of works was carried out by judges</li>
+                <li>The announcement of the finalists will be announced on Epicentrum's social media.</li>
+                <li>The committee sent Brief 2 and an invitation to the finalists to come to the Liblicious Epicentrum event which will be held online via Video Conference.</li>
 			</ul>
 		</div>
     </div>
@@ -75,9 +75,17 @@
 	<div class="row justify-content-center text-center">
 			<div class="col-xl-4 col-sm-6 mb-5">
 			    <div class="contact_person rounded shadow-sm py-5 px-4">
-			        <h5 class="mb-0">Gizella Nariratri</h5><span class="small text-uppercase text-muted text-center">081212568596</span>
+			        <h5 class="mb-0">Najla Syarif</h5><span class="small text-uppercase text-muted text-center">081214756606</span>
 			            <ul class="social mb-0 list-inline mt-3">
-			                <li class="list-inline-item"><a href="http://line.me/ti/p/~gnariratri" class="social-link"><i class="fa-2x fab fa-line"></i></a></li>
+			                <li class="list-inline-item"><a href="http://line.me/ti/p/~najjsyrf" class="social-link"><i class="fa-2x fab fa-line"></i></a></li>
+			            </ul>
+			    </div>
+			</div>
+			<div class="col-xl-4 col-sm-6 mb-5">
+			    <div class="contact_person rounded shadow-sm py-5 px-4">
+			        <h5 class="mb-0">Rafi Helmi Rabani</h5><span class="small text-uppercase text-muted text-center">089693389109</span>
+			            <ul class="social mb-0 list-inline mt-3">
+			                <li class="list-inline-item"><a href="http://line.me/ti/p/~rafihelmirabani" class="social-link"><i class="fa-2x fab fa-line"></i></a></li>
 			            </ul>
 			    </div>
 			</div>
@@ -90,7 +98,7 @@
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
 			<h1 class="comp_title_li" style="padding-bottom:10px;">LIBLICIOUS 2021 OPEN REGISTRATION</h1>
-			<a href="http://bit.ly/FormLiblicious2021" type="button" class="btn btn-primary btn-lg btn-block">Registration</a>
+			<a href="https://bit.ly/FormLiblicious2022" type="button" class="btn btn-primary btn-lg btn-block">Registration</a>
 		</div>
     </div>
 </div>

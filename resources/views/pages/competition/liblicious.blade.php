@@ -16,7 +16,8 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
-			<p class="desc_ideation">&emsp;&emsp; Liblicious is an annual competition activity which this year takes the theme of (Creative Learning Program for Elementary Students as Post-Pandemic Learning Model Adaptation (Blended Learning)). Liblicious is a forum for the young generation of Indonesia to contribute ideas and ideas regarding national economic recovery that are competed to be the best. This activity is carried out by the Information and Library Science Student Association through the Department of Studies and Academics and in collaboration with BEM BIMA, Faculty of Communication Sciences, Padjadjaran University. The implementation of this activity is also based on the GBHK of the Information and Library Science Student Association, namely article 13 paragraph (1) Making efforts to increase the insight and ability of the members of Himaka Fikom Unpad in the field of Information and Library Science. As well as paragraph (2) Carry out at least one activity related to the library science and profession. This activity also supports scientific publication activities at Padjadjaran University and improves the image of the Padjadjaran University Library and Information Science Study Program as one of the organizers of this science.</p>
+			<p class="desc_ideation">&emsp;&emsp; The subject of <b> Liblicious </b> is a scientific writing competition in the form of articles under the auspices of Epicentrum Fikom Unpad that aims to increase the writer's creativity, critical thinking, analytical, and problem-solving skills. This competition was initiated by the Library of Information Science, one of the fields of study at the Faculty of Communication Sciences, Padjadjaran University. By holding this competition, it is hoped that it will be the first step for students to maximize the function of the role of libraries and information institutions in solving community problems
+</p>
 		</div>
     </div>
 </div>
@@ -28,8 +29,14 @@
 			<div class="col-xl-6 col-lg-8">
 				<h1 class="comp_title_li">TEASER</h1>
 			</div>
-			<div class="frame_comp">
-				<iframe style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px" src="https://www.youtube.com/embed/Jtl-YvD-QOk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<div class="col-xl-6 col-lg-8">
+				<h1 class="comp_title_li">MORE ABOUT US</h1>
+			</div>
+			<div class="frame_comp col-xl-6 col-lg-8">
+				<iframe style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px" src="https://www.youtube.com/embed/-BJu2eWWTZ0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</div>
+			<div class="frame_comp col-xl-6 col-lg-8">
+				<iframe style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px" src="https://www.youtube.com/embed/VfUZJw9__B8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</div>
 		</div>
 </section>
@@ -40,7 +47,7 @@
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 			<div class="col-md-4 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
 				<div class="card mx-auto">
-					<img src="{{ url('assets/img/theme.svg')}}" class="card-img-top" alt="...">
+					<img src="{{ url('assets/img/Theme_Desc.png')}}" class="card-img-top" alt="...">
 					<div class="card-body">
 						<div class="card-title"><h4 class="theme_competition">Theme Description</h4></div>
 					</div>
@@ -51,7 +58,7 @@
 			</div>
 			<div class="col-md-4 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
 				<div class="card mx-auto">
-					<img src="{{ url('assets/img/registration.svg')}}" class="card-img-top" alt="...">
+					<img src="{{ url('assets/img/Registration.png')}}" class="card-img-top" alt="...">
 					<div class="card-body">
 						<div class="card-title"><h4 class="theme_competition">Registration Competition</h4></div>
 					</div>
@@ -62,7 +69,7 @@
 			</div>
 			<div class="col-md-4 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
 				<div class="card mx-auto">
-					<img src="{{ url('assets/img/registration.svg')}}" class="card-img-top" alt="...">
+					<img src="{{ url('assets/img/FAQ_and_TRIVIA.png')}}" class="card-img-top" alt="...">
 					<div class="card-body">
 						<div class="card-title"><h4 class="theme_competition">FAQ & Trivia</h4></div>
 					</div>

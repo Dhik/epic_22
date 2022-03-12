@@ -1,12 +1,12 @@
 @extends('layout.temp_pprf') 
-@section('title','Epicentrum - The 9 th Padjadjaran Public Relations Fair') 
+@section('title','Epicentrum - The 10th Padjadjaran Public Relations Fair') 
 @section('content') 
 <!-- ======= Hero Section ======= -->
 <section id="hero" class="d-flex align-items-center justify-content-center ">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title_li">THE 9TH PADJADJARAN PUBLIC RELATIONS FAIR</h1>
+			<h1 class="comp_title_li">THE 10TH PADJADJARAN PUBLIC RELATIONS FAIR</h1>
 			<h2></h2>
 		</div>
     </div>
@@ -16,8 +16,9 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
-			<p class="desc_ideation">&emsp;&emsp; <b>OlymPRDay</b> is one of the two competitions based on Public Relations Strategic Planning. This competition requires participants to be able to solve the problem through research skill, teamwork, and also creativity. The output of OlymPRDay is a Campaign Proposal as a systematic, planned, interesting, and creative solution strategy for the issues raised.</p>
-			<p class="desc_ideation">&emsp;&emsp; <b>Public Relations Student Forum (PRSF)</b> is one of the two competitions in The 9th Padjadjaran Public Relations Fair (PPRF), where the competition takes form in a panel discussion forum which emphasizes on Public Relations perspective in order to create feasible solutions. The participants, which called delegates, will undergo several formal sessions and informal sessions during PRSF with full English as the working language, in which they must propose their unique solutions based on Public Relations perspective and through their problem-solving ability, in-depth research, public speaking, lobbying and negotiation. The final output of PRSF is expected to generate a Draft Resolution which contains recommendations related to the issue and gives significant contributions in solving nations problem to the relevant institutions.</p>
+			<p class="desc_ideation">&emsp;&emsp; <b> Padjadjaran Public Relations Fair </b> is a national and international level communication student competition organized by Hima Humas Fikom Unpad and has been held for 9 consecutive years. This year, PPRF is under the support of the Epicentrum of Padjadjaran University along with 6 other competitions. PPRF has 2 branches of competition, which are OlymPRday and PRSF (Public Relations Student Forum).</p>
+			<p class="desc_ideation">&emsp;&emsp; <b>OlymPRDay</b> → OlymPRday is one of the two competitions based on Public Relations Strategic Planning. This competition requires participants to be able to solve the problem through research skills, teamwork, and also creativity. The output of OlymPRday is a Campaign Proposal as a systematic, planned, interesting, and creative solution strategy for the issues raised.</p>
+			<p class="desc_ideation">&emsp;&emsp; <b>PRSF</b> → Public Relations Student Forum (PRSF) is one of the two competitions in The 10th Padjadjaran Public Relations Fair (PPRF), where the competition takes form in a panel discussion forum that emphasizes on Public Relations perspective in order to create feasible solutions. The participants, which are called delegates, will undergo several formal sessions and informal sessions during PRSF with full English as the working language, in which they must propose their unique solutions based on Public Relations perspective and through their problem-solving ability, in-depth research, public speaking, lobbying, and negotiation. The final output of PRSF is to generate a Draft Resolution that contains recommendations related to the issue and gives significant contributions in solving the nation's problem to the relevant institutions.</p>
 		</div>
     </div>
 </div>
@@ -29,8 +30,14 @@
 			<div class="col-xl-6 col-lg-8">
 				<h1 class="comp_title_li">TEASER</h1>
 			</div>
-			<div class="frame_comp">
-				<iframe style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px" src="https://www.youtube.com/embed/IgCNQkJ8meU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<div class="col-xl-6 col-lg-8">
+				<h1 class="comp_title_li">MORE ABOUT US</h1>
+			</div>
+			<div class="frame_comp col-xl-6 col-lg-8">
+				<iframe style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px" src="https://www.youtube.com/embed/wxGd_ZU8kZs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</div>
+			<div class="frame_comp col-xl-6 col-lg-8">
+				<iframe style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px" src="https://www.youtube.com/embed/qF0NF7ggcQs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</div>
 		</div>
 </section>
@@ -41,7 +48,7 @@
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 			<div class="col-md-4 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
 				<div class="card mx-auto">
-					<img src="{{ url('assets/img/theme.svg')}}" class="card-img-top" alt="...">
+					<img src="{{ url('assets/img/Theme_Desc.png')}}" class="card-img-top" alt="...">
 					<div class="card-body">
 						<div class="card-title"><h4 class="theme_competition">Theme Description</h4></div>
 					</div>
@@ -52,7 +59,7 @@
 			</div>
 			<div class="col-md-4 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
 				<div class="card mx-auto">
-					<img src="{{ url('assets/img/registration.svg')}}" class="card-img-top" alt="...">
+					<img src="{{ url('assets/img/Registration.png')}}" class="card-img-top" alt="...">
 					<div class="card-body">
 						<div class="card-title"><h4 class="theme_competition">Registration Competition</h4></div>
 					</div>
@@ -63,7 +70,7 @@
 			</div>
 			<div class="col-md-4 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
 				<div class="card mx-auto">
-					<img src="{{ url('assets/img/registration.svg')}}" class="card-img-top" alt="...">
+					<img src="{{ url('assets/img/FAQ_and_TRIVIA.png')}}" class="card-img-top" alt="...">
 					<div class="card-body">
 						<div class="card-title"><h4 class="theme_competition">FAQ & Trivia</h4></div>
 					</div>

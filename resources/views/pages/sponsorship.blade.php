@@ -16,7 +16,7 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
-			<p class="desc_sponsor"><b>We are open for sponsors and media partners!</b> For more information kindly contact us trough:</p>
+			<p class="desc_sponsor">We are open for sponsors and media partners! For more information kindly contact us trough:</p>
 		</div>
     </div>
 </div>
@@ -26,10 +26,10 @@
 	<div class="row justify-content-center text-center">
 			<div class="col-xl-4 col-sm-6 mb-5">
 			    <div class="contact_person rounded shadow-sm py-5 px-4">
-			        <h5 class="mb-0">Fatah</h5><span class="small text-uppercase text-muted text-center">081390181846 : Telephone (Non WA)</span>
+			        <h5 class="mb-0">Gracetiar B. Nainggolan</h5><span class="small text-uppercase text-muted text-center">0812-9104-2100 (Whatsapp)</span>
 			            <ul class="social mb-0 list-inline mt-3">
-			                <li class="list-inline-item"><a href="https://wa.me/6281542628336" class="social-link"><i class="fa-2x fab fa-whatsapp-square"></i></a></li>
 			              	<li class="list-inline-item"><a href="http://line.me/ti/p/~ainulfatah20" class="social-link"><i class="fa-2x fab fa-line"></i></a></li>
+			              	<li class="list-inline-item"><a href="mailto:marketing.epicentrum@gmail.com" class="social-link"><i class="fa-2x fa fa-envelope"></i></a></li>
 			            </ul>
 			    </div>
 			</div>

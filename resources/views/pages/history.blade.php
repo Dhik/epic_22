@@ -6,7 +6,7 @@
 <div class="container-fluid">
     <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="about">EPICENTRUM 2021</h1>
+			<h1 class="about">EPICENTRUM 2022</h1>
 		</div>  
     </div>
 </div>
@@ -14,15 +14,12 @@
 <div class="container-fluid">
     <div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-            <h1 class="invi">See The Invisible</h1>
+            <h1 class="invi">About Us</h1>
                 <div class="desc_history">
-                    <h2 class="text-justify">Epicentrum 2019 on Monday 28-30 October 2019 in collaboration with the Indonesian Ministry of Health also presented several resource persons from different backgrounds, such as Ade Binarko as the founder of the mental health community SehatMental.ID, Dr. Jiemi Ardian, Sp.KJ. as a psychiatrist, Enrico Rozin as a caregiver, and Fidiansyah, Sp.KJ., MPH. as Director of Prevention and Control of Mental Health and Drug Problems, Ministry of Health of the Republic of Indonesia.</h2>
-                    <ul>
-                        <li><h2 class="text-justify">Epicentrum 2019 was attended by 159 participants from various universities in Indonesia.</h2></li>
-                        <li><h2 class="text-justify">Epicentrum collaborates with the Indonesian Ministry of Health, West Java, GERMAS, Bipolar Care Indonesia, the Healthy Indonesia Partnership Foundation, and others.</h2></li>
-                        <li><h2 class="text-justify">The 2019 Epicentrum series of events also received mass media attention such as Trans7, Pikiran Rakyat, iNews Bandung, Oke TV, Hipwee, OZ Radio Bandung, and others.</h2></li>
-                        <li><h2 class="text-justify">The series of events closed with an awarding night which also invited Kunto Aji as a guest star located at Gedung Sate, Bandung.</h2></li>
-                    </ul>
+                    <h2 class="text-justify"> &emsp;&emsp; Epicentrum is the largest annual international-scale communication festival in Indonesia held by the Faculty of Communication Science, Universitas Padjadjaran (Fikom Unpad). This festival is a forum for the younger generation, especially students, to contribute and realize their role as agents of change in solving various problems in society through a communication point of view.</h2>
+                    <h2 class="text-justify"> &emsp;&emsp; Youngsters are expected to create the best works and innovations as solutions to real problems by integrating Pentahelix, which includes ABCGM (Academician, Business, Community, Government, and Media) to achieve Epicentrum's goals. In collaboration with the seven competitions from each study program at Fikom Unpad, Epicentrum held a series of competitions, webinars, talk shows, and online workshops. All competition subjects consist of Research Mindedness, Ideation, Liblicious, Parade Jurnalistik, The 10th Padjadjaran Public Relations Fair (Public Relations Student Forum (PRSF) and OlymPRday), Tell A Vision, and Mediation. The seven competitions focus on solving national to global problems which will be linked to their respective scientific focus. This year, Public Relations Student Forum (PRSF) from The 10th Padjadjaran Public Relations Fair, Research Mindedness, Commoviecator, and Ideation can be competed internationally all around Asia.</h2>
+                    <h2 class="text-justify"> &emsp;&emsp; In comparison with the previous year, Epicentrum 2022 is here to raise awareness of issues related to overcoming the global climate crisis. Epicentrum 2022 promoted one of the SDGs themes, climate action, later packaged as Earthmergency Call. This theme comes with the tagline "Action against climate disruption." To avoid the new extreme situation that could even be predicted to exceed the impact of the Covid-19 pandemic, innovative action is needed to address the global climate crisis. Therefore, this year, Epicentrum 2022 challenges Youngsters to contribute as an agent of change in solving the problem through a communication perspective.</h2>
+                    <h2 class="text-justify"> &emsp;&emsp; We hope that Epicentrum can be used as an activity that can unite all departments in the Faculty of Communication Sciences in Asia to strengthen a sense of togetherness. Thus, Epicentrum is not only realized as a festival and competition, but also as a concrete manifestation of the contribution of all students and communication personnel in Asia to problems in the country.</h2>
                 </div>
         </div>
     </div>

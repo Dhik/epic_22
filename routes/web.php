@@ -22,7 +22,7 @@ use App\Http\Controllers\Admin\AdminFinalistController;
 |
 */
 Route::get('/','App\Http\Controllers\HomeController@index')->name('landing');
-Route::get('/history','App\Http\Controllers\PageController@history')->name('history');
+Route::get('/about','App\Http\Controllers\PageController@history')->name('history');
 Route::get('/competition','App\Http\Controllers\PageController@competition')->name('competition');
 Route::get('/art_exhibition','App\Http\Controllers\PageController@art_ex')->name('art_ex');
 Route::get('/contact','App\Http\Controllers\PageController@contact')->name('contact');
@@ -110,10 +110,10 @@ Route::prefix('admin')->group(function () {
     });
 });
 
-Route::get('/the-9th-pprf','App\Http\Controllers\PageController@pprf')->name('pprf');
-Route::get('/the-9th-pprf_theme','App\Http\Controllers\PageController@pprf_theme')->name('pprf_theme');
-Route::get('/the-9th-pprf_registration','App\Http\Controllers\PageController@pprf_registration')->name('pprf_registration');
-Route::get('/the-9th-pprf_FAQTrivia','App\Http\Controllers\PageController@pprf_faqtrivia')->name('pprf_faqtrivia');
+Route::get('/the-10th-pprf','App\Http\Controllers\PageController@pprf')->name('pprf');
+Route::get('/the-10th-pprf_theme','App\Http\Controllers\PageController@pprf_theme')->name('pprf_theme');
+Route::get('/the-10th-pprf_registration','App\Http\Controllers\PageController@pprf_registration')->name('pprf_registration');
+Route::get('/the-10th-pprf_FAQTrivia','App\Http\Controllers\PageController@pprf_faqtrivia')->name('pprf_faqtrivia');
 
 Route::get('/research-mindedness','App\Http\Controllers\PageController@remind')->name('remind');
 Route::get('/research-mindedness_theme','App\Http\Controllers\PageController@remind_theme')->name('remind_theme');
@@ -125,10 +125,10 @@ Route::get('/ideation_theme','App\Http\Controllers\PageController@ideation_theme
 Route::get('/ideation_registration','App\Http\Controllers\PageController@ideation_registration')->name('ideation_registration');
 Route::get('/ideation_FAQTrivia','App\Http\Controllers\PageController@ideation_faqtrivia')->name('ideation_faqtrivia');
 
-Route::get('/tell-a-vision','App\Http\Controllers\PageController@tav')->name('tav');
-Route::get('/tell-a-vision_theme','App\Http\Controllers\PageController@tav_theme')->name('tav_theme');
-Route::get('/tell-a-vision_registration','App\Http\Controllers\PageController@tav_registration')->name('tav_registration');
-Route::get('/tell-a-vision_FAQTrivia','App\Http\Controllers\PageController@tav_faqtrivia')->name('tav_faqtrivia');
+Route::get('/commoviecator','App\Http\Controllers\PageController@tav')->name('tav');
+Route::get('/commoviecator_theme','App\Http\Controllers\PageController@tav_theme')->name('tav_theme');
+Route::get('/commoviecator_registration','App\Http\Controllers\PageController@tav_registration')->name('tav_registration');
+Route::get('/commoviecator_FAQTrivia','App\Http\Controllers\PageController@tav_faqtrivia')->name('tav_faqtrivia');
 
 
 Route::get('/mediation','App\Http\Controllers\PageController@mediation')->name('mediation');

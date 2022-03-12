@@ -16,8 +16,7 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
-			<p class="desc_ideation">&emsp;&emsp; Journalistic Parade (Parade Jurnalistik) is the annual journalism competition held by Journalism Student Association of Padjadjaran University (Himpunan Mahasiswa Jurnalistik Universitas Padjadjaran). Journalistic Parade is one of six competitions in Epicentrum: Padjadjaran Communication Festival 2021 which is held by Communication Science Faculty of Padjadjaran University.</p>
-			<p class="desc_ideation">&emsp;&emsp; This year, Epicentrum carries the theme, “Indonesia Recovery”, while Journalistic Parade 2021 carries the theme, “Innovation: All Around You” which gives the needle for Generation Z to innovate new ways for media to adapt in a post pandemic world. The Journalistic Parade contains the thoughts and ideas of students around Indonesia, and also gives a new outlook for the media's solution in the post pandemic world. In a post pandemic world, adaptation and innovation are definitely needed for the media.</p>
+			<p class="desc_ideation">&emsp;&emsp; <b> Parade Jurnalistik (ParJur) </b> merupakan kompetisi tahunan jurnalistik mahasiswa S1/Diploma/Sederajat tingkat nasional persembahan program studi Jurnalistik Fakultas Ilmu Komunikasi Universitas Padjadjaran. Di bawah naungan Epicentrum Fikom Unpad. Setiap tahunnya Parade Jurnalistik berfokus pada isu aktual. Peserta ditantang untuk membuat produk jurnalistik berbasis perspektif jurnalisme sains yang dapat meningkatkan kesadaran dan kepedulian masyarakat atas isu terkini yang menjadi kekhawatiran publik. Kompetisi ini bertujuan untuk mencari jurnalis-jurnalis muda yang dapat menciptakan produk jurnalistik yang menarik serta bersifat aktual dan faktual sehingga dapat bermanfaat bagi masyarakat luas.</p>
 		</div>
     </div>
 </div>
@@ -29,8 +28,14 @@
 			<div class="col-xl-6 col-lg-8">
 				<h1 class="teaser">TEASER</h1>
 			</div>
-			<div class="frame_comp">
-				<iframe style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px" src="https://www.youtube.com/embed/001XJFzUMEk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<div class="col-xl-6 col-lg-8">
+				<h1 class="teaser">MORE ABOUT US</h1>
+			</div>
+			<div class="frame_comp col-xl-6 col-lg-8">
+				<iframe style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px" src="https://www.youtube.com/embed/nBATrc-InSU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</div>
+			<div class="frame_comp col-xl-6 col-lg-8">
+				<iframe style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px" src="https://www.youtube.com/embed/n6Qfefcz5jQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</div>
 		</div>
 </section>
@@ -41,7 +46,7 @@
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 			<div class="col-md-4 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
 				<div class="card mx-auto">
-					<img src="{{ url('assets/img/theme.svg')}}" class="card-img-top" alt="...">
+					<img src="{{ url('assets/img/Theme_Desc.png')}}" class="card-img-top" alt="...">
 					<div class="card-body">
 						<div class="card-title"><h4 class="theme_competition">Theme Description</h4></div>
 					</div>
@@ -52,7 +57,7 @@
 			</div>
 			<div class="col-md-4 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
 				<div class="card mx-auto">
-					<img src="{{ url('assets/img/registration.svg')}}" class="card-img-top" alt="...">
+					<img src="{{ url('assets/img/Registration.png')}}" class="card-img-top" alt="...">
 					<div class="card-body">
 						<div class="card-title"><h4 class="theme_competition">Registration Competition</h4></div>
 					</div>
@@ -63,7 +68,7 @@
 			</div>
 			<div class="col-md-4 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
 				<div class="card mx-auto">
-					<img src="{{ url('assets/img/registration.svg')}}" class="card-img-top" alt="...">
+					<img src="{{ url('assets/img/FAQ_and_TRIVIA.png')}}" class="card-img-top" alt="...">
 					<div class="card-body">
 						<div class="card-title"><h4 class="theme_competition">FAQ & Trivia</h4></div>
 					</div>

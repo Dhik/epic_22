@@ -19,7 +19,11 @@
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
 			<ul class="participant_terms">
+<<<<<<< HEAD
 				<li>A team must consist of <b>3 (three) students</b>. Students in one team could come from various majors as long as they come from the same university.</li>
+=======
+				<li>A team must consist of <b> 3 (three) students </b>. Students in one team could come from various majors as long as they come from the same university.</li>
+>>>>>>> cd69766ccf5ad8387c88bf01f58c4f682d7c61f5
 				<li>Undergraduate students who are currently and actively attending studies in a diploma or bachelor degree program until May 2022.</li>
 				<li>Every university can register more than one team.</li>
 				<li>Each team is only allowed to submit one research work.</li>
@@ -44,9 +48,16 @@
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
 			<ul class="participant_terms">
+<<<<<<< HEAD
 				<li>Registration fee for the competition is  <b>IDR 175,000 or USD 12.5 or SGD  16.5</b> and has to be paid to these accounts: <b>BCA : 6050 4867 19 (Tifanny Hertantiningsih) or Jenius: 90380117217 (Meizya Rahmita Fajria)</b> before proceeding to the competition form.</li>
 				<li>Fill out the registration form at our website epicentrum.fikom.unpad.ac.id</li>
 				<li>After that, the brief will be given via email to the team leader.</li>
+=======
+				<li>Registration fee for the competition is IDR 175,000 or USD 12.5 or SGD  16.5 and has to be paid to these accounts: <br>
+					<b> BCA: 6050 4867 19 (Tifanny Hertantiningsih) or Jenius: 90380117217 (Meizya Rahmita Fajria) </b> before proceeding to the competition form. </li>
+				<li>Fill out the registration form at our website epicentrum.fikom.unpad.ac.id  </li>
+				<li>After that, the brief will be given via email to the team leader. </li>
+>>>>>>> cd69766ccf5ad8387c88bf01f58c4f682d7c61f5
 			</ul>
 		</div>
     </div>
@@ -93,19 +104,33 @@
 	<div class="row justify-content-center text-center">
 			<div class="col-xl-4 col-sm-6 mb-5">
 			    <div class="contact_person rounded shadow-sm py-5 px-4">
+<<<<<<< HEAD
 			        <h5 class="mb-0">Arshila Citra Khoirunnisa</h5><span class="small text-uppercase text-muted text-center">082121030254</span></br>
 			            <ul class="social mb-0 list-inline mt-3">
 			                <li class="list-inline-item"><a href="http://line.me/ti/p/~rshlctr" class="social-link"><i class="fa-2x fab fa-line"></i></a></li>
 							<li class="list-inline-item"><a href="mailto:arshilacitra68@gmail.com" class="social-link"><i class="fa-2x fas fa-envelope"></i></a></li>
+=======
+			        <h5 class="mb-0">Arshila Citra Khoirunnisa</h5><span class="small text-uppercase text-muted text-center">082121030254</span>
+			            <ul class="social mb-0 list-inline mt-3">
+			                <li class="list-inline-item"><a href="http://line.me/ti/p/~rshlctr" class="social-link"><i class="fa-2x fab fa-line"></i></a></li>
+			                <li class="list-inline-item"><a href="mailto:arshilacitra68@gmail.com" class="social-link"><i class="fa fa-2x fa-envelope"></i></a></li>
+>>>>>>> cd69766ccf5ad8387c88bf01f58c4f682d7c61f5
 			            </ul>
 			    </div>
 			</div>
 			<div class="col-xl-4 col-sm-6 mb-5">
 			    <div class="contact_person rounded shadow-sm py-5 px-4">
+<<<<<<< HEAD
 			        <h5 class="mb-0">Siti Halimatus Sa'adah</h5><span class="small text-uppercase text-muted">081214008142</span></br>
 			            <ul class="social mb-0 list-inline mt-3">
 			                <li class="list-inline-item"><a href="http://line.me/ti/p/~sitihalimatus1" class="social-link"><i class="fa-2x fab fa-line"></i></a></li>
 							<li class="list-inline-item"><a href="mailto:sitihs12@gmail.com" class="social-link"><i class="fa-2x fas fa-envelope"></i></a></li>
+=======
+			        <h5 class="mb-0">Siti Halimatus Sa'adah</h5><span class="small text-uppercase text-muted">081214008142</span>
+			            <ul class="social mb-0 list-inline mt-3">
+			                <li class="list-inline-item"><a href="http://line.me/ti/p/~sitihalimatus1" class="social-link"><i class="fa-2x fab fa-line"></i></a></li>
+			                <li class="list-inline-item"><a href="mailto:sitihs12@gmail.com" class="social-link"><i class="fa fa-2x fa-envelope"></i></a></li>
+>>>>>>> cd69766ccf5ad8387c88bf01f58c4f682d7c61f5
 			            </ul>
 			    </div>
 			</div>
@@ -117,8 +142,8 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="about" style="padding-bottom:10px;">RESEARCH MINDEDNESS 2021 OPEN REGISTRATION</h1>
-			<a href="http://bit.ly/RegistrationRemind2021" type="button" class="btn btn-primary btn-lg btn-block">Registration</a>
+			<h1 class="about" style="padding-bottom:10px;">RESEARCH MINDEDNESS 2022 OPEN REGISTRATION</h1>
+			<a href="https://bit.ly/RegistrationRemind2022" type="button" class="btn btn-primary btn-lg btn-block">Registration</a>
 		</div>
     </div>
 </div>

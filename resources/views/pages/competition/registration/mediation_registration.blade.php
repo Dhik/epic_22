@@ -9,7 +9,7 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title_li">Participant Requirements</h1>
+			<h1 class="comp_title_li">Participant Terms</h1>
 		</div>
     </div>
 </div>
@@ -20,14 +20,13 @@
 		<div class="col-xl-10 col-lg-8">
 			<div class="desc_overlay">
 			<ul class="desc_medi" type="a">
-				<li>Participants are active students from universities throughout Indonesia.</li>
-				<li>One team consists of 3-5 people. Allowed to come from different departments and faculties as long as they still come from the same university.</li>
-				<li>Recorded as an active student, both Diploma and S1.</li>
-				<li>Each university is allowed to send more than one team. Each team is only allowed to submit one work containing the three outputs described above.</li>
-				<li>Participants must read and understand the applicable terms and conditions.</li>
-				<li>Participants are required to fill out the registration form and complete the specified data.</li>
-				<li>Pay a fee of Rp. 150,000 (to BCA Account No. 7360600712 in the name of Denisa Putri S).</li>
-				<li>The committee has the right to disqualify participants who do not comply with applicable regulations.</li>
+				<li>Peserta merupakan mahasiswa aktif D3, D4 dan S1 dari Universitas di Indonesia.</li>
+				<li>Dalam 1 tim terdiri dari 3-5 mahasiswa. Diperbolehkan berasal dari jurusan dan fakultas yang berbeda, selama masih berasal dari universitas yang sama.</li>
+				<li>Setiap universitas diperbolehkan mengirimkan lebih dari 1 tim. Masing-masing tim hanya boleh mengumpulkan 1 hasil karya yang terdiri dari 3 output lomba (Video, Audio, dan Poster digital).</li>
+				<li>Peserta wajib membaca dan memahami syarat dan ketentuan perlombaan.</li>
+				<li>Peserta wajib mengisi formulir registrasi dan memenuhi kelengkapan data yang dibutuhkan.</li>
+				<li>Membayar biaya registrasi sebanyak Rp. 150.000 ke BRI 0893 0104 0210 533 an Salma Syifa Salsabil.</li>
+				<li>Panitia berhak untuk mendiskualifikasi peserta yang tidak mengikuti syarat dan ketentuan yang berlaku.</li>
 			</ul>
 			</div>
 		</div>
@@ -39,7 +38,7 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title_li">Conditions of Registration</h1>
+			<h1 class="comp_title_li">Registration Terms</h1>
 		</div>
     </div>
 </div>
@@ -50,12 +49,11 @@
 		<div class="col-xl-10 col-lg-8">
 			<div class="desc_overlay">
 			<ul class="desc_medi" type="1">
-				<li>Fill out the registration form at http://bit.ly/FormulirMediation2021  via the Epicentrum website.</li>
-				<li>Pay a registration fee of Rp. 150,000 (to BCA Account No. 7360600712 in the name of Denisa Putri S). </li>
-				<li>Confirm payment to Denisa Putri S (Id Line: denisasalsabila_) with the format of BUKTI PEMBAYARAN_NAMA TIM_ASAL UNIVERSITAS.</li>
-				<li>Participants attach files in the form of a scanned KTP and KTM on the available form in the format KTM/KTP_NAMA TIM_NAMA LENGKAP ANGGOTA.</li>
-				<li>After registering, participants will receive a registration number and a complete brief which will be sent to the team leader email.</li>
-				<li>Participants who do not complete the data will be considered resigned.</li>
+				<li>Mengisi formulir registrasi yang terdapat pada website Epicentrum (epicentrum.fikom.unpad.ac.id)</li>
+				<li>Membayar biaya registrasi sebanyak Rp. 150.000 ke BRI 0893 0104 0210 533 an Salma Syifa Salsabil dan memasukkan bukti pembayaran ke formulir pendaftaran dengan format nama BUKTIPEMBAYARAN_NAMA TIM.</li>
+				<li>Melampirkan berkas berupa scan Kartu Tanda Mahasiswa (KTM) ketua tim pada formulir pendaftaran dengan format nama KTM_NAMA TIM_ NAMA LENGKAP KETUA TIM</li>
+				<li>Setelah menyelesaikan proses registrasi, peserta akan mendapatkan nomor registrasi beserta formulir kedua (data anggota tim) dan brief perlombaan yang akan dikirimkan melalui email.</li>
+				<li>Peserta yang tidak melengkapi data dianggap mengundurkan diri.</li>
 			</ul>
 			</div>
 		</div>
@@ -79,17 +77,20 @@
 	<div class="row justify-content-center text-center">
 			<div class="col-xl-4 col-sm-6 mb-5">
 			    <div class="contact_person rounded shadow-sm py-5 px-4">
-			        <h5 class="mb-0">Fauzan</h5><span class="small text-uppercase text-muted text-center">08987139184</span>
+			        <h5 class="mb-0">Salma Aqsa</h5><span class="small text-uppercase text-muted text-center">082130871994</span>
 			            <ul class="social mb-0 list-inline mt-3">
-			                <li class="list-inline-item"><a href="http://line.me/ti/p/~fauzanabdllh" class="social-link"><i class="fa-2x fab fa-line"></i></a></li>
+			                <li class="list-inline-item"><a href="http://line.me/ti/p/~salmaannsqs" class="social-link"><i class="fa-2x fab fa-line"></i></a></li>
+							<li class="list-inline-item"><a href="mailto:salmaannisaaqsa@gmail.com" class="social-link"><i class="fa-2x fas fa-envelope"></i></a></li>
+
 			            </ul>
 			    </div>
 			</div>
 			<div class="col-xl-4 col-sm-6 mb-5">
 			    <div class="contact_person rounded shadow-sm py-5 px-4">
-			        <h5 class="mb-0">Adel</h5><span class="small text-uppercase text-muted text-center">081908825160</span>
+			        <h5 class="mb-0">Lusi Rahmawati</h5><span class="small text-uppercase text-muted text-center">088212636423</span>
 			            <ul class="social mb-0 list-inline mt-3">
-			                <li class="list-inline-item"><a href="http://line.me/ti/p/~adellawrd" class="social-link"><i class="fa-2x fab fa-line"></i></a></li>
+			                <li class="list-inline-item"><a href="http://line.me/ti/p/~rhmwtlusi" class="social-link"><i class="fa-2x fab fa-line"></i></a></li>
+							<li class="list-inline-item"><a href="mailto:lusirahmawati991@gmail.com" class="social-link"><i class="fa-2x fas fa-envelope"></i></a></li>
 			            </ul>
 			    </div>
 			</div>
@@ -101,8 +102,8 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="about" style="padding-bottom:10px;">MEDIATION 2021 OPEN REGISTRATION</h1>
-			<a href="http://bit.ly/FormulirMediation2021" type="button" class="btn btn-primary btn-lg btn-block">Registration</a>
+			<h1 class="about" style="padding-bottom:10px;">MEDIATION 2022 OPEN REGISTRATION</h1>
+			<a href="https://bit.ly/FormMediation2022" type="button" class="btn btn-primary btn-lg btn-block">Registration</a>
 		</div>
     </div>
 </div>

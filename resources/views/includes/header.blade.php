@@ -23,7 +23,7 @@
               <li><a href="{{ route('mediation') }}">Mediation</a></li>
               <li><a href="{{ route('liblicious') }}">Liblicious</a></li>
               <li><a href="{{ route('parjur') }}">Parade Jurnalistik</a></li>
-              <li><a href="{{ route('pprf') }}">The 9th PPRF</a></li>
+              <li><a href="{{ route('pprf') }}">The 10th PPRF</a></li>
             </ul>
           </li>
           <li><a href="{{ route('art_ex') }}">Art Exhibition</a></li>
