@@ -47,10 +47,39 @@
 			<ul class="desc_ideation">
 				<li>Registration fee for the competition is IDR 150.000 or USD 10.5 and has to be paid to BCA 6801238901 p.p Kania Dewi before proceeding to the competition form.</li>
 				<li>Fill out the registration form at our website epicentrum.fikom.unpad.ac.id</li>
+<<<<<<< HEAD
+				<li>For a maximum of 24 hours, the first brief will be sent to your team leader’s email.</li>
+=======
 				<li>For a maximum of 24 hour,  the first brief will be sent to your team leader’s email.</li>
+>>>>>>> cd69766ccf5ad8387c88bf01f58c4f682d7c61f5
 			</ul>
 		</div>
     </div>
+</div>
+</section>
+
+
+<section class="d-flex align-items-center justify-content-center" >
+<div class="container" data-aos="fade-up">
+	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+		<div class="col-xl-7 col-lg-8">
+			<h1 class="art_ex">Open Registration</h1>
+		</div>
+    </div>
+</div>
+</section>
+<section class="competition-section">
+<div class="container">
+	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+			<div class="col-md-6 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
+				<div class="card mx-auto">
+					<img src="{{ url('assets/img/Registration.png')}}" class="card-img-top" alt="...">
+					<div class="card-footer">
+						<a href="https://bit.ly/JoinIdeation2022" class="btn-block btn-read mt-2 py-2 mx-auto"><p><b>Registration</b></p></a>
+					</div>
+				</div>
+			</div>
+	</div>
 </div>
 </section>
 
@@ -81,7 +110,7 @@
 </div>
 </section>
 
-<section class="d-flex align-items-center justify-content-center cont">
+<!-- <section class="d-flex align-items-center justify-content-center cont">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
@@ -90,5 +119,5 @@
 		</div>
     </div>
 </div>
-</section>
+</section> -->
 @endsection

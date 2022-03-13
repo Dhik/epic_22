@@ -386,6 +386,15 @@
           font-family: "Montserrat", sans-serif;
           text-align: center;
         }
+
+        p.theme-title-desc{
+          margin-bottom: 20px;
+          font-size: 20px;
+          line-height: 30px;
+          color: #fff;
+          font-family: "Montserrat", sans-serif;
+          text-align: center;
+        }
   
   p.theme-title-white{
         margin: 0;

@@ -16,7 +16,11 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
+<<<<<<< HEAD
+			<p class="desc_ideation">&emsp;&emsp; <b>Ideation 2022</b> is one of Epicentrum's 2022 competition branches that focuses on constructing communication strategies to solve social issues, specifically climate change. Ideation invites participants to think more creatively, train their research and analytical skills, and discover the most effective communication strategies in the form of social campaigns. Participants will compete to create the best creative proposal and pitch deck regarding the most effective communication strategies to educate people about the impacts of ongoing climate change. Besides competition, Ideation 2022 conducts other activities, such as workshops to provide valuable insights for the participants and webinars for the general public.</p>
+=======
 			<p class="desc_ideation">&emsp;&emsp; <b> Ideation 2022 </b> is one of Epicentrum's 2022 competition branches that focuses on constructing communication strategies to solve social issues, specifically climate change. Ideation invites participants to think more creatively, train their research and analytical skills, and discover the most effective communication strategies in the form of social campaigns. Participants will compete to create the best creative proposal and pitch deck regarding the most effective communication strategies to educate people about the impacts of ongoing climate change. Besides competition, Ideation 2022 conducts other activities, such as workshops to provide valuable insights for the participants and webinars for the general public. </p>
+>>>>>>> cd69766ccf5ad8387c88bf01f58c4f682d7c61f5
 		</div>
     </div>
 </div>
@@ -28,6 +32,22 @@
 			<div class="col-xl-6 col-lg-8">
 				<h1 class="comp_title_li">TEASER</h1>
 			</div>
+<<<<<<< HEAD
+			<div class="frame_comp">
+				<iframe style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px" src="https://www.youtube.com/embed/cjpofzKwdTU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</div>
+		</div>
+</section>
+
+<section id="hero" class="d-flex align-items-center justify-content-center teas">
+	<div class="container pr-ex-center" data-aos="fade-up">
+		<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+			<div class="col-xl-6 col-lg-8">
+				<h1 class="comp_title_li">More About Us</h1>
+			</div>
+			<div class="frame_comp">
+				<iframe style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px" src="https://www.youtube.com/embed/CFHY2c6-KOA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+=======
 			<div class="col-xl-6 col-lg-8">
 				<h1 class="comp_title_li">MORE ABOUT US</h1>
 			</div>
@@ -36,6 +56,7 @@
 			</div>
 			<div class="frame_comp col-xl-6 col-lg-8">
 				<iframe style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px" src="https://youtube.com/embed/CFHY2c6-KOA " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+>>>>>>> cd69766ccf5ad8387c88bf01f58c4f682d7c61f5
 			</div>
 		</div>
 </section>

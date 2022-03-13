@@ -89,7 +89,7 @@
     </div>
 </div>
 </section>
-<section class="d-flex align-items-center justify-content-center" id="overlay">
+<section class="d-flex align-items-center justify-content-center" id='overlay'>
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
@@ -97,6 +97,7 @@
 				<li>The registration is opened on March, 15 - April, 15 2022 (including payment)</li>
 				<li>Participants send registration forms that have been filled in completely along with identification (Student Identity Card / Identity Card) of producers and directors along with proof of payment (united in one folder)</li>
 				<li>Participants make a payment of IDR 80.001.00 to the 90120164287 (Jenius) account under the name of Syifa Ananda Pratiwi and send proof of transfer on registration form column “Proof of Transfer” in <b> .jpg format </b> (add unique code 1 behind IDR 80.001.00 to facilitate data collection)</li>
+>>>>>>> cd69766ccf5ad8387c88bf01f58c4f682d7c61f5
 				<li>Participant representative confirm by sending a message through Whatsapp number 089648429197 (Tarisa) or to the ID Line of tarisaaans, with a statement that the team has fulfilled all registration.</li>
 			</ul>
 		</div>
@@ -104,6 +105,29 @@
 </div>
 </section>
 
+<section class="d-flex align-items-center justify-content-center" >
+<div class="container" data-aos="fade-up">
+	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+		<div class="col-xl-7 col-lg-8">
+			<h1 class="art_ex">Open Registration</h1>
+		</div>
+    </div>
+</div>
+</section>
+<section class="competition-section">
+<div class="container">
+	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+			<div class="col-md-6 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
+				<div class="card mx-auto">
+					<img src="{{ url('assets/img/Registration.png')}}" class="card-img-top" alt="...">
+					<div class="card-footer">
+						<a href="https://bit.ly/JoinCommoviecator2022" class="btn-block btn-read mt-2 py-2 mx-auto"><p><b>Registration</b></p></a>
+					</div>
+				</div>
+			</div>
+	</div>
+</div>
+</section>
 
 <section id="hero" class="d-flex align-items-center justify-content-center cont">
 <div class="container" data-aos="fade-up">
@@ -131,7 +155,7 @@
 </div>
 </section>
 
-<section class="d-flex align-items-center justify-content-center cont">
+<!-- <section class="d-flex align-items-center justify-content-center cont">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
@@ -140,5 +164,5 @@
 		</div>
     </div>
 </div>
-</section>
+</section> -->
 @endsection
