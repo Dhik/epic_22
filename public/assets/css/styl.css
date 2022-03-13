@@ -695,7 +695,7 @@
       overflow-x: hidden;
   }
 
-  body.about {
+  body.about_bg {
     background: url("../img/about_us.png") top no-repeat;
     background-size: cover;
     font-family: "Montserrat", sans-serif;
@@ -2501,5 +2501,24 @@
         color: #fff;
       }
   
-  
-      
+      #overlay {
+        position: relative;
+        display: none; 
+        width: 80%; 
+        height: 100%; 
+        background-color: rgba(255, 255, 255, 0.5); 
+        z-index: 2; 
+        margin: auto;
+        border-radius: 25px;
+      }
+
+      #overlay-dark {
+        position: relative;
+        display: none; 
+        width: 80%; 
+        height: 100%; 
+        background-color: rgba(0, 0, 0, 0.5); 
+        z-index: 2; 
+        margin: auto;
+        border-radius: 25px;
+      }

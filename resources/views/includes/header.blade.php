@@ -7,7 +7,7 @@
       <nav class="nav-menu d-none d-lg-block">
         <ul >
           <li><a href="{{ route('landing') }}">Home</a></li>
-          <li><a href="{{ route('history') }}">History</a></li>
+          <li><a href="{{ route('history') }}">About Us</a></li>
           <li class="drop-down"><a href="#">Event</a>
             <ul>
               <li><a href="{{ route('pre_event') }}">Pre Event</a></li>
@@ -26,7 +26,7 @@
               <li><a href="{{ route('pprf') }}">The 10th PPRF</a></li>
             </ul>
           </li>
-          <li><a href="{{ route('art_ex') }}">Art Exhibition</a></li>
+          <!-- <li><a href="{{ route('art_ex') }}">Art Exhibition</a></li> -->
           <li class="drop-down"><a href="">More</a>
             <ul>
               <li><a href="{{ route('contact') }}">Contact Us</a></li>

@@ -15,7 +15,7 @@
     </div>
 </div>
 </section>
-<section class="d-flex align-items-center justify-content-center">
+<section class="d-flex align-items-center justify-content-center" id="overlay">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
@@ -89,7 +89,7 @@
     </div>
 </div>
 </section>
-<section class="d-flex align-items-center justify-content-center">
+<section class="d-flex align-items-center justify-content-center" id="overlay">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">

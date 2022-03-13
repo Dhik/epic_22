@@ -35,7 +35,7 @@
     @stack('css')
 </head>
 
-<body class='about'>
+<body class='about_bg'>
 
   @include('includes.header')
 

@@ -12,11 +12,11 @@
     </div>
 </div>
 </section>
-<section class="d-flex align-items-center justify-content-center">
+<section class="d-flex align-items-center justify-content-center" id="overlay-dark">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
-			<div class="desc_overlay">
+			<div class="">
 			<p class="desc_medi">&emsp;&emsp; <b> Mediation (Media in Action) </b> adalah salah satu mata lomba Epicentrum Unpad dari Prodi Manajemen Produksi Media."</b></p>
 			<p class="desc_medi">&emsp;&emsp; Pada Mediation 2022, sub-tema yang digunakan adalah "Aksesibilitas Informasi Media terhadap Limbah Medis Rumah Tangga" dengan mengangkat konsep Production House yang mempunyai tiga output lomba yaitu videografi, audio, dan poster digital. Melalui sub-tema tersebut, Mediation 2022 berharap, dapat meningkatkan kesadaran masyarakat akan pentingnya pengelolaan limbah medis rumah tangga saat ini.</p>
 			</div>
@@ -43,7 +43,7 @@
 				</iframe>
 			</div>
 		</div>
-		</section>
+</section>
 
 <!-- Awal Button -->
 <section class="competition-section">

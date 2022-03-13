@@ -14,11 +14,11 @@
     </div>
 </div>
 </section>
-<section class="d-flex align-items-center justify-content-center">
+<section class="d-flex align-items-center justify-content-center" id="overlay-dark">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
-			<div class="desc_overlay">
+			<div class="">
 			<ul class="desc_medi" type="a">
 				<li>Peserta merupakan mahasiswa aktif D3, D4 dan S1 dari Universitas di Indonesia.</li>
 				<li>Dalam 1 tim terdiri dari 3-5 mahasiswa. Diperbolehkan berasal dari jurusan dan fakultas yang berbeda, selama masih berasal dari universitas yang sama.</li>
@@ -43,11 +43,11 @@
     </div>
 </div>
 </section>
-<section class="d-flex align-items-center justify-content-center">
+<section class="d-flex align-items-center justify-content-center" id="overlay-dark">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
-			<div class="desc_overlay">
+			<div class="">
 			<ul class="desc_medi" type="1">
 				<li>Mengisi formulir registrasi yang terdapat pada website Epicentrum (epicentrum.fikom.unpad.ac.id)</li>
 				<li>Membayar biaya registrasi sebanyak Rp. 150.000 ke BRI 0893 0104 0210 533 an Salma Syifa Salsabil dan memasukkan bukti pembayaran ke formulir pendaftaran dengan format nama BUKTIPEMBAYARAN_NAMA TIM.</li>

@@ -11,11 +11,11 @@
     </div>
 </div>
 </section>
-<section class="d-flex align-items-center justify-content-center">
+<section class="d-flex align-items-center justify-content-center" id="overlay-dark">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
-			<div class="desc_overlay">
+			<div>
 			<p class="desc_medi">&emsp;&emsp; Berdasarkan data yang disajikan oleh situs <a class="text-white" href="https://www.worldometers.info/coronavirus/"> https://www.worldometers.info/coronavirus/ </a>, Indonesia menduduki peringkat ke-17 dengan jumlah kasus Coronavirus terbanyak di dunia. Hal ini dibuktikan dengan jumlah korban yang terinfeksi mencapai 4.807.778 juta jiwa. Akibatnya, kasus Covid-19 kian meningkat setiap harinya dan membuat pemerintah menghimbau para warganya untuk selalu mengenakan masker berstandar medis serta menerapkan protokol kesehatan supaya dapat meminimalisir terjadinya penularan virus antar individu. Permasalahannya adalah hal ini dapat menyebabkan masker yang sudah tak terpakai akhirnya dikategorikan sebagai limbah medis yang membutuhkan penanganan khusus akibat dari penggunaan oleh masyarakat di setiap harinya. Menyadari pentingnya keberadaan media dalam perannya untuk mengamplifikasi, membangun, dan memantau kesadaran masyarakat pada penggunaan alat-alat medis. Maka dari itu, dengan dikaitkannya media dan limbah medis rumah tangga, diharapkan dapat membantu pemulihan permasalahan limbah medis rumah tangga yang sedang terjadi.</p>
 			</div>
 		</div>
@@ -32,11 +32,11 @@
     </div>
 </div>
 </section>
-<section class="d-flex align-items-center justify-content-center">
+<section class="d-flex align-items-center justify-content-center" id="overlay-dark">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
-			<div class="desc_overlay">
+			<div>
 			<p class="desc_ideation">&emsp;&emsp; <b>Q: Tiga output lomba berupa apa?</br></br></b>"Untuk output videografi dan audio berisikan iklan layanan masyarakat sesuai dengan tema Mediation 2022 yang telah ditentukan. Sedangkan output poster digital, berisikan gambaran dari output audio yang telah dibuat."</p>
 
             <p class="desc_ideation">&emsp;&emsp; <b>Q: Untuk pengiriman 3 output melalui apa? Dan setelah itu apakah masih ada hal yang perlu dilakukan?</br></br></b>"Pengiriman ketiga output dikumpulkan oleh masing-masing tim melalui gdrive yang akan panitia sediakan. Kemudian setiap tim nanti melakukan presentasi ketiga output yang akan dinilai oleh juri."</p>

@@ -14,7 +14,7 @@
 		</div>
 	</div>
 </section>
-<section class="d-flex align-items-center justify-content-center">
+<section class="d-flex align-items-center justify-content-center" id="overlay-dark">
 	<div class="container" data-aos="fade-up">
 		<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 			<div class="col-xl-10 col-lg-8">
@@ -29,12 +29,12 @@
 	<div class="container" data-aos="fade-up">
 		<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 			<div class="col-xl-7 col-lg-8">
-				<h1 class="comp_title_li">Ideation FAQ 2021</h1>
+				<h1 class="comp_title_li">Ideation FAQ 2022</h1>
 			</div>
 		</div>
 	</div>
 </section>
-<section class="d-flex align-items-center justify-content-center">
+<section class="d-flex align-items-center justify-content-center" id="overlay-dark">
 	<div class="container" data-aos="fade-up">
 		<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 			<div class="col-xl-10 col-lg-8">
