@@ -65,7 +65,7 @@
     <a href="{{ route('pprf') }}" class="unit-1 text-center">
         <img src="{{ url('assets/img/PPRF.png')}}" alt="Image" style="width: 80%; padding-top:20px;">
     </a>
-    <h3 class="sub-title-comp">THE 9TH PADJADJARAN PUBLIC RELATIONS FAIR</h3>
+    <h3 class="sub-title-comp">THE 10TH PADJADJARAN PUBLIC RELATIONS FAIR</h3>
   </div>
 </section>
 @endsection
