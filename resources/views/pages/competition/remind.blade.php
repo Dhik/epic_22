@@ -28,22 +28,6 @@
 			<div class="col-xl-6 col-lg-8">
 				<h1 class="teaser">TEASER</h1>
 			</div>
-<<<<<<< HEAD
-			<div class="frame_comp">
-				<iframe style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px" src="https://www.youtube.com/embed/eKoO8ez1i_s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			</div>
-		</div>
-</section>
-
-<section id="hero" class="d-flex align-items-center justify-content-center teas">
-	<div class="container pr-ex-center" data-aos="fade-up">
-		<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
-			<div class="col-xl-6 col-lg-8">
-				<h1 class="teaser">More About Us</h1>
-			</div>
-			<div class="frame_comp">
-				<iframe style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px" src="https://www.youtube.com/embed/c03MrTYI7qI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-=======
 			<div class="col-xl-6 col-lg-8">
 				<h1 class="teaser">MORE ABOUT US</h1>
 			</div>
@@ -52,7 +36,6 @@
 			</div>
 			<div class="frame_comp col-xl-6 col-lg-8">
 				<iframe style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px" src="https://youtube.com/embed/c03MrTYI7qI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
->>>>>>> cd69766ccf5ad8387c88bf01f58c4f682d7c61f5
 			</div>
 		</div>
 </section>

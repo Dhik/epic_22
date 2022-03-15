@@ -47,11 +47,7 @@
 			<ul class="desc_ideation">
 				<li>Registration fee for the competition is IDR 150.000 or USD 10.5 and has to be paid to BCA 6801238901 p.p Kania Dewi before proceeding to the competition form.</li>
 				<li>Fill out the registration form at our website epicentrum.fikom.unpad.ac.id</li>
-<<<<<<< HEAD
-				<li>For a maximum of 24 hours, the first brief will be sent to your team leader’s email.</li>
-=======
 				<li>For a maximum of 24 hour,  the first brief will be sent to your team leader’s email.</li>
->>>>>>> cd69766ccf5ad8387c88bf01f58c4f682d7c61f5
 			</ul>
 		</div>
     </div>
