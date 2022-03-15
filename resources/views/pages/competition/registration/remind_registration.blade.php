@@ -55,7 +55,7 @@
 </section>
 
 
-<section class="d-flex align-items-center justify-content-center" >
+<!-- <section class="d-flex align-items-center justify-content-center" >
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
@@ -77,7 +77,7 @@
 			</div>
 	</div>
 </div>
-</section>
+</section> -->
 
 <section id="hero" class="d-flex align-items-center justify-content-center cont">
 <div class="container" data-aos="fade-up">
@@ -114,7 +114,7 @@
 </div>
 </section>
 
-<!-- <section class="d-flex align-items-center justify-content-center cont">
+<section class="d-flex align-items-center justify-content-center cont">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
@@ -123,5 +123,5 @@
 		</div>
     </div>
 </div>
-</section> -->
+</section>
 @endsection
