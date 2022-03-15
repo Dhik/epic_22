@@ -9,7 +9,7 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title_li">PARTICIPANT TERMS</h1>
+			<h1 class="comp_title_li">Participant Terms</h1>
 		</div>
     </div>
 </div>
@@ -34,7 +34,7 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="art_ex">Registration Terms</h1>
+			<h1 class="comp_title_li">Registration Terms</h1>
 		</div>
     </div>
 </div>
@@ -78,17 +78,28 @@
 	</div>
 </div>
 </section> -->
+</br></br></br></br>
 
-<section id="hero" class="d-flex align-items-center justify-content-center cont">
+<section class="d-flex align-items-center justify-content-center cont">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="art_ex">CONTACT PERSON</h1>
+			<h1 class="comp_title_li" style="padding-bottom:10px;">Open Registration</h1>
+			<a href="https://bit.ly/RegistrationRemind2022 " type="button" class="btn btn-reg btn-lg btn-block">Registration</a>
 		</div>
     </div>
 </div>
 </section>
 
+<section id="hero" class="d-flex align-items-center justify-content-center cont">
+<div class="container" data-aos="fade-up">
+	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+		<div class="col-xl-7 col-lg-8">
+			<h1 class="comp_title_li">Contact Person</h1>
+		</div>
+    </div>
+</div>
+</section>
 <section class="d-flex align-items-center justify-content-center">
 <div class="container" data-aos="fade-up" data-aos-delay="150">
 	<div class="row justify-content-center text-center">
@@ -114,14 +125,5 @@
 </div>
 </section>
 
-<section class="d-flex align-items-center justify-content-center cont">
-<div class="container" data-aos="fade-up">
-	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
-		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title_li" style="padding-bottom:10px;">RESEARCH MINDEDNESS 2022 OPEN REGISTRATION</h1>
-			<a href="https://bit.ly/RegistrationRemind2022 " type="button" class="btn btn-primary btn-lg btn-block">Registration</a>
-		</div>
-    </div>
-</div>
-</section>
+
 @endsection

@@ -60,11 +60,25 @@
 	</div>
 </section>
 
+</br></br></br></br>
+
+<section class="d-flex align-items-center justify-content-center cont">
+<div class="container" data-aos="fade-up">
+	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+		<div class="col-xl-7 col-lg-8">
+			<h1 class="comp_title_li" style="padding-bottom:10px;">Open Registration</h1>
+			<a href="https://bit.ly/OlymPRdayRegistration2022" type="button" class="btn btn-primary btn-lg btn-block">Registration OlymPRDay</a>
+			<a href="https://linktr.ee/PRSFRegistration2022" type="button" class="btn btn-primary btn-lg btn-block">Registration PRSF</a>
+		</div>
+    </div>
+</div>
+</section>
+
 <section id="hero" class="d-flex align-items-center justify-content-center cont">
 	<div class="container" data-aos="fade-up">
 		<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 			<div class="col-xl-7 col-lg-8">
-				<h1 class="comp_title_li">CONTACT PERSON</h1>
+				<h1 class="comp_title_li">Contact Person</h1>
 			</div>
 		</div>
 	</div>
@@ -95,7 +109,7 @@
 	</div>
 </section>
 
-<section class="d-flex align-items-center justify-content-center cont">
+<!-- <section class="d-flex align-items-center justify-content-center cont">
 	<div class="container" data-aos="fade-up">
 		<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 			<div class="col-xl-7 col-lg-8">
@@ -105,5 +119,5 @@
 			</div>
 		</div>
 	</div>
-</section>
+</section> -->
 @endsection

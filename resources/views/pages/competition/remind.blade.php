@@ -22,6 +22,21 @@
 </div>
 </section>
 
+
+<!-- Awal Button -->
+<section class="competition-section">
+<div class="container">
+	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+			<div class="col-md-4 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
+				<div style="background: white; border-radius: 100%;">
+					<img src="{{ url('assets/img/Remind.png')}}" class="card-img-top" alt="...">
+				</div>
+			</div>
+	</div>
+</div>
+</section>
+
+
 <section id="hero" class="d-flex align-items-center justify-content-center teas">
 	<div class="container pr-ex-center" data-aos="fade-up">
 		<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">

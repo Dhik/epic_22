@@ -128,6 +128,18 @@
 	</div>
 </div>
 </section> -->
+</br></br></br></br>
+
+<section class="d-flex align-items-center justify-content-center cont">
+<div class="container" data-aos="fade-up">
+	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+		<div class="col-xl-7 col-lg-8">
+			<h1 class="comp_title_li" style="padding-bottom:10px;">Open Registration</h1>
+			<a href="https://bit.ly/JoinCommoviecator2022" type="button" class="btn btn-reg btn-lg btn-block">Registration</a>
+		</div>
+    </div>
+</div>
+</section>
 
 <section id="hero" class="d-flex align-items-center justify-content-center cont">
 <div class="container" data-aos="fade-up">
@@ -155,7 +167,7 @@
 </div>
 </section>
 
-<section class="d-flex align-items-center justify-content-center cont">
+<!-- <section class="d-flex align-items-center justify-content-center cont">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
@@ -164,5 +176,5 @@
 		</div>
     </div>
 </div>
-</section>
+</section> -->
 @endsection
