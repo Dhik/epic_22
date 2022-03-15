@@ -28,7 +28,7 @@
 			    <div class="contact_person rounded shadow-sm py-5 px-4">
 			        <h5 class="mb-0">Gracetiar B. Nainggolan</h5><span class="small text-uppercase text-muted text-center">0812-9104-2100 (Whatsapp)</span>
 			            <ul class="social mb-0 list-inline mt-3">
-			              	<li class="list-inline-item"><a href="http://line.me/ti/p/~ainulfatah20" class="social-link"><i class="fa-2x fab fa-line"></i></a></li>
+			              	<li class="list-inline-item"><a href="https://liff.line.me/1645278921-kWRPP32q/?accountId=qqp1286j" class="social-link"><i class="fa-2x fab fa-line"></i></a></li>
 			              	<li class="list-inline-item"><a href="mailto:marketing.epicentrum@gmail.com" class="social-link"><i class="fa-2x fa fa-envelope"></i></a></li>
 			            </ul>
 			    </div>

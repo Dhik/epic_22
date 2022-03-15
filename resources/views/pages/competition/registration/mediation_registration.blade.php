@@ -68,7 +68,7 @@
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
 			<h1 class="comp_title_li" style="padding-bottom:10px;">Open Registration</h1>
-			<a href="https://bit.ly/FormMediation2022" type="button" class="btn btn-reg btn-lg btn-block">Registration</a>
+			<a href="bit.ly/FormPendaftaranMediation2022" type="button" class="btn btn-reg btn-lg btn-block">Registration</a>
 		</div>
     </div>
 </div>

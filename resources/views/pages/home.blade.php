@@ -43,7 +43,7 @@
 				<h1 class="teaser">TEASER</h1>
 			</div>
 			<div class="">
-				<iframe  style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px" src="https://www.youtube.com/embed/tVLiRXYgFrU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen controls></iframe>
+				<iframe  style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px" src="https://youtube.com/embed/GwEtF0MXrdU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen controls></iframe>
 			</div>
 		</div>
 		</section>
