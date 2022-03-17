@@ -14,11 +14,11 @@
     </div>
 </div>
 </section>
-<section class="d-flex align-items-center justify-content-center" id="overlay-dark">
+<section class="d-flex align-items-center justify-content-center" id="overlay">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
-			<ul class="desc_ideation" type="1">
+			<ul class="desc_comp" type="1">
 				<li>Participants are active diploma or undergraduate students from all universities in Indonesia, as evidenced by scanning the student ID card of each member of the team.</li>
 				<li>Participants form a team of two or three per team, while team members may be from different departments or faculties within one university.</li>
 				<li>One university may send more than one team on condition that it sends different teams with different members from one competition to another</li>
@@ -39,11 +39,11 @@
     </div>
 </div>
 </section>
-<section class="d-flex align-items-center justify-content-center" id="overlay-dark">
+<section class="d-flex align-items-center justify-content-center" id="overlay">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
-			<ul class="desc_ideation" type="1">
+			<ul class="desc_comp" type="1">
 				<li>Online registration at our website epicentrum.fikom.unpad.ac.id</b></li>
 				<li>Paying a registration fee of Rp150,000 by Mandiri 1400018285313 on behalf of Masita Dewi C</li>
 				<li>Team leader confirm registration to the contact person of the race: Ms. Najla Syarif (Whatsapp: 081214756606/ ID Line: najjsyrf) or Mr. Rafi Helmi Rabani (Whatsapp: 089693389109/ ID Line: rafihelmirabani) in the format of NAMA TIM_ASAL UNIVERSITAS and includes proof of payment.</li>
@@ -67,7 +67,7 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title_li" style="padding-bottom:10px;">Open Registration</h1>
+			<h1 class="comp_title" style="padding-bottom:10px;">Open Registration</h1>
 			<a href="https://bit.ly/FormLiblicious2022" type="button" class="btn btn-reg btn-lg btn-block">Registration</a>
 		</div>
     </div>

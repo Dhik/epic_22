@@ -9,16 +9,16 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title_li">Participant Terms</h1>
+			<h1 class="comp_title">Participant Terms</h1>
 		</div>
     </div>
 </div>
 </section>
-<section class="d-flex align-items-center justify-content-center" id="overlay-dark">
+<section class="d-flex align-items-center justify-content-center" id="overlay">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
-			<ul class="desc_ideation">
+			<ul class="desc_comp">
 				<li>Peserta merupakan mahasiswa aktif jenjang Diploma/S1/sederajat dari universitas seluruh Indonesia.</li>
 				<li>Satu tim berisikan 3 (tiga) orang peserta berasal dari Universitas yang sama.</li>
 				<li>Peserta dalam satu tim diperbolehkan berasal dari Jurusan maupun Fakultas yang berbeda.</li>
@@ -34,16 +34,16 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title_li">Registration Terms</h1>
+			<h1 class="comp_title">Registration Terms</h1>
 		</div>
     </div>
 </div>
 </section>
-<section class="d-flex align-items-center justify-content-center" id="overlay-dark">
+<section class="d-flex align-items-center justify-content-center" id="overlay">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
-			<ul class="desc_ideation">
+			<ul class="desc_comp">
 				<li>Biaya pendaftaran lomba adalah <b> Rp75.000 </b> dan harus dibayarkan ke <b> BCA 1810550879 a.n Salsabila Agustriana </b> sebelum melanjutkan ke formulir lomba</li>
 				<li>Isi formulir pendaftaran di epicentrum.unpad.ac.id</li>
 				<li>Dalam kurun waktu maksimal 24 jam, Brief pertama akan dikirim ke email ketua tim Anda</li>
@@ -59,7 +59,7 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title_li" style="padding-bottom:10px;">Open Registration</h1>
+			<h1 class="comp_title" style="padding-bottom:10px;">Open Registration</h1>
 			<a href="https://bit.ly/RegistrasiParadeJurnalistik2022" type="button" class="btn btn-reg btn-lg btn-block">Registration</a>
 		</div>
     </div>
@@ -70,7 +70,7 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title_li">Contact Person</h1>
+			<h1 class="comp_title">Contact Person</h1>
 		</div>
     </div>
 </div>

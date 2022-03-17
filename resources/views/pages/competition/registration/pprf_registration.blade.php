@@ -14,11 +14,11 @@
 		</div>
 	</div>
 </section>
-<section class="d-flex align-items-center justify-content-center" id="overlay-dark">
+<section class="d-flex align-items-center justify-content-center" id="overlay">
 	<div class="container" data-aos="fade-up">
 		<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 			<div class="col-xl-10 col-lg-8">
-				<ul class="desc_ideation">
+				<ul class="desc_comp">
 					<h1><b>1. OlymPRDay</b></h1>
 					<li>The team consists of 3 (three) people. </li>
 					<li>Each team member must be an undergraduate student until The Competition Day of Epicentrum in May 2022.</li>
@@ -46,11 +46,11 @@
 		</div>
 	</div>
 </section>
-<section class="d-flex align-items-center justify-content-center" id="overlay-dark">
+<section class="d-flex align-items-center justify-content-center" id="overlay">
 	<div class="container" data-aos="fade-up">
 		<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 			<div class="col-xl-10 col-lg-8">
-				<ul class="desc_ideation">
+				<ul class="desc_comp">
 					<li>Please pay a registration fee of IDR 160.000 or get 5 - 10% off for those who get Referral Code (account number Bank Mandiri a.n 1320025190944 ZAHRA ARISTYA NURAZI).</li>
 					<li>Participants are required to fill in the registration form in the link attached below and submit all of the administrative documents.</li>
 					<li>Complete information regarding the registration terms can be found on the registration link.</li>
@@ -66,9 +66,9 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title_li" style="padding-bottom:10px;">Open Registration</h1>
-			<a href="https://bit.ly/OlymPRdayRegistration2022" type="button" class="btn btn-primary btn-lg btn-block">Registration OlymPRDay</a>
-			<a href="https://linktr.ee/PRSFRegistration2022" type="button" class="btn btn-primary btn-lg btn-block">Registration PRSF</a>
+			<h1 class="comp_title" style="padding-bottom:10px;">Open Registration</h1>
+			<a href="https://bit.ly/OlymPRdayRegistration2022" type="button" class="btn btn-reg btn-lg btn-block_2">Registration OlymPRDay</a>
+			<a href="https://linktr.ee/PRSFRegistration2022" type="button" class="btn btn-reg btn-lg btn-block_2">Registration PRSF</a>
 		</div>
     </div>
 </div>

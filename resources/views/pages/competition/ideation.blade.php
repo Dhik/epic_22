@@ -6,19 +6,31 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8 col">
-			<h1 class="comp_title_li">IDEATION</h1>
+			<h1 class="comp_title_li">Ideation</h1>
 			<h2></h2>
 		</div>
     </div>
 </div>
 </section>
-<section class="d-flex align-items-center justify-content-center" id="overlay-dark">
+<section class="d-flex align-items-center justify-content-center" id="overlay">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
-			<p class="desc_ideation">&emsp;&emsp; <b> Ideation 2022 </b> is one of Epicentrum's 2022 competition branches that focuses on constructing communication strategies to solve social issues, specifically climate change. Ideation invites participants to think more creatively, train their research and analytical skills, and discover the most effective communication strategies in the form of social campaigns. Participants will compete to create the best creative proposal and pitch deck regarding the most effective communication strategies to educate people about the impacts of ongoing climate change. Besides competition, Ideation 2022 conducts other activities, such as workshops to provide valuable insights for the participants and webinars for the general public. </p>
+			<p class="desc_comp">&emsp;&emsp; <b> Ideation 2022 </b> is one of Epicentrum's 2022 competition branches that focuses on constructing communication strategies to solve social issues, specifically climate change. Ideation invites participants to think more creatively, train their research and analytical skills, and discover the most effective communication strategies in the form of social campaigns. Participants will compete to create the best creative proposal and pitch deck regarding the most effective communication strategies to educate people about the impacts of ongoing climate change. Besides competition, Ideation 2022 conducts other activities, such as workshops to provide valuable insights for the participants and webinars for the general public. </p>
 		</div>
     </div>
+</div>
+</section>
+
+<section class="competition-section">
+<div class="container">
+	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+			<div class="col-md-4 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
+				<div style="background: white; border-radius: 100%;">
+					<img src="{{ url('assets/img/ide.png')}}" class="card-img-top" alt="...">
+				</div>
+			</div>
+	</div>
 </div>
 </section>
 
@@ -26,10 +38,10 @@
 	<div class="container pr-ex-center" data-aos="fade-up">
 		<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 			<div class="col-xl-6 col-lg-8">
-				<h1 class="comp_title_li">TEASER</h1>
+				<h1 class="comp_title">Teaser</h1>
 			</div>
 			<div class="col-xl-6 col-lg-8">
-				<h1 class="comp_title_li">MORE ABOUT US</h1>
+				<h1 class="comp_title">More About Us</h1>
 			</div>
 			<div class="frame_comp col-xl-6 col-lg-8">
 				<iframe style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px" src="https://youtube.com/embed/cjpofzKwdTU " frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -40,10 +52,13 @@
 		</div>
 </section>
 
-<!-- Awal Button -->
+
 <section class="competition-section">
 <div class="container">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+	<div class="col-xl-6 col-lg-8">
+				<h1 class="comp_title_li">The Competition</h1>
+			</div>
 			<div class="col-md-4 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
 				<div class="card mx-auto">
 					<img src="{{ url('assets/img/Theme_Desc.png')}}" class="card-img-top" alt="...">
@@ -87,7 +102,7 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="art_ex">OUR TALKSHOW</h1>
+			<h1 class="comp_title">Our Talkshow</h1>
 		</div>
     </div>
 </div>
@@ -131,7 +146,7 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="art_ex">JUDGES</h1>
+			<h1 class="comp_title_li">Judges</h1>
 		</div>
     </div>
 </div>
@@ -179,7 +194,7 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="art_ex">OUR FINALIST</h1>
+			<h1 class="comp_title_li">Our Finalist</h1>
 		</div>
     </div>
 </div>

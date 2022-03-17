@@ -9,17 +9,17 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title_li">Participant Terms</h1>
+			<h1 class="comp_title">Participant Terms</h1>
 		</div>
     </div>
 </div>
 </section>
-<section class="d-flex align-items-center justify-content-center" id="overlay-dark">
+<section class="d-flex align-items-center justify-content-center" id="overlay">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
 			<div class="">
-			<ul class="desc_medi" type="a">
+			<ul class="desc_comp" type="a">
 				<li>Peserta merupakan mahasiswa aktif D3, D4 dan S1 dari Universitas di Indonesia.</li>
 				<li>Dalam 1 tim terdiri dari 3-5 mahasiswa. Diperbolehkan berasal dari jurusan dan fakultas yang berbeda, selama masih berasal dari universitas yang sama.</li>
 				<li>Setiap universitas diperbolehkan mengirimkan lebih dari 1 tim. Masing-masing tim hanya boleh mengumpulkan 1 hasil karya yang terdiri dari 3 output lomba (Video, Audio, dan Poster digital).</li>
@@ -38,17 +38,17 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title_li">Registration Terms</h1>
+			<h1 class="comp_title">Registration Terms</h1>
 		</div>
     </div>
 </div>
 </section>
-<section class="d-flex align-items-center justify-content-center" id="overlay-dark">
+<section class="d-flex align-items-center justify-content-center" id="overlay">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
 			<div class="">
-			<ul class="desc_medi" type="1">
+			<ul class="desc_comp" type="1">
 				<li>Mengisi formulir registrasi yang terdapat pada website Epicentrum (epicentrum.fikom.unpad.ac.id)</li>
 				<li>Membayar biaya registrasi sebanyak Rp. 150.000 ke BRI 0893 0104 0210 533 an Salma Syifa Salsabil dan memasukkan bukti pembayaran ke formulir pendaftaran dengan format nama BUKTIPEMBAYARAN_NAMA TIM.</li>
 				<li>Melampirkan berkas berupa scan Kartu Tanda Mahasiswa (KTM) ketua tim pada formulir pendaftaran dengan format nama KTM_NAMA TIM_ NAMA LENGKAP KETUA TIM</li>
@@ -67,7 +67,7 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title_li" style="padding-bottom:10px;">Open Registration</h1>
+			<h1 class="comp_title" style="padding-bottom:10px;">Open Registration</h1>
 			<a href="bit.ly/FormPendaftaranMediation2022" type="button" class="btn btn-reg btn-lg btn-block">Registration</a>
 		</div>
     </div>
@@ -78,7 +78,7 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title_li">Contact Person</h1>
+			<h1 class="comp_title">Contact Person</h1>
 		</div>
     </div>
 </div>

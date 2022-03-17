@@ -6,22 +6,34 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title_li">Mediation</h1>
+			<h1 class="comp_title">Mediation</h1>
 			<h2></h2>
 		</div>
     </div>
 </div>
 </section>
-<section class="d-flex align-items-center justify-content-center" id="overlay-dark">
+<section class="d-flex align-items-center justify-content-center" id="overlay">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
 			<div class="">
-			<p class="desc_medi">&emsp;&emsp; <b> Mediation (Media in Action) </b> adalah salah satu mata lomba Epicentrum Unpad dari Prodi Manajemen Produksi Media."</b></p>
-			<p class="desc_medi">&emsp;&emsp; Pada Mediation 2022, sub-tema yang digunakan adalah "Aksesibilitas Informasi Media terhadap Limbah Medis Rumah Tangga" dengan mengangkat konsep Production House yang mempunyai tiga output lomba yaitu videografi, audio, dan poster digital. Melalui sub-tema tersebut, Mediation 2022 berharap, dapat meningkatkan kesadaran masyarakat akan pentingnya pengelolaan limbah medis rumah tangga saat ini.</p>
+			<p class="desc_comp">&emsp;&emsp; <b> Mediation (Media in Action) </b> adalah salah satu mata lomba Epicentrum Unpad dari Prodi Manajemen Produksi Media."</b></p>
+			<p class="desc_comp">&emsp;&emsp; Pada Mediation 2022, sub-tema yang digunakan adalah "Aksesibilitas Informasi Media terhadap Limbah Medis Rumah Tangga" dengan mengangkat konsep Production House yang mempunyai tiga output lomba yaitu videografi, audio, dan poster digital. Melalui sub-tema tersebut, Mediation 2022 berharap, dapat meningkatkan kesadaran masyarakat akan pentingnya pengelolaan limbah medis rumah tangga saat ini.</p>
 			</div>
 		</div>
     </div>
+</div>
+</section>
+
+<section class="competition-section">
+<div class="container">
+	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+			<div class="col-md-4 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
+				<div style="background: white; border-radius: 100%;">
+					<img src="{{ url('assets/img/Mediation.png')}}" class="card-img-top" alt="...">
+				</div>
+			</div>
+	</div>
 </div>
 </section>
 
@@ -29,10 +41,10 @@
 	<div class="container pr-ex-center" data-aos="fade-up">
 		<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 			<div class="col-xl-6 col-lg-8">
-				<h1 class="comp_title_li">TEASER</h1>
+				<h1 class="comp_title">Teaser</h1>
 			</div>
 			<div class="col-xl-6 col-lg-8">
-				<h1 class="comp_title_li">MORE ABOUT US</h1>
+				<h1 class="comp_title">More About Us</h1>
 			</div>
 			<div class="col-xl-6 col-lg-8">
 				<iframe style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px;" src="https://www.youtube.com/embed/ilmkMPywVEQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
@@ -49,6 +61,9 @@
 <section class="competition-section">
 <div class="container">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+	<div class="col-xl-6 col-lg-8">
+				<h1 class="comp_title">The Competition</h1>
+			</div>
 			<div class="col-md-4 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
 				<div class="card mx-auto">
 					<img src="{{ url('assets/img/Theme_Desc.png')}}" class="card-img-top" alt="...">
@@ -92,7 +107,7 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title_li">OUR TALKSHOW</h1>
+			<h1 class="comp_title">Our Talkshow</h1>
 		</div>
     </div>
 </div>
@@ -136,7 +151,7 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title_li">JUDGES</h1>
+			<h1 class="comp_title_li">Judges</h1>
 		</div>
     </div>
 </div>
@@ -184,7 +199,7 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="art_ex">OUR FINALIST</h1>
+			<h1 class="comp_title_li">Our Finalist</h1>
 		</div>
     </div>
 </div>

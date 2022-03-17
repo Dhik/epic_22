@@ -14,11 +14,11 @@
     </div>
 </div>
 </section>
-<section class="d-flex align-items-center justify-content-center" id="overlay-dark">
+<section class="d-flex align-items-center justify-content-center" id="overlay">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
-			<ul class="desc_ideation">
+			<ul class="desc_comp">
 				<li>Participants are active D3, D4, or S1 students.</li>
 				<li>Team members come from the same university (majors/faculties may differ).</li>
 				<li>Each team consisted of 3 members.</li>
@@ -40,11 +40,11 @@
     </div>
 </div>
 </section>
-<section class="d-flex align-items-center justify-content-center" id="overlay-dark">
+<section class="d-flex align-items-center justify-content-center" id="overlay">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
-			<ul class="desc_ideation">
+			<ul class="desc_comp">
 				<li>Registration fee for the competition is IDR 150.000 or USD 10.5 and has to be paid to BCA 6801238901 p.p Kania Dewi before proceeding to the competition form.</li>
 				<li>Fill out the registration form at our website epicentrum.fikom.unpad.ac.id</li>
 				<li>For a maximum of 24 hour,  the first brief will be sent to your team leader’s email.</li>
@@ -84,7 +84,7 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title_li" style="padding-bottom:10px;">Open Registration</h1>
+			<h1 class="comp_title" style="padding-bottom:10px;">Open Registration</h1>
 			<a href="https://bit.ly/JoinIdeation2022 " type="button" class="btn btn-reg btn-lg btn-block">Registration</a>
 		</div>
     </div>
