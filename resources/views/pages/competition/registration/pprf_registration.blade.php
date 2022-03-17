@@ -51,7 +51,11 @@
 		<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 			<div class="col-xl-10 col-lg-8">
 				<ul class="desc_ideation">
-					<li>Please pay a registration fee of IDR 160.000 or get 5 - 10% off for those who get Referral Code (account number Bank Mandiri a.n 1320025190944 ZAHRA ARISTYA NURAZI).</li>
+					<li>Please pay a registration fee of IDR 160.000 (16 USD) or get 5 - 10% off for those who get Referral Code.
+<br>Payment Option (choose one) :
+<br>- (Mandiri) Account number 1320025190944 a.n ZAHRA ARISTYA NURAZI
+<br>- (PayPal) using the link that will appear after you submit the registration form. You can submit your payment receipt (Mandiri Bank Account or PayPal) on “Registration Receipt (for International Student)”Form.
+</li>
 					<li>Participants are required to fill in the registration form in the link attached below and submit all of the administrative documents.</li>
 					<li>Complete information regarding the registration terms can be found on the registration link.</li>
 				</ul>
