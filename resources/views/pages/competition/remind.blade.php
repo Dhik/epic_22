@@ -6,7 +6,7 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title_li">RESEARCH MINDEDNESS</h1>
+			<h1 class="comp_title">Research Mindedness</h1>
 			<h2></h2>
 		</div>
     </div>
@@ -41,10 +41,10 @@
 	<div class="container pr-ex-center" data-aos="fade-up">
 		<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 			<div class="col-xl-6 col-lg-8">
-				<h1 class="teaser">TEASER</h1>
+				<h1 class="comp_title">Teaser</h1>
 			</div>
 			<div class="col-xl-6 col-lg-8">
-				<h1 class="teaser">MORE ABOUT US</h1>
+				<h1 class="comp_title">More About Us</h1>
 			</div>
 			<div class="frame_comp col-xl-6 col-lg-8">
 				<iframe style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px" src="https://youtube.com/embed/eKoO8ez1i_s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -59,6 +59,9 @@
 <section class="competition-section">
 <div class="container">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+	<div class="col-xl-6 col-lg-8">
+				<h1 class="comp_title">The Competition</h1>
+			</div>
 			<div class="col-md-4 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
 				<div class="card mx-auto">
 					<img src="{{ url('assets/img/Theme_Desc.png')}}" class="card-img-top" alt="...">
@@ -103,7 +106,7 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="art_ex">OUR TALKSHOW</h1>
+		<h1 class="comp_title">Our Talkshow</h1>
 		</div>
     </div>
 </div>
@@ -147,7 +150,7 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="art_ex">JUDGES</h1>
+		<h1 class="comp_title_li">Judges</h1>
 		</div>
     </div>
 </div>
@@ -195,7 +198,7 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="art_ex">OUR FINALIST</h1>
+		<h1 class="comp_title_li">Our Finalist</h1>
 		</div>
     </div>
 </div>

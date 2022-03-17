@@ -13,6 +13,11 @@
   font-family: mango;
   src: url("../fonts/BlackMango-Bold.otf");
 }
+@font-face {
+  font-family: vietnam;
+  src: url("../fonts/BeVietnam-Regular.ttf");
+}
+
 
 /* Red border */
 @media (min-width: 576px) {
@@ -266,7 +271,7 @@
   p.desc_comp{
       color: #363131;
         font-size: 18px;
-        font-family: "Montserrat", sans-serif;
+        font-family: vietnam;
         font-weight: 500;
         text-align: justify;
         line-height: 1.4;
@@ -376,9 +381,7 @@
         font-size: 24px;
         font-weight: 700;
         line-height: 64px;
-        color: #334f5d;
-        text-shadow: #acacac 0 2px;
-        font-family: "Montserrat", sans-serif;
+        font-family: vietnam;
         text-align: center;
       }
 
@@ -669,7 +672,7 @@
           overflow-x: hidden;
         }
   body.mediation {
-      background: url("../img/matlom_30.png") top no-repeat;
+      background: url("../img/matlom_32.png") top no-repeat;
       background-size: cover;
       font-family: "Montserrat", sans-serif;
       color: #444444;
@@ -685,7 +688,7 @@
       overflow-x: hidden;
   }
   body.ideation {
-      background: url("../img/matlom_32.png") top no-repeat;
+      background: url("../img/matlom_30.png") top no-repeat;
       background-size: cover;
       font-family: "Montserrat", sans-serif;
       color: #444444;
@@ -693,7 +696,7 @@
       overflow-x: hidden;
   }
   body.parjur {
-      background: url("../img/matlom_33.png") top no-repeat;
+      background: url("../img/matlom_35.png") top no-repeat;
       background-size: cover;
       font-family: "Montserrat", sans-serif;
       color: #444444;
@@ -702,7 +705,7 @@
   }
 
   body.liblicious {
-      background: url("../img/matlom_34.png") top no-repeat;
+      background: url("../img/matlom_33.png") top no-repeat;
       background-size: cover;
       font-family: "Montserrat", sans-serif;
       color: #444444;
@@ -720,7 +723,7 @@
 }
 
   body.pprf {
-      background: url("../img/matlom_35.png") top no-repeat;
+      background: url("../img/matlom_34.png") top no-repeat;
       background-size: cover;
       font-family: "Montserrat", sans-serif;
       color: #444444;
@@ -1182,12 +1185,11 @@
   
       .comp_title{
         margin: 0;
-        font-size: 45px;
+        font-size: 50px;
         font-weight: 800;
         line-height: 64px;
-        color: #595858;
-        text-shadow: #ada9a1 0 5px;
-        font-family: "Montserrat", sans-serif;
+        color: #334e5d;
+        font-family: mango;
         text-align: center;
       }
 
@@ -1196,11 +1198,11 @@
           font-size: 50px;
           font-weight: 800;
           line-height: 64px;
-          color: #334e5d;
+          color: #fff;
           font-family: mango;
           text-align: center;
         }
-  
+        
       .invi{
         margin: 0;
         font-size: 56px;
@@ -1407,6 +1409,17 @@
           background: rgba(110,108,107,0.2);
           padding: 10px;
         }
+        ul.desc_comp{
+          font-size: 16px;
+          font-family: "Montserrat", sans-serif;
+          font-weight: 500;
+          text-align: justify;
+          line-height: 1.4;
+          margin-top: 30px;
+          margin-bottom: 30px;
+          background: rgba(110,108,107,0.2);
+          padding: 10px;
+        }
 
         p.desc_comp_tav{
           color: #363131;
@@ -1421,7 +1434,7 @@
           padding: 10px;
         }
 
-        ul.desc_ideation{
+        ul.desc_comp{
           font-size: 16px;
           background: rgba(110,108,107,0.2);
           padding: 10px;
@@ -2547,3 +2560,10 @@
   margin-left: auto;
   margin-right: auto;
       }
+      .btn-block_2 {
+        margin-bottom: 10px;
+        display: block;
+  margin-left: auto;
+  margin-right: auto;
+      }
+      

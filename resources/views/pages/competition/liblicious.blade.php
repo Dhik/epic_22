@@ -6,20 +6,32 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title_li">LIBLICIOUS</h1>
+			<h1 class="comp_title_li">Liblicious</h1>
 			<h2></h2>
 		</div>
     </div>
 </div>
 </section>
-<section class="d-flex align-items-center justify-content-center" id="overlay-dark">
+<section class="d-flex align-items-center justify-content-center" id="overlay">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
-			<p class="desc_ideation">&emsp;&emsp; The subject of <b> Liblicious </b> is a scientific writing competition in the form of articles under the auspices of Epicentrum Fikom Unpad that aims to increase the writer's creativity, critical thinking, analytical, and problem-solving skills. This competition was initiated by the Library of Information Science, one of the fields of study at the Faculty of Communication Sciences, Padjadjaran University. By holding this competition, it is hoped that it will be the first step for students to maximize the function of the role of libraries and information institutions in solving community problems
+			<p class="desc_comp">&emsp;&emsp; The subject of <b> Liblicious </b> is a scientific writing competition in the form of articles under the auspices of Epicentrum Fikom Unpad that aims to increase the writer's creativity, critical thinking, analytical, and problem-solving skills. This competition was initiated by the Library of Information Science, one of the fields of study at the Faculty of Communication Sciences, Padjadjaran University. By holding this competition, it is hoped that it will be the first step for students to maximize the function of the role of libraries and information institutions in solving community problems
 </p>
 		</div>
     </div>
+</div>
+</section>
+
+<section class="competition-section">
+<div class="container">
+	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+			<div class="col-md-4 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
+				<div style="background: white; border-radius: 100%;">
+					<img src="{{ url('assets/img/lib.png')}}" class="card-img-top" alt="...">
+				</div>
+			</div>
+	</div>
 </div>
 </section>
 
@@ -27,10 +39,10 @@
 	<div class="container pr-ex-center" data-aos="fade-up">
 		<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 			<div class="col-xl-6 col-lg-8">
-				<h1 class="comp_title_li">TEASER</h1>
+				<h1 class="comp_title">Teaser</h1>
 			</div>
 			<div class="col-xl-6 col-lg-8">
-				<h1 class="comp_title_li">MORE ABOUT US</h1>
+				<h1 class="comp_title">More About Us</h1>
 			</div>
 			<div class="frame_comp col-xl-6 col-lg-8">
 				<iframe style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px" src="https://www.youtube.com/embed/-BJu2eWWTZ0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -45,6 +57,9 @@
 <section class="competition-section">
 <div class="container">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+	<div class="col-xl-6 col-lg-8">
+				<h1 class="comp_title_li">The Competition</h1>
+			</div>
 			<div class="col-md-4 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
 				<div class="card mx-auto">
 					<img src="{{ url('assets/img/Theme_Desc.png')}}" class="card-img-top" alt="...">
@@ -88,7 +103,7 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title_li">OUR TALKSHOW</h1>
+			<h1 class="comp_title">Our Talkshow</h1>
 		</div>
     </div>
 </div>
@@ -132,7 +147,7 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title_li">JUDGES</h1>
+			<h1 class="comp_title_li">Judges</h1>
 		</div>
     </div>
 </div>
@@ -180,7 +195,7 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="art_ex">OUR FINALIST</h1>
+			<h1 class="comp_title_li">Our Finalist</h1>
 		</div>
     </div>
 </div>
