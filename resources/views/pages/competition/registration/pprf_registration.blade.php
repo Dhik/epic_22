@@ -19,7 +19,7 @@
 		<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 			<div class="col-xl-10 col-lg-8">
 				<ul class="desc_comp">
-					<h1><b>1. OlymPRDay</b></h1>
+					<h1><b>1. OlymPRday</b></h1>
 					<li>The team consists of 3 (three) people. </li>
 					<li>Each team member must be an undergraduate student until The Competition Day of Epicentrum in May 2022.</li>
 					<li>The team members are allowed to come from different majors or faculties as long as they come from the same university in Indonesia.</li>
@@ -71,7 +71,7 @@
 		<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 			<div class="col-xl-7 col-lg-8">
 				<h1 class="comp_title" style="padding-bottom:10px;">Open Registration</h1>
-				<a href="https://bit.ly/OlymPRdayRegistration2022" type="button" class="btn btn-reg btn-lg btn-block_2">Registration OlymPRDay</a>
+				<a href="https://bit.ly/OlymPRdayRegistration2022" type="button" class="btn btn-reg btn-lg btn-block_2">Registration OlymPRday</a>
 				<a href="https://linktr.ee/PRSFRegistration2022" type="button" class="btn btn-reg btn-lg btn-block_2">Registration PRSF</a>
 			</div>
 		</div>

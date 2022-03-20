@@ -21,8 +21,7 @@
 				<ul class="desc_comp">
 					<li>Plastic waste in the ocean produces methane gas (CH4) that has the potential to damage the ozone layer 20 times more than CO2 which impacts climate change.</li>
 					<li>Indonesia is declared as the second-largest contributor of plastic waste to the sea in the world, after China.</li>
-					<li>In Indonesia, it is estimated that 70-80% of the plastic waste used for human consumption in the Indonesian sea was sent from land according to Ariani Hatmanti, marine microbiology researcher from Pusat Penelitian Oseanografi (P2O) Lembaga Ilmu Pengetahuan Indonesia (LIPI).ndonesia is declared as the second-largest contributor of plastic waste to the sea in the world, after China.</li>
-					<li>In Indonesia, it is estimated that 70-80% of the plastic waste used for human consumption in the Indonesian sea was sent from land according to Ariani Hatmanti, marine microbiology researcher from Pusat Penelitian Oseanografi (P2O) Lembaga Ilmu Pengetahuan Indonesia (LIPI).</li>
+					<li>In Indonesia, it is estimated that 70-80% of the plastic waste used for human consumption in the Indonesian sea was sent from land according to Ariani Hatmanti, marine microbiology researcher from Pusat Penelitian Oseanografi (P2O) Lembaga Ilmu Pengetahuan Indonesia (LIPI). Indonesia is declared as the second-largest contributor of plastic waste to the sea in the world, after China.</li>
 				</ul>
 			</div>
 		</div>
@@ -49,7 +48,7 @@
 
 					<p class="desc_comp">&emsp;&emsp; <b>Q: Who can join the PPRF?</br></br></b>"All D3/D4/S1 or equivalent students who have an active status until the running of Epicentrum in May 2022 throughout Indonesia, as well as outside Indonesia (PRSF)."</p>
 
-					<p class="desc_comp">&emsp;&emsp; <b>Q: What is OlymPRDay?</br></br></b>"OlymPRday is a branch of competition based on the PR Strategic Planning. This competition branch requires participants to be able to solve national problems through research skills, teamwork, and creativity. The final result of the OlymPRday competition is in the form of a Campaign Proposal as a resolution strategy for the issues raised."</p>
+					<p class="desc_comp">&emsp;&emsp; <b>Q: What is OlymPRday?</br></br></b>"OlymPRday is a branch of competition based on the PR Strategic Planning. This competition branch requires participants to be able to solve national problems through research skills, teamwork, and creativity. The final result of the OlymPRday competition is in the form of a Campaign Proposal as a resolution strategy for the issues raised."</p>
 
 					<p class="desc_comp">&emsp;&emsp; <b>Q: What is PRSF?</br></br></b>"PRSF is a competition in the form of a panel discussion which emphasizes the Public Relations perspective in providing solutions. Same as the previous year, PRSF will be held on an international scale which will include participants from various countries. The final result of PRSF competition is a Draft Resolution which contains communication recommendations to the government."</p>
 

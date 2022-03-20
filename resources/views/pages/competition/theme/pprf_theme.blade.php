@@ -20,7 +20,7 @@
 		<div class="col-xl-10 col-lg-8">
 			<p class="theme-title" style="font-size: xx-large;">Ocean Recovery: Reducing Marine Plastic Debris to Combat Climate Change</p>
 			<br>
-			<p class="theme-title">OlymPRDay</p>
+			<p class="theme-title">OlymPRday</p>
 			<p class="theme-title">“Reducing Marine Plastic Debris by Optimizing Waste Management”</p>
 			<p class="desc_comp">&emsp;&emsp; In the context of global recovery, climate change has become a priority issue after the Covid-19 pandemic. Reducing marine plastic debris has been done to combat climate change. Aligned with this, the Government of Indonesia has been committed to reducing marine plastic debris by 70% in 2018-2025. One of the steps that the government focuses on is optimizing</p>
 			<p class="theme-title">PRSF</p>
