@@ -15,8 +15,8 @@
 <section class="d-flex align-items-center justify-content-center" id="overlay">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
-		<div class="col-xl-10 col-lg-8">
-			<p class="desc_comp">&emsp;&emsp; <span style="font-weight: bold;">Research Mindedness</span> is an international competition oriented towards research development and the formulation of strategic solutions. Research Mindedness itself is one of the competitions under the auspices of the largest communication festival in Indonesia, namely Epicentrum Unpad. The issues raised in the Epicentrum Unpad Communication Festival are international standard issues, and the theme raised by the Research Mindedness competition is the result of developing the main issues that have been determined by Epicentrum Unpad.</p>
+		<div class="col-xl-10 col-lg-10">
+			<p class="desc_comp_b">&emsp;&emsp; <span style="font-weight: bold;">Research Mindedness</span> is an international competition oriented towards research development and the formulation of strategic solutions. Research Mindedness itself is one of the competitions under the auspices of the largest communication festival in Indonesia, namely Epicentrum Unpad. The issues raised in the Epicentrum Unpad Communication Festival are international standard issues, and the theme raised by the Research Mindedness competition is the result of developing the main issues that have been determined by Epicentrum Unpad.</p>
 		</div>
     </div>
 </div>
@@ -37,19 +37,19 @@
 </section>
 
 
-<section id="hero" class="d-flex align-items-center justify-content-center teas">
+<section class="d-flex align-items-center justify-content-center teas">
 	<div class="container pr-ex-center" data-aos="fade-up">
 		<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
-			<div class="col-xl-6 col-lg-8">
+			<div class="col-xl-6 col-lg-6">
 				<h1 class="comp_title">Teaser</h1>
 			</div>
-			<div class="col-xl-6 col-lg-8">
+			<div class="col-xl-6 col-lg-6">
 				<h1 class="comp_title">More About Us</h1>
 			</div>
-			<div class="frame_comp col-xl-6 col-lg-8">
+			<div class="frame_comp col-xl-6 col-lg-6">
 				<iframe style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px" src="https://youtube.com/embed/eKoO8ez1i_s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</div>
-			<div class="frame_comp col-xl-6 col-lg-8">
+			<div class="frame_comp col-xl-6 col-lg-6">
 				<iframe style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px" src="https://youtube.com/embed/c03MrTYI7qI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</div>
 		</div>

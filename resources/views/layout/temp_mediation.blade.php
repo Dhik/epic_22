@@ -35,7 +35,7 @@
     @stack('css')
 </head>
 
-<body class='mediation'>
+<body class='remind'>
 
   @include('includes.header')
 

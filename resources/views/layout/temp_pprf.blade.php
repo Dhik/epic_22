@@ -35,7 +35,7 @@
     @stack('css')
 </head>
 
-<body class='pprf'>
+<body class='remind'>
 
   @include('includes.header')
 

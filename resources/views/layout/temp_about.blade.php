@@ -41,7 +41,7 @@
 
   @yield('content')
 
-  @include('includes.footer')
+  @include('includes.footer_about')
 
   @stack('modal')
   <a href="#" class="back-to-top"><i class="ri-arrow-up-line"></i></a>

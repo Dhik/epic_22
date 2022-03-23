@@ -35,7 +35,7 @@
     @stack('css')
 </head>
 
-<body class='liblicious'>
+<body class='remind'>
 
   @include('includes.header')
 

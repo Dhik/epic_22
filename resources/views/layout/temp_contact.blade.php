@@ -35,13 +35,13 @@
     @stack('css')
 </head>
 
-<body class='remind'>
+<body class='contact'>
 
   @include('includes.header')
 
   @yield('content')
 
-  @include('includes.footer')
+  @include('includes.footer_about')
 
   @stack('modal')
   <a href="#" class="back-to-top"><i class="ri-arrow-up-line"></i></a>
@@ -70,8 +70,8 @@
     @if(Session::has('message'))
     toastr.options =
     {
-      "closeButton" : true,
-      "progressBar" : true
+    	"closeButton" : true,
+    	"progressBar" : true
     }
         toastr.success("{{ session('message') }}")
     @endif
@@ -79,28 +79,28 @@
     @if(Session::has('error'))
     toastr.options =
     {
-      "closeButton" : true,
-      "progressBar" : true
+    	"closeButton" : true,
+    	"progressBar" : true
     }
-        toastr.error("{{ session('error') }}");
+    		toastr.error("{{ session('error') }}");
     @endif
 
     @if(Session::has('info'))
     toastr.options =
     {
-      "closeButton" : true,
-      "progressBar" : true
+    	"closeButton" : true,
+    	"progressBar" : true
     }
-        toastr.info("{{ session('info') }}");
+    		toastr.info("{{ session('info') }}");
     @endif
 
     @if(Session::has('warning'))
     toastr.options =
     {
-      "closeButton" : true,
-      "progressBar" : true
+    	"closeButton" : true,
+    	"progressBar" : true
     }
-        toastr.warning("{{ session('warning') }}");
+    		toastr.warning("{{ session('warning') }}");
     @endif
   </script>
 <script>

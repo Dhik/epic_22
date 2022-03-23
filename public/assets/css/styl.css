@@ -39,7 +39,9 @@
   position: relative;
   width: 100%;
 }
-
+.logo_color {
+  color: #334E5D;
+}
 .modal.fade .modal-dialog {
   transition: -webkit-transform 0.3s ease-out;
   transition: transform 0.3s ease-out;
@@ -206,7 +208,7 @@
     flex-direction: column;
     min-width: 0;
     word-wrap: break-word;
-    background-color: rgb(255, 255, 255);
+    background-color: #f4ece1;
     background-clip: border-box;
     border-style: none;
   }
@@ -269,7 +271,7 @@
   
   
   p.desc_comp{
-      color: #363131;
+      color: #334E5D;
         font-size: 18px;
         font-family: vietnam;
         font-weight: 500;
@@ -277,6 +279,31 @@
         line-height: 1.4;
         margin-bottom: 30px;
   }
+  ul.desc_comp{
+    color: #334E5D;
+      font-size: 18px;
+      font-family: vietnam;
+      font-weight: 500;
+      text-align: justify;
+      line-height: 1.4;
+      margin-bottom: 30px;
+}
+li.desc_comp{
+  color: #334E5D;
+    font-size: 18px;
+    font-family: vietnam;
+    font-weight: 500;
+    text-align: justify;
+}
+  p.desc_comp_b{
+    color: #334E5D;
+      font-size: 18px;
+      font-family: vietnam;
+      font-weight: 500;
+      text-align: justify;
+      line-height: 1.4;
+      margin-bottom: 30px;
+}
 
   p.desc_comp_tav{
       color: #363131;
@@ -383,6 +410,7 @@
         line-height: 64px;
         font-family: vietnam;
         text-align: center;
+        color: #334E5D;
       }
 
   p.theme-title-li{
@@ -580,22 +608,20 @@
         border-top: 1px solid rgba(0, 0, 0, 0.1);
       }
       .bg-tran {
-        background-color: hsla(0, 0%, 91%, 0.679);
+        background-color: #fff;
+        border-radius: 100px;
       }
       .bg-tran2 {
           background-color: hsla(0, 0%, 91%, 0.419);
         }
       .sub-title-comp {
           text-align: center;
-          padding-top: 3px;
           padding-bottom: 20px;
           margin: 0;
-          font-size: 26px;
-          font-weight: 700;
+          font-size: 30px;
           line-height: 64px;
-          color: #334f5d;
-          text-shadow: 3px 3px 1px white, 6px 6px 1px #acacac;;
-          font-family: "Montserrat", sans-serif;
+          color: #943b22;
+          font-family: mango;
           text-align: center;
       }
     h2 {
@@ -648,14 +674,14 @@
     }
     .subm {
       width: 100%;
-      background-color: #e67f45;
-      color: black;
+      background-color: #189D8C;
+      color: #fff;
     }
     button {
       padding-top: 20px;
     }
     body {
-        background: url("../img/home.png") top no-repeat;
+        background: url("../img/lp_home.png") top no-repeat;
         background-size: cover;
         font-family: "Open Sans", sans-serif;
         color: #444444;
@@ -664,7 +690,15 @@
       }
     
       body.remind {
-          background: url("../img/matlom_29.png") top no-repeat;
+          background: url("../img/matlom.png") top no-repeat;
+          background-size: cover;
+          font-family: "Open Sans", sans-serif;
+          color: #444444;
+          max-width: 100%;
+          overflow-x: hidden;
+        }
+        body.comp {
+          background: url("../img/home.png") top no-repeat;
           background-size: cover;
           font-family: "Open Sans", sans-serif;
           color: #444444;
@@ -730,6 +764,28 @@
       max-width: 100%;
       overflow-x: hidden;
   }
+
+  body.mediation {
+    background: url("../img/matlom_32.png") top no-repeat;
+    background-size: cover;
+    font-family: "Montserrat", sans-serif;
+    color: #444444;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+body.contact {
+  background: url("../img/contact.png") top no-repeat;
+  background-size: cover;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+body.sponsor {
+  background: url("../img/sponsor.png") top no-repeat;
+  background-size: cover;
+  max-width: 100%;
+  overflow-x: hidden;
+}
   
       .comp_button {
         background-image: url("../img/THE 8th PPRF.png");
@@ -866,7 +922,7 @@
       }
       
       #header.header-scrolled, #header.header-inner-pages {
-        background: #f8f2e6;
+        background: #fff;
       }
       
       #header .logo {
@@ -895,6 +951,11 @@
       # Navigation Menu
       --------------------------------------------------------------*/
       /* Desktop Navigation */
+      .bg-white {
+        background-color: #fff;
+        border-radius: 20px;
+      }
+
       .nav-menu ul {
         margin: 0;
         padding: 0;
@@ -908,7 +969,7 @@
       .nav-menu > ul > li {
         position: relative;
         white-space: nowrap;
-        padding: 10px 0 10px 28px;
+        padding: 10px 10px 10px 28px;
       }
       
       .nav-menu a {
@@ -922,7 +983,7 @@
       }
       
       .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-        color: #953b21;
+        font-weight: bold;
       }
       
       .nav-menu .drop-down ul {
@@ -1155,12 +1216,19 @@
         font-size: 22px;
         font-weight: 700;
         line-height: 64px;
-        color: #334f5d;
-        text-shadow: #acacac 0 2px;
-        font-family: "Montserrat", sans-serif;
+        color: #943b22;
+        font-family: mango;
         text-align: center;
       }
-  
+      .label_comp{
+        margin: 0;
+        font-size: 22px;
+        font-weight: 700;
+        line-height: 64px;
+        color: #943b22;
+        font-family: mango;
+        text-align: center;
+      }
       
       .about{
         margin: 0;
@@ -1327,6 +1395,9 @@
         .text-justify{
           color: #363131;
           padding: 10px;
+        }
+        .text-center{
+          text-align: center;
         }
     
         .list-compe{
@@ -1500,17 +1571,19 @@
   
       .competition-section .card-footer{
         text-align: center;
+        background: #dbcfba;
+        border-radius: 20px;
       }
   
       .competition-section .card-footer p{
         font-size: 16px;
-        font-family: "Montserrat", sans-serif;
-        color: #354c5e;
+        font-family: vietnam;
+        color: #943b22;
       }
   
       .competition-section .card-footer:hover{
         color: #ffffff;
-        background: #df614d;
+        background: #943b22;
         border-radius: 20px;
       }
   
@@ -2384,6 +2457,16 @@
         bottom: 0;
         width: 100%;
       }
+      #footer_about {
+        background: #3d180e;
+        padding: 0 0 5px 0;
+        color: #fff;
+        font-size: 14px;
+        margin-top: 125px;
+        position: relative;
+        bottom: 0;
+        width: 100%;
+      }
       
       #footer .footer-top {
         background: #151515;
@@ -2520,8 +2603,19 @@
         text-align: center;
         padding-top: 30px;
       }
+      #footer_about .copyright {
+        text-align: center;
+        padding-top: 30px;
+      }
+      
       
       #footer .credits {
+        padding-top: 10px;
+        text-align: center;
+        font-size: 13px;
+        color: #fff;
+      }
+      #footer_about .credits {
         padding-top: 10px;
         text-align: center;
         font-size: 13px;
@@ -2536,7 +2630,7 @@
         background-color: rgb(255, 255, 255); 
         z-index: 2; 
         margin: auto;
-        border-radius: 25px;
+        border-radius: 90px;
       }
 
       #overlay-dark {
@@ -2557,13 +2651,15 @@
       .btn-block {
         width: 200px !important;
         display: block;
-  margin-left: auto;
-  margin-right: auto;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 50px;
       }
       .btn-block_2 {
         margin-bottom: 10px;
         display: block;
-  margin-left: auto;
-  margin-right: auto;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius: 50px;
       }
       

@@ -15,10 +15,10 @@
 <section class="d-flex align-items-center justify-content-center" id="overlay">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
-		<div class="col-xl-10 col-lg-8">
+		<div class="col-xl-10 col-lg-10">
 			<div class="">
-			<p class="desc_comp">&emsp;&emsp; <b> Mediation (Media in Action) </b> adalah salah satu mata lomba Epicentrum Unpad dari Prodi Manajemen Produksi Media."</b></p>
-			<p class="desc_comp">&emsp;&emsp; Pada Mediation 2022, sub-tema yang digunakan adalah "Aksesibilitas Informasi Media terhadap Limbah Medis Rumah Tangga" dengan mengangkat konsep Production House yang mempunyai tiga output lomba yaitu videografi, audio, dan poster digital. Melalui sub-tema tersebut, Mediation 2022 berharap, dapat meningkatkan kesadaran masyarakat akan pentingnya pengelolaan limbah medis rumah tangga saat ini.</p>
+			<p class="desc_comp_b">&emsp;&emsp; <b> Mediation (Media in Action) </b> adalah salah satu mata lomba Epicentrum Unpad dari Prodi Manajemen Produksi Media."</b></p>
+			<p class="desc_comp_b">&emsp;&emsp; Pada Mediation 2022, sub-tema yang digunakan adalah "Aksesibilitas Informasi Media terhadap Limbah Medis Rumah Tangga" dengan mengangkat konsep Production House yang mempunyai tiga output lomba yaitu videografi, audio, dan poster digital. Melalui sub-tema tersebut, Mediation 2022 berharap, dapat meningkatkan kesadaran masyarakat akan pentingnya pengelolaan limbah medis rumah tangga saat ini.</p>
 			</div>
 		</div>
     </div>
@@ -37,20 +37,20 @@
 </div>
 </section>
 
-<section id="hero" class="d-flex align-items-center justify-content-center teas">
+<section class="d-flex align-items-center justify-content-center teas">
 	<div class="container pr-ex-center" data-aos="fade-up">
 		<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
-			<div class="col-xl-6 col-lg-8">
+			<div class="col-xl-6 col-lg-6">
 				<h1 class="comp_title">Teaser</h1>
 			</div>
-			<div class="col-xl-6 col-lg-8">
+			<div class="col-xl-6 col-lg-6">
 				<h1 class="comp_title">More About Us</h1>
 			</div>
-			<div class="col-xl-6 col-lg-8">
+			<div class="col-xl-6 col-lg-6">
 				<iframe style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px;" src="https://www.youtube.com/embed/ilmkMPywVEQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 				</iframe>
 			</div>
-			<div class="col-xl-6 col-lg-8">
+			<div class="col-xl-6 col-lg-6">
 				<iframe style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px;" src="https://www.youtube.com/embed/VypFFsIOkl8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 				</iframe>
 			</div>

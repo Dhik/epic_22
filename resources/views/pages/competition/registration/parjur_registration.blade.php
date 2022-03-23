@@ -18,12 +18,12 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
-			<ul class="desc_comp">
-				<li>Peserta merupakan mahasiswa aktif jenjang Diploma/S1/sederajat dari universitas seluruh Indonesia.</li>
-				<li>Satu tim berisikan 3 (tiga) orang peserta berasal dari Universitas yang sama.</li>
-				<li>Peserta dalam satu tim diperbolehkan berasal dari Jurusan maupun Fakultas yang berbeda.</li>
-				<li>Mengerjakan Tugas dalam Brief 1 dan Brief 2 (apabila lolos ke babak selanjutnya) sesuai dengan arahan yang diberikan oleh panitia.</li>
-				<li>Peserta bersedia untuk mengikuti seluruh rangkaian acara yang diadakan oleh Parade Jurnalistik dan Epicentrum Unpad.</li>
+			<ul class="desc_comp_b">
+				<li class="desc_comp">Peserta merupakan mahasiswa aktif jenjang Diploma/S1/sederajat dari universitas seluruh Indonesia.</li>
+				<li class="desc_comp">Satu tim berisikan 3 (tiga) orang peserta berasal dari Universitas yang sama.</li>
+				<li class="desc_comp">Peserta dalam satu tim diperbolehkan berasal dari Jurusan maupun Fakultas yang berbeda.</li>
+				<li class="desc_comp">Mengerjakan Tugas dalam Brief 1 dan Brief 2 (apabila lolos ke babak selanjutnya) sesuai dengan arahan yang diberikan oleh panitia.</li>
+				<li class="desc_comp">Peserta bersedia untuk mengikuti seluruh rangkaian acara yang diadakan oleh Parade Jurnalistik dan Epicentrum Unpad.</li>
 			</ul>
 		</div>
     </div>

@@ -27,10 +27,10 @@
 <div class="container pr-ex-center" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="about">ABOUT EPICENTRUM</h1>
-			<h2 class="detail_about ">Epicentrum is the largest annual international-scale communication festival in Indonesia held by the Faculty of Communication Science, Universitas Padjadjaran (Fikom Unpad). This festival is a forum for the younger generation, especially students, to contribute and realize their role as agents of change in solving various problems in society through a communication point of view.</h2>
-			<h2 class="detail_about ">Youngsters are expected to create the best works and innovations as solutions to real problems by integrating Pentahelix, which includes ABCGM (Academician, Business, Community, Government, and Media) to achieve Epicentrum's goals. In collaboration with the seven competitions from each study program at Fikom Unpad, Epicentrum held a series of competitions, webinars, talk shows, and online workshops. All competition subjects consist of Research Mindedness, Ideation, Liblicious, Parade Jurnalistik, The 10th Padjadjaran Public Relations Fair (Public Relations Student Forum (PRSF) and OlymPRday), Tell A Vision, and Mediation. The seven competitions focus on solving national to global problems which will be linked to their respective scientific focus. This year, Public Relations Student Forum (PRSF) from The 10th Padjadjaran Public Relations Fair, Research Mindedness, Commoviecator, and Ideation can be competed internationally all around Asia.</h2>
-			<h2 class="detail_about ">We hope that Epicentrum can be used as an activity that can unite all departments in the Faculty of Communication Sciences in Asia to strengthen a sense of togetherness. Thus, Epicentrum is not only realized as a festival and competition, but also as a concrete manifestation of the contribution of all students and communication personnel in Asia to problems in the country.</h2>
+			<h1 class="comp_title">About Epicentrum</h1></br></br>
+			<p class="desc_comp_b">Epicentrum is the largest annual international-scale communication festival in Indonesia held by the Faculty of Communication Science, Universitas Padjadjaran (Fikom Unpad). This festival is a forum for the younger generation, especially students, to contribute and realize their role as agents of change in solving various problems in society through a communication point of view.</p>
+			<p class="desc_comp_b">Youngsters are expected to create the best works and innovations as solutions to real problems by integrating Pentahelix, which includes ABCGM (Academician, Business, Community, Government, and Media) to achieve Epicentrum's goals. In collaboration with the seven competitions from each study program at Fikom Unpad, Epicentrum held a series of competitions, webinars, talk shows, and online workshops. All competition subjects consist of Research Mindedness, Ideation, Liblicious, Parade Jurnalistik, The 10th Padjadjaran Public Relations Fair (Public Relations Student Forum (PRSF) and OlymPRday), Tell A Vision, and Mediation. The seven competitions focus on solving national to global problems which will be linked to their respective scientific focus. This year, Public Relations Student Forum (PRSF) from The 10th Padjadjaran Public Relations Fair, Research Mindedness, Commoviecator, and Ideation can be competed internationally all around Asia.</p>
+			<p class="desc_comp_b">We hope that Epicentrum can be used as an activity that can unite all departments in the Faculty of Communication Sciences in Asia to strengthen a sense of togetherness. Thus, Epicentrum is not only realized as a festival and competition, but also as a concrete manifestation of the contribution of all students and communication personnel in Asia to problems in the country.</p>
 		</div>
 	</div>
 	</section>
@@ -40,7 +40,7 @@
 	<div class="container pr-ex-center" data-aos="fade-up">
 		<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 			<div class="col-xl-6 col-lg-8">
-				<h1 class="teaser">TEASER</h1>
+				<h1 class="comp_title">Teaser</h1>
 			</div>
 			<div class="">
 				<iframe  style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px" src="https://youtube.com/embed/GwEtF0MXrdU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen controls></iframe>
@@ -53,7 +53,7 @@
 <section class="competition-section">
 <div class="container">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
-			<h1 class="competition text-center">EVENT</h1>
+			<h1 class="comp_title text-center">Events</h1>
 			<div class="col-md-4 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
 				<div class="card mx-auto">
 					<img src="{{ url('assets/img/pre_event.png')}}" class="card-img-top" alt="...">
@@ -98,7 +98,7 @@
 		<div class="container pr-ex-center" data-aos="fade-up">
 			<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 				<div class="col-xl-6 col-lg-8">
-					<h1 class="competition">COMPETITION</h1>
+					<h1 class="comp_title_li">Competition</h1>
 				</div>
 					<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
 						<ol class="carousel-indicators">
@@ -167,7 +167,7 @@
 			<div class="container pr-ex-center" data-aos="fade-up">
 				<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 					<div class="col-xl-6 col-lg-8">
-						<h1 class="contacts">Contact Us</h1>
+						<h1 class="comp_title_li">Contact Us</h1>
 					</div>
 					<div>
 						<div class="row mt-5">

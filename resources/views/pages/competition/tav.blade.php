@@ -6,7 +6,7 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title_li">Commoviecator</h1>
+			<h1 class="comp_title">Commoviecator</h1>
 			<h2></h2>
 		</div>
     </div>
@@ -16,9 +16,9 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
-			<p class="desc_comp_tav">&emsp;&emsp; <b> Commoviecator </b> is a part of competition presented by Television & Film Student Union under Epicentrum event by the Faculty of Communication Sciences Universitas Padjadjaran. Commoviecator is held with goals to be the student’s forum to emerge their communication skills through short-movie. This competition is encouraging people to make a movie not only for a work of art, but also as a tool that has the ability to deliver such an impactful message.</p>
-			<p class="desc_comp_tav">&emsp;&emsp; In communication terms, an individual or a group of people that conveys messages is called a communicator. A Communicator is known as the main actor who plays an active role in building the communication process. Conveying messages in communication can be done through various media. Movie is one of its forms that conveys messages to mass audiences in audio visual form.</p>
-			<p class="desc_comp_tav">&emsp;&emsp; Hence, Commoviecator exists to maximize the role of communicator in public by promoting and expressing their messages in a film. </p>
+			<p class="desc_comp_b">&emsp;&emsp; <b> Commoviecator </b> is a part of competition presented by Television & Film Student Union under Epicentrum event by the Faculty of Communication Sciences Universitas Padjadjaran. Commoviecator is held with goals to be the student’s forum to emerge their communication skills through short-movie. This competition is encouraging people to make a movie not only for a work of art, but also as a tool that has the ability to deliver such an impactful message.</p>
+			<p class="desc_comp_b">&emsp;&emsp; In communication terms, an individual or a group of people that conveys messages is called a communicator. A Communicator is known as the main actor who plays an active role in building the communication process. Conveying messages in communication can be done through various media. Movie is one of its forms that conveys messages to mass audiences in audio visual form.</p>
+			<p class="desc_comp_b">&emsp;&emsp; Hence, Commoviecator exists to maximize the role of communicator in public by promoting and expressing their messages in a film. </p>
 		</div>
     </div>
 </div>
@@ -36,7 +36,7 @@
 </div>
 </section>
 
-<section id="hero" class="d-flex align-items-center justify-content-center teas">
+<section class="d-flex align-items-center justify-content-center teas">
 	<div class="container pr-ex-center" data-aos="fade-up">
 		<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 			<div class="col-xl-6 col-lg-8">
@@ -54,7 +54,7 @@
 				</iframe>
 			</div>
 		</div>
-		</section>
+</section>
 
 
 <!-- Awal Button -->

@@ -1,4 +1,4 @@
-@extends('layout.temp') 
+@extends('layout.temp_sponsor') 
 @section('title','Epicentrum - Sponsorship') 
 @section('content') 
 <!-- ======= Hero Section ======= -->
@@ -6,7 +6,7 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="art_ex">Sponsorship</h1>
+			<h1 class="comp_title">Sponsorship</h1>
 			<h2></h2>
 		</div>
     </div>
@@ -16,7 +16,7 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
-			<p class="desc_sponsor">We are open for sponsors and media partners! For more information kindly contact us trough:</p>
+			<p class="desc_comp_b text-center">We are open for sponsors and media partners! For more information kindly contact us trough:</p>
 		</div>
     </div>
 </div>

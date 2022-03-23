@@ -16,7 +16,7 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
-			<p class="desc_comp">&emsp;&emsp; <b> Parade Jurnalistik (ParJur) </b> merupakan kompetisi tahunan jurnalistik mahasiswa S1/Diploma/Sederajat tingkat nasional persembahan program studi Jurnalistik Fakultas Ilmu Komunikasi Universitas Padjadjaran. Di bawah naungan Epicentrum Fikom Unpad. Setiap tahunnya Parade Jurnalistik berfokus pada isu aktual. Peserta ditantang untuk membuat produk jurnalistik berbasis perspektif jurnalisme sains yang dapat meningkatkan kesadaran dan kepedulian masyarakat atas isu terkini yang menjadi kekhawatiran publik. Kompetisi ini bertujuan untuk mencari jurnalis-jurnalis muda yang dapat menciptakan produk jurnalistik yang menarik serta bersifat aktual dan faktual sehingga dapat bermanfaat bagi masyarakat luas.</p>
+			<p class="desc_comp_b">&emsp;&emsp; <b> Parade Jurnalistik (ParJur) </b> merupakan kompetisi tahunan jurnalistik mahasiswa S1/Diploma/Sederajat tingkat nasional persembahan program studi Jurnalistik Fakultas Ilmu Komunikasi Universitas Padjadjaran. Di bawah naungan Epicentrum Fikom Unpad. Setiap tahunnya Parade Jurnalistik berfokus pada isu aktual. Peserta ditantang untuk membuat produk jurnalistik berbasis perspektif jurnalisme sains yang dapat meningkatkan kesadaran dan kepedulian masyarakat atas isu terkini yang menjadi kekhawatiran publik. Kompetisi ini bertujuan untuk mencari jurnalis-jurnalis muda yang dapat menciptakan produk jurnalistik yang menarik serta bersifat aktual dan faktual sehingga dapat bermanfaat bagi masyarakat luas.</p>
 		</div>
     </div>
 </div>
@@ -34,7 +34,7 @@
 </div>
 </section>
 
-<section id="hero" class="d-flex align-items-center justify-content-center teas">
+<section class="d-flex align-items-center justify-content-center teas">
 	<div class="container pr-ex-center" data-aos="fade-up">
 		<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 			<div class="col-xl-6 col-lg-8">

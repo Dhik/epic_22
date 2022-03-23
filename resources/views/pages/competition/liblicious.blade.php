@@ -6,7 +6,7 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title_li">Liblicious</h1>
+			<h1 class="comp_title">Liblicious</h1>
 			<h2></h2>
 		</div>
     </div>
@@ -15,8 +15,8 @@
 <section class="d-flex align-items-center justify-content-center" id="overlay">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
-		<div class="col-xl-10 col-lg-8">
-			<p class="desc_comp">&emsp;&emsp; The subject of <b> Liblicious </b> is a scientific writing competition in the form of articles under the auspices of Epicentrum Fikom Unpad that aims to increase the writer's creativity, critical thinking, analytical, and problem-solving skills. This competition was initiated by the Library of Information Science, one of the fields of study at the Faculty of Communication Sciences, Padjadjaran University. By holding this competition, it is hoped that it will be the first step for students to maximize the function of the role of libraries and information institutions in solving community problems
+		<div class="col-xl-10 col-lg-10">
+			<p class="desc_comp_b">&emsp;&emsp; The subject of <b> Liblicious </b> is a scientific writing competition in the form of articles under the auspices of Epicentrum Fikom Unpad that aims to increase the writer's creativity, critical thinking, analytical, and problem-solving skills. This competition was initiated by the Library of Information Science, one of the fields of study at the Faculty of Communication Sciences, Padjadjaran University. By holding this competition, it is hoped that it will be the first step for students to maximize the function of the role of libraries and information institutions in solving community problems
 </p>
 		</div>
     </div>
@@ -35,19 +35,19 @@
 </div>
 </section>
 
-<section id="hero" class="d-flex align-items-center justify-content-center teas">
+<section class="d-flex align-items-center justify-content-center teas">
 	<div class="container pr-ex-center" data-aos="fade-up">
 		<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
-			<div class="col-xl-6 col-lg-8">
+			<div class="col-xl-6 col-lg-6">
 				<h1 class="comp_title">Teaser</h1>
 			</div>
-			<div class="col-xl-6 col-lg-8">
+			<div class="col-xl-6 col-lg-6">
 				<h1 class="comp_title">More About Us</h1>
 			</div>
-			<div class="frame_comp col-xl-6 col-lg-8">
+			<div class="frame_comp col-xl-6 col-lg-6">
 				<iframe style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px" src="https://www.youtube.com/embed/-BJu2eWWTZ0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</div>
-			<div class="frame_comp col-xl-6 col-lg-8">
+			<div class="frame_comp col-xl-6 col-lg-6">
 				<iframe style="border:0; padding: 15px; margin-top: 30px; width: 100%; height: 360px" src="https://www.youtube.com/embed/VfUZJw9__B8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 			</div>
 		</div>

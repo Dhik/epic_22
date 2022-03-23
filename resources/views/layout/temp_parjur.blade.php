@@ -35,7 +35,7 @@
     @stack('css')
 </head>
 
-<body class='parjur'>
+<body class='remind'>
 
   @include('includes.header')
 

@@ -6,7 +6,7 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8 col">
-			<h1 class="comp_title_li">Ideation</h1>
+			<h1 class="comp_title">Ideation</h1>
 			<h2></h2>
 		</div>
     </div>
@@ -15,8 +15,8 @@
 <section class="d-flex align-items-center justify-content-center" id="overlay">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
-		<div class="col-xl-10 col-lg-8">
-			<p class="desc_comp">&emsp;&emsp; <b> Ideation 2022 </b> is one of Epicentrum's 2022 competition branches that focuses on constructing communication strategies to solve social issues, specifically climate change. Ideation invites participants to think more creatively, train their research and analytical skills, and discover the most effective communication strategies in the form of social campaigns. Participants will compete to create the best creative proposal and pitch deck regarding the most effective communication strategies to educate people about the impacts of ongoing climate change. Besides competition, Ideation 2022 conducts other activities, such as workshops to provide valuable insights for the participants and webinars for the general public. </p>
+		<div class="col-xl-10 col-lg-10">
+			<p class="desc_comp_b">&emsp;&emsp; <b> Ideation 2022 </b> is one of Epicentrum's 2022 competition branches that focuses on constructing communication strategies to solve social issues, specifically climate change. Ideation invites participants to think more creatively, train their research and analytical skills, and discover the most effective communication strategies in the form of social campaigns. Participants will compete to create the best creative proposal and pitch deck regarding the most effective communication strategies to educate people about the impacts of ongoing climate change. Besides competition, Ideation 2022 conducts other activities, such as workshops to provide valuable insights for the participants and webinars for the general public. </p>
 		</div>
     </div>
 </div>
@@ -34,13 +34,13 @@
 </div>
 </section>
 
-<section id="hero" class="d-flex align-items-center justify-content-center teas">
+<section class="d-flex align-items-center justify-content-center teas">
 	<div class="container pr-ex-center" data-aos="fade-up">
 		<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
-			<div class="col-xl-6 col-lg-8">
+			<div class="col-xl-6 col-lg-6">
 				<h1 class="comp_title">Teaser</h1>
 			</div>
-			<div class="col-xl-6 col-lg-8">
+			<div class="col-xl-6 col-lg-6">
 				<h1 class="comp_title">More About Us</h1>
 			</div>
 			<div class="frame_comp col-xl-6 col-lg-8">
