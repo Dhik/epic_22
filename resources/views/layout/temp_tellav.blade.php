@@ -35,7 +35,7 @@
     @stack('css')
 </head>
 
-<body class='remind'>
+<body class='tellav'>
 
   @include('includes.header')
 

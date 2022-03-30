@@ -237,7 +237,7 @@
   }
   
   .contact_person{
-    background:rgba(255,255,255,0.8);
+    background:rgb(255, 255, 255);
   }
   
   .social-link {
@@ -258,7 +258,9 @@
       text-decoration: none;
       color: #555;
   }
-  
+  .rounded {
+    border-radius: 30px !important;
+  }
   ul.participant_terms {
       color:rgb(28, 28, 28);
       font-size: 18px;
@@ -1216,7 +1218,7 @@ body.sponsor {
         font-size: 22px;
         font-weight: 700;
         line-height: 64px;
-        color: #943b22;
+        color: #334E5D;
         font-family: mango;
         text-align: center;
       }
@@ -1578,7 +1580,7 @@ body.sponsor {
       .competition-section .card-footer p{
         font-size: 16px;
         font-family: vietnam;
-        color: #943b22;
+        color: #334E5D;
       }
   
       .competition-section .card-footer:hover{
@@ -2448,7 +2450,7 @@ body.sponsor {
       # Footer
       --------------------------------------------------------------*/
       #footer {
-        background: #334f5d;
+        background: #334f5d00;
         padding: 0 0 5px 0;
         color: #fff;
         font-size: 14px;
@@ -2458,7 +2460,7 @@ body.sponsor {
         width: 100%;
       }
       #footer_about {
-        background: #3d180e;
+        background: #3a1106;
         padding: 0 0 5px 0;
         color: #fff;
         font-size: 14px;
