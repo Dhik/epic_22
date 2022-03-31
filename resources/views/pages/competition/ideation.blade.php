@@ -6,7 +6,7 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8 col">
-			<h1 class="comp_title">Ideation</h1>
+			<h1 class="comp_title_li">Ideation</h1>
 			<h2></h2>
 		</div>
     </div>
@@ -58,7 +58,7 @@
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 	<div class="row">
 	<div>
-				<h1 class="comp_title">The Competition</h1>
+				<h1 class="comp_title_li">The Competition</h1>
 			</div>
 				</div>
 			<div class="col-md-4 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">

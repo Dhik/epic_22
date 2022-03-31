@@ -1,4 +1,4 @@
-@extends('layout.temp_liblicious') 
+@extends('layout.temp_faq_liblicious') 
 @section('title','Epicentrum - Liblicious') 
 @section('content') 
 <!-- ======= Hero Section ======= -->
@@ -9,7 +9,7 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title">Liblicious Trivia 2022</h1>
+			<h1 class="comp_title_li">Liblicious Trivia 2022</h1>
 		</div>
     </div>
 </div>

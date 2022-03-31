@@ -1,4 +1,4 @@
-@extends('layout.temp_tellav') 
+@extends('layout.temp_reg_tellav') 
 @section('title','Epicentrum - Commoviecator') 
 @section('content') 
 <!-- ======= Hero Section ======= -->

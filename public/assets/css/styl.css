@@ -692,7 +692,7 @@ li.desc_comp{
       }
     
       body.remind {
-          background: url("../img/matlom.png") top no-repeat;
+          background: url("../img/comp/matlom_14.png") top no-repeat;
           background-size: cover;
           font-family: "Open Sans", sans-serif;
           color: #444444;
@@ -767,14 +767,197 @@ li.desc_comp{
       overflow-x: hidden;
   }
 
-  body.mediation {
-    background: url("../img/matlom_32.png") top no-repeat;
+
+
+  body.mediation_reg {
+    background: url("../img/comp/matlom_24.png") top no-repeat;
     background-size: cover;
     font-family: "Montserrat", sans-serif;
     color: #444444;
     max-width: 100%;
     overflow-x: hidden;
 }
+body.tellav_reg {
+    background: url("../img/comp/matlom_27.png") top no-repeat;
+    background-size: cover;
+    font-family: "Montserrat", sans-serif;
+    color: #444444;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+body.ideation_reg {
+    background: url("../img/comp/matlom_25.png") top no-repeat;
+    background-size: cover;
+    font-family: "Montserrat", sans-serif;
+    color: #444444;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+body.parjur_reg {
+    background: url("../img/comp/matlom_22.png") top no-repeat;
+    background-size: cover;
+    font-family: "Montserrat", sans-serif;
+    color: #444444;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+body.liblicious_reg {
+    background: url("../img/comp/matlom_26.png") top no-repeat;
+    background-size: cover;
+    font-family: "Montserrat", sans-serif;
+    color: #444444;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+body.remind_reg {
+  background: url("../img/comp/matlom_28.png") top no-repeat;
+  background-size: cover;
+  font-family: "Montserrat", sans-serif;
+  color: #444444;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+body.pprf_reg {
+    background: url("../img/comp/matlom_23.png") top no-repeat;
+    background-size: cover;
+    font-family: "Montserrat", sans-serif;
+    color: #444444;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+
+
+
+body.mediation_faq {
+  background: url("../img/comp/matlom_31.png") top no-repeat;
+  background-size: cover;
+  font-family: "Montserrat", sans-serif;
+  color: #444444;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+body.tellav_faq {
+  background: url("../img/comp/matlom_34.png") top no-repeat;
+  background-size: cover;
+  font-family: "Montserrat", sans-serif;
+  color: #444444;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+body.ideation_faq {
+  background: url("../img/comp/matlom_32.png") top no-repeat;
+  background-size: cover;
+  font-family: "Montserrat", sans-serif;
+  color: #444444;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+body.parjur_faq {
+  background: url("../img/comp/matlom_29.png") top no-repeat;
+  background-size: cover;
+  font-family: "Montserrat", sans-serif;
+  color: #444444;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+body.liblicious_faq {
+  background: url("../img/comp/matlom_33.png") top no-repeat;
+  background-size: cover;
+  font-family: "Montserrat", sans-serif;
+  color: #444444;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+body.remind_faq {
+background: url("../img/comp/matlom_35.png") top no-repeat;
+background-size: cover;
+font-family: "Montserrat", sans-serif;
+color: #444444;
+max-width: 100%;
+overflow-x: hidden;
+}
+
+body.pprf_faq {
+  background: url("../img/comp/matlom_30.png") top no-repeat;
+  background-size: cover;
+  font-family: "Montserrat", sans-serif;
+  color: #444444;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+
+
+
+body.mediation_tem {
+  background: url("../img/comp/matlom_17.png") top no-repeat;
+  background-size: cover;
+  font-family: "Montserrat", sans-serif;
+  color: #444444;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+body.tellav_tem {
+  background: url("../img/comp/matlom_20.png") top no-repeat;
+  background-size: cover;
+  font-family: "Montserrat", sans-serif;
+  color: #444444;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+body.ideation_tem {
+  background: url("../img/comp/matlom_18.png") top no-repeat;
+  background-size: cover;
+  font-family: "Montserrat", sans-serif;
+  color: #444444;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+body.parjur_tem {
+  background: url("../img/comp/matlom_15.png") top no-repeat;
+  background-size: cover;
+  font-family: "Montserrat", sans-serif;
+  color: #444444;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+body.liblicious_tem {
+  background: url("../img/comp/matlom_19.png") top no-repeat;
+  background-size: cover;
+  font-family: "Montserrat", sans-serif;
+  color: #444444;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+body.remind_tem {
+background: url("../img/comp/matlom_21.png") top no-repeat;
+background-size: cover;
+font-family: "Montserrat", sans-serif;
+color: #444444;
+max-width: 100%;
+overflow-x: hidden;
+}
+
+body.pprf_tem {
+  background: url("../img/comp/matlom_16.png") top no-repeat;
+  background-size: cover;
+  font-family: "Montserrat", sans-serif;
+  color: #444444;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+
+
+
 
 body.contact {
   background: url("../img/contact.png") top no-repeat;

@@ -1,4 +1,4 @@
-@extends('layout.temp_mediation') 
+@extends('layout.temp_faq_mediation') 
 @section('title','Epicentrum - Mediation') 
 @section('content') 
 <!-- ======= Hero Section ======= -->

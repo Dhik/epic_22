@@ -1,4 +1,4 @@
-@extends('layout.temp_parjur')
+@extends('layout.temp_faq_parjur')
 @section('title','Epicentrum - Parade Jurnalistik')
 @section('content')
 <!-- ======= Hero Section ======= -->

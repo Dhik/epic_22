@@ -1,4 +1,4 @@
-@extends('layout.temp_remind') 
+@extends('layout.temp_faq_remind') 
 @section('title','Epicentrum - Research Mindedness') 
 @section('content') 
 <!-- ======= Hero Section ======= -->
