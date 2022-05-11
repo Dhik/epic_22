@@ -228,10 +228,10 @@
 			<div class="col-xl-4 col-sm-6 mb-5">
 			    <div class="contact_person rounded shadow-sm py-5 px-4">
 			        <h5 class="mb-0">{{ $item->title }}</h5><span class="small text-uppercase text-muted text-center">{{ $item->subtitle }}</span>
-			            <ul class="social mb-0 list-inline mt-3">
+			            <!-- <ul class="social mb-0 list-inline mt-3">
 			                <li class="list-inline-item"><a href="http://line.me/ti/p/~{{ $item->line_id }}" class="social-link"><i class="fa-2x fab fa-line"></i></a></li>
 			                <li class="list-inline-item"><a href="mailto:{{ $item-> email}}" class="social-link"><i class="fa-2x fas fa-envelope"></i></a></li>
-			            </ul>
+			            </ul> -->
 			    </div>
 			</div>
 		@endforeach

@@ -18,10 +18,12 @@ class CreateJudgesTable extends Migration
             $table->text('picture');
             $table->string('name');
             $table->string('occupation');
+            $table->string('institution');
+            $table->string('type')->nullable();
             $table->unsignedBigInteger('competition_id');
-            $table->timestamps();
-
-            $table->foreign('competition_id')->references('id')->on('competitions');
+            $table->timestamp('created_at')->useCurrent();
+            $table->timestamp('updated_at')->useCurrentOnUpdate()->nullable();
+            // $table->foreign('competition_id')->references('id')->on('competitions');
         });
     }
 

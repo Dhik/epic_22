@@ -41,9 +41,10 @@ class PageController extends Controller
         return view('pages.contact');
     }
     public function sponsorship(){
-        $small_sponsorships = Sponsorship::where('type', 'SMALL')->get();
-        $medium_sponsorships = Sponsorship::where('type', 'MEDIUM')->get();
-        $large_sponsorships = Sponsorship::where('type', 'LARGE')->get();
+        $small_sponsorships = Sponsorship::where('size', 'SMALL')->get();
+        $medium_sponsorships = Sponsorship::where('size', 'MEDIUM')->get();
+        $large_sponsorships = Sponsorship::where('size', 'LARGE')->get();
+        $extra_large_sponsorships = Sponsorship::where('size', 'EXTRA_LARGE')->get();
         foreach ($small_sponsorships as $item) {
             $item->picture = url('upload/sponsorship')."/".$item->picture;
         }
@@ -53,11 +54,15 @@ class PageController extends Controller
         foreach ($large_sponsorships as $item) {
             $item->picture = url('upload/sponsorship')."/".$item->picture;
         }
+        foreach ($extra_large_sponsorships as $item) {
+            $item->picture = url('upload/sponsorship')."/".$item->picture;
+        }
 
         return view('pages.sponsorship', [
             'small_sponsorships' => $small_sponsorships,
             'medium_sponsorships' => $medium_sponsorships,
-            'large_sponsorships' => $large_sponsorships
+            'large_sponsorships' => $large_sponsorships,
+            'extra_large_sponsorships' => $extra_large_sponsorships,
         ]);
     }
     public function remind(){

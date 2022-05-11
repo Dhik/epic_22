@@ -235,6 +235,19 @@
 </div>
 </section>
 
+<!-- Special note -->
+<section class="d-flex align-items-center justify-content-center" id="overlay">
+<div class="container" data-aos="fade-up">
+	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+		<div class="col-xl-10 col-lg-8">
+			<p class="comp_title_li">&emsp;&emsp; Special note:</p>
+			<p class="desc_comp_b">&emsp;&emsp; Based on the jury's assessment, there were three works by the participating teams that did not meet the criteria for the preliminary round assessment due to the high evidence of plagiarism.</p>
+			<p class="desc_comp_b">&emsp;&emsp; Therefore, the 2022 Parade Jurnalistik committee decided that the three teams were officially disqualified from this competition. This decision is expected to be accepted by all sides. Thank you.</p>
+		</div>
+    </div>
+</div>
+</section>
+
 @endif
 <!-- Akhir Section finalist -->
 

@@ -17,8 +17,8 @@ class CreateSponsorshipsTable extends Migration
             $table->id();
             $table->string('name');
             $table->text('picture');
-            $table->string('link');
-            $table->enum('type', ['SMALL', 'MEDIUM', 'LARGE']);
+            $table->string('type');
+            $table->enum('size', ['SMALL', 'MEDIUM', 'LARGE', 'EXTRA_LARGE']);
             $table->timestamps();
         });
     }
