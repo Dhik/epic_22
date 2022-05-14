@@ -2847,4 +2847,10 @@ body.sponsor {
         margin-right: auto;
         border-radius: 50px;
       }
-      
+      .img_event {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 100%;
+        height: auto;
+      }
