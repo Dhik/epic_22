@@ -16,7 +16,7 @@
 	<div class="container" data-aos="fade-up">
 		<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 			<div class="col-xl-7 col-lg-8">
-				<img src="{{ url('assets/img/pre_event_poster.jpg')}}" class="img-fluid img_event" style="">
+				<img src="{{ url('assets/img/pre_event_poster.png')}}" class="img-fluid img_event" style="">
 			</div>
 		</div>
 	</div>
@@ -33,8 +33,7 @@
 	<div class="container" style="padding-top:0px !important;" data-aos="fade-up">
 		<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 			<div class="col-xl-10 col-lg-8">
-				<p class="theme-title">Press Release Webinar dan Talkshow Epicentrum 2022:</p>
-				<p class="theme-title">“Facing Climate Change in the Post-pandemic Era through Pentahelix Collaboration.”</p>
+				<p class="theme-title">Epicentrum 2022 dan Upaya Mahasiswa dalam Pemecahan Masalah Iklim</p>
 				<p class="desc_comp">&emsp;&emsp; Sabtu, 2 April 2022 – Epicentrum Fakultas Ilmu Komunikasi Universitas Padjadjaran telah melaksanakan rangkaian pre-event Epicentrum 2022, yaitu Webinar dan Takshow berjudul “Facing Climate Change in the Post-pandemic Era through Pentahelix Collaboration”. Tahun ini, Epicentrum mengangkat tema “Earthmergency Call: Action Against Climate Disruption” yang diharapkan dapat menjadi wadah mahasiswa untuk melaksanakan perannya sebagai agent of change dalam memecahkan permasalahan krisis iklim global melalui sudut pandang komunikasi.</p>
 				<p class="desc_comp">&emsp;&emsp; Webinar dan Talkshow Epicentrum 2022 menghadirkan empat pembicara yang masing-masing mewakili konsep pentahelix ABCGM (Academician, Business, Community, Government, Media). Sesi pertama, yaitu sesi webinar, menghadirkan Novia Widyaningtyas, S.Hut., M.Sc selaku Plt.Sekretaris Direktorat PPI Kementerian Lingkungan Hidup dan Kehutanan Republik Indonesia dan Beni Suryadi selaku Manager of Power, Fossil Fuel, Alternative Energy and Storage ASEAN Climate Change and Energy. Selanjutnya, sesi talkshow diisi oleh Velyasha Siregar selaku Brand Manager, Brand Activation Division Somethinc dan Irvan Imamsyah selaku Supervising Assignment Editor CNN Indonesia TV.</p>
 				<p class="desc_comp">&emsp;&emsp; Dengan mengangkat kolaborasi pentahelix dalam permasalahan iklim, kegiatan Webinar dan Talkshow Epicentrum 2022 diharapkan dapat memecahkan masalah mengenai krisis iklim yang terjadi. Total peserta pada rangkaian kegiatan ini adalah 400 peserta.</p>
