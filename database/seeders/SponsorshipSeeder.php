@@ -29,7 +29,7 @@ class SponsorshipSeeder extends Seeder
             ],
             [
                 'name'=>'PAKALOLO',
-                'picture'=>'PAKALOLO.png',
+                'picture'=>'PAKALOLO.jpeg',
                 'type'=>'SPONSOR',
                 'size'=>'MEDIUM',
             ],
@@ -59,7 +59,7 @@ class SponsorshipSeeder extends Seeder
             ],
             [
                 'name'=>'AJAIB',
-                'picture'=>'AJAIB.jpeg',
+                'picture'=>'AJAIB.png',
                 'type'=>'SPONSOR',
                 'size'=>'SMALL',
             ],
@@ -75,27 +75,73 @@ class SponsorshipSeeder extends Seeder
                 'type'=>'SPONSOR',
                 'size'=>'SMALL',
             ],
+            //TAMBAHAN SPONSOR
+            [
+                'name'=>'PT PERTAMINA TRANSKONTINENTAL',
+                'picture'=>'PT-PERTAMINA-TRANSKONTINENTAL.PNG',
+                'type'=>'SPONSOR',
+                'size'=>'LARGE',
+            ],
+            [
+                'name'=>'ARNA',
+                'picture'=>'ARNA.png',
+                'type'=>'SPONSOR',
+                'size'=>'MEDIUM',
+            ],
+            [
+                'name'=>'INDOFOOD',
+                'picture'=>'INDOFOOD.PNG',
+                'type'=>'SPONSOR',
+                'size'=>'MEDIUM',
+            ],
+            [
+                'name'=>'PRUDENTIAL',
+                'picture'=>'PRUDENTIAL.png',
+                'type'=>'SPONSOR',
+                'size'=>'MEDIUM',
+            ],
+            [
+                'name'=>'DANONE',
+                'picture'=>'DANONE.png',
+                'type'=>'SPONSOR',
+                'size'=>'MEDIUM',
+            ],
+            [
+                'name'=>'PUPUK INDONESIA',
+                'picture'=>'PUPUK-INDONESIA.png',
+                'type'=>'SPONSOR',
+                'size'=>'MEDIUM',
+            ],
+            //END TAMBAHAN SPONSOR
             [
                 'name'=>'KLHK',
                 'picture'=>'KLHK.png',
-                'type'=>'PARTNERSHIP',
+                'type'=>'SUPPORTED',
                 'size'=>'EXTRA_LARGE',
             ],
             [
                 'name'=>'CNN',
-                'picture'=>'CNN.png',
-                'type'=>'PARTNERSHIP',
+                'picture'=>'CNN.PNG',
+                'type'=>'SUPPORTED',
                 'size'=>'EXTRA_LARGE',
             ],
             [
                 'name'=>'ASEAN',
                 'picture'=>'ASEAN.png',
-                'type'=>'PARTNERSHIP',
+                'type'=>'SUPPORTED',
                 'size'=>'EXTRA_LARGE',
             ],
+            //TAMBAHAN SUPPORTED BY
+            [
+                'name'=>'Kemenko Marves',
+                'picture'=>'Kemenko-Marves.PNG',
+                'type'=>'SUPPORTED',
+                'size'=>'EXTRA_LARGE',
+            ],
+            //END TAMBAHAN SUPPORTED BY
             [
                 'name'=>'HIPWEE',
-                'picture'=>'HIPWEE.jpg',
+                'picture'=>'HIPWEE.png',
                 'type'=>'MEDIA PARTNER',
                 'size'=>'MEDIUM',
             ],
@@ -149,7 +195,32 @@ class SponsorshipSeeder extends Seeder
             ],
             [
                 'name'=>'IO UNPAD',
-                'picture'=>'IO UNPAD.jpg',
+                'picture'=>'IO_UNPAD.png',
+                'type'=>'MEDIA PARTNER',
+                'size'=>'SMALL',
+            ],
+            // TAMBAHAN MEDIA PARTNER
+            [
+                'name'=>'NET TV',
+                'picture'=>'NET-TV.png',
+                'type'=>'MEDIA PARTNER',
+                'size'=>'LARGE',
+            ],
+            [
+                'name'=>'CNN Indonesia',
+                'picture'=>'CNN.PNG',
+                'type'=>'MEDIA PARTNER',
+                'size'=>'LARGE',
+            ],
+            [
+                'name'=>'PPRF',
+                'picture'=>'PPRF.png',
+                'type'=>'MEDIA PARTNER',
+                'size'=>'SMALL',
+            ],
+            [
+                'name'=>'Remind',
+                'picture'=>'Remind.png',
                 'type'=>'MEDIA PARTNER',
                 'size'=>'SMALL',
             ],
