@@ -96,7 +96,7 @@ class SponsorshipSeeder extends Seeder
             ],
             [
                 'name'=>'PRUDENTIAL',
-                'picture'=>'PRUDENTIAL.png',
+                'picture'=>'PRUDENTIAL.PNG',
                 'type'=>'SPONSOR',
                 'size'=>'MEDIUM',
             ],
