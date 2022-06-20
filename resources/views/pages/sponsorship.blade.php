@@ -53,7 +53,7 @@
 				@if($item->type == "SPONSOR")
 				<div class="col-lg-4 col-md-8 col-sm-10 col-10 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
 					<div class="mx-auto">
-						<img src="{{ $item->picture }}" class="card-img-top brand" alt="...">
+						<img src="{{ $item->picture }}" class="card-img-top" alt="...">
 					</div>
 				</div>
 				@endif
@@ -64,7 +64,7 @@
 				@if($item->type == "SPONSOR")
 				<div class="col-lg-3 col-md-6 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
 					<div class="mx-auto">
-						<img src="{{ $item->picture }}" class="card-img-top brand" alt="...">
+						<img src="{{ $item->picture }}" class="card-img-top" alt="...">
 					</div>
 				</div>
 				@endif
@@ -75,7 +75,7 @@
 				@if($item->type == "SPONSOR")
 				<div class="col-lg-2 col-md-4 col-sm-4 col-4 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
 					<div class="mx-auto">
-						<img src="{{ $item->picture }}" class="card-img-top brand" alt="...">
+						<img src="{{ $item->picture }}" class="card-img-top" alt="...">
 					</div>
 				</div>
 				@endif
@@ -101,7 +101,7 @@
 				@if($item->type == "MEDIA PARTNER")
 				<div class="col-lg-4 col-md-8 col-sm-10 col-10 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
 					<div class="mx-auto">
-						<img src="{{ $item->picture }}" class="card-img-top brand" alt="...">
+						<img src="{{ $item->picture }}" class="card-img-top" alt="...">
 					</div>
 				</div>
 				@endif
@@ -112,7 +112,7 @@
 				@if($item->type == "MEDIA PARTNER")
 				<div class="col-lg-3 col-md-6 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
 					<div class="mx-auto">
-						<img src="{{ $item->picture }}" class="card-img-top brand" alt="...">
+						<img src="{{ $item->picture }}" class="card-img-top" alt="...">
 					</div>
 				</div>
 				@endif
@@ -123,7 +123,7 @@
 				@if($item->type == "MEDIA PARTNER")
 				<div class="col-lg-2 col-md-4 col-sm-4 col-4 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
 					<div class="mx-auto">
-						<img src="{{ $item->picture }}" class="card-img-top brand" alt="...">
+						<img src="{{ $item->picture }}" class="card-img-top" alt="...">
 					</div>
 				</div>
 				@endif
@@ -145,12 +145,12 @@
 	<!-- Supported  -->
 	<section class="brand-section">
 		<div class="container">
-		<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
+			<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 				@foreach ($extra_large_sponsorships as $item)
 				@if($item->type == "SUPPORTED")
 				<div class="col-lg-5 col-md-10 col-sm-12 col-12 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
 					<div class="mx-auto">
-						<img src="{{ $item->picture }}" class="card-img-top brand" alt="...">
+						<img src="{{ $item->picture }}" class="card-img-top" alt="...">
 					</div>
 				</div>
 				@endif
@@ -161,7 +161,7 @@
 				@if($item->type == "SUPPORTED")
 				<div class="col-lg-4 col-md-8 col-sm-10 col-10 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
 					<div class="mx-auto">
-						<img src="{{ $item->picture }}" class="card-img-top brand" alt="...">
+						<img src="{{ $item->picture }}" class="card-img-top" alt="...">
 					</div>
 				</div>
 				@endif
@@ -172,7 +172,7 @@
 				@if($item->type == "SUPPORTED")
 				<div class="col-lg-3 col-md-6 col-sm-6 col-6 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
 					<div class="mx-auto">
-						<img src="{{ $item->picture }}" class="card-img-top brand" alt="...">
+						<img src="{{ $item->picture }}" class="card-img-top" alt="...">
 					</div>
 				</div>
 				@endif
@@ -183,7 +183,7 @@
 				@if($item->type == "SUPPORTED")
 				<div class="col-lg-2 col-md-4 col-sm-4 col-4 aos-init aos-animate" data-aos="fade-up" data-aos-duration="200">
 					<div class="mx-auto">
-						<img src="{{ $item->picture }}" class="card-img-top brand" alt="...">
+						<img src="{{ $item->picture }}" class="card-img-top" alt="...">
 					</div>
 				</div>
 				@endif
