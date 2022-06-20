@@ -41,7 +41,7 @@
 <div class="container">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title">Sponsorship</h1>
+			<h1 class="comp_title">Sponsorship By</h1>
 			<h2></h2>
 		</div>
 	</div>
@@ -89,7 +89,7 @@
 <div class="container">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title">Media Partner</h1>
+			<h1 class="comp_title">Media Partner By</h1>
 			<h2></h2>
 		</div>
 	</div>
@@ -138,7 +138,7 @@
 <div class="container">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title">Supported</h1>
+			<h1 class="comp_title">Supported By</h1>
 			<h2></h2>
 		</div>
 	</div>
