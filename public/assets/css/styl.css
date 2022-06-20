@@ -2950,3 +2950,16 @@ body {
     max-width: 100%;
   }
 }
+.brand {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+
+section.brand-section{
+  margin-top: 0px;
+  padding-top: 0px;
+}
