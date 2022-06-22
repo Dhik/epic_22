@@ -112,11 +112,9 @@
 		</div>
     </div>
 </div>
-
 </section>
 
-@if (empty($talkshow))
-<section class="d-flex align-items-center justify-content-center">
+<!-- <section class="d-flex align-items-center justify-content-center">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-12 col-lg-12">
@@ -124,14 +122,13 @@
 		</div>
     </div>
 </div>
-</section>
-@else
+</section> -->
 <!-- coming soon POSTER -->
 <section class="d-flex align-items-center justify-content-center">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<img src="{{ $talkshow->picture }}" class="img-fluid" >
+			<img src="{{ url('assets/img/talkshow/remind.png')}}" class="img-fluid" >
 		</div>
     </div>
 </div>
@@ -140,12 +137,14 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
-			<p class="desc_comp">&emsp;&emsp; {{ $talkshow->description }}</p>
+			<p class="desc_comp">&emsp;&emsp; The 6th Annual Research Mindedness Seminar has been held at 9 A.M, on May 18, 2022, via Zoom Meeting and moderated by Aliya Saajida. This seminar is called by the title of "Fast Fashion 101: The New Era of Sustainable Fashion" which is one of the programs under the Research Mindedness competition at Epicentrum Padjdjaran Communication Festival. The title was given from the theme that is arisen by Research Mindedness for the competition which is "Persuasive Communication by Media to Reduce Fast Fashion Waste" which is developed from the main issue, namely climate action. There are several speakers in this seminar that are experts in their field and are relevant to the discussed topic such as Indita Karina, a Senior Lecturer in Fashion Design at Binus International, Nada Zharfania, a Sustainability Behavior and Marketing Analyst at WRI Indonesia, and Intan Anggita, Co-Founder of Setali Indonesia. These 3 speakers are intended to raise people's awareness about the impact of the fast fashion industry on the environment leading to a new era of sustainable fashion.</p>
+			<p class="desc_comp">&emsp;&emsp; In this seminar, the speakers mainly discuss the fast fashion industry which is one of the most interesting issues in our life. To comprehend, Fast fashion is a word used to characterize the clothing industry's business model of copying recent catwalk trends and high-fashion designs, mass-producing them at minimal costs, and releasing them to retail stores quickly while demand is high. However, the fact is that this industry has a serious impact on our environment. This seminar is expected to provide the participants with new knowledge so that it can help participants to have a bigger picture and scope in studying problems in more depth to be poured into the Research Mindedness competition. Besides that, by acknowledging the impacts of fast fashion, the participants could actually implement the steps to reduce the impacts of fast fashion in real life.</p>
+			<p class="desc_comp">&emsp;&emsp; The 6th Annual Research Mindedness Seminar participants were more than 100 participants which includes the Research Mindedness crew, the participants of the competition, and other Padjadjaran University students. The seminar was also live-streamed on YouTube. The seminar was opened by the MC, Aliya, then followed by the remarks of the project officer, the Faculty of Communication Science Padjadjaran University's dean, the head of the Communication Science study program, and the head of Communication Science Hima.</p>
+			<p class="desc_comp">&emsp;&emsp; After all those remarks, the discussion of the topic is finally started. The first speaker is Indita Karlina. She discussed fast fashion itself, like what is fast fashion? how can it spread massively? and so on. Followed by the second speaker, which is Nada Zharfania, discussed the correlation between apparel and the environment. Lastly, the third speaker, Intan Anggita mainly discussed the impacts of fast fashion. The participants were allowed to ask questions about fast fashion to the speakers during the Q&A session after the 3 speakers finished their presentations. The seminar was close to the end, before that, there are certifications for the 3 speakers, Indita Karline, Nada Zharfania, and Intan Anggita for their participation to be speakers in the Research Mindedness seminar. Then, the moderator, Aliya Saajida, was also given a certificate of appreciation. The seminar has finally ended and is expected to be held again next year as The 7th Annual Research Mindedness Seminar.</p>
 		</div>
     </div>
 </div>
 </section>
-@endif
 
 <!-- Section Judges -->
 <section class="d-flex align-items-center justify-content-center ">

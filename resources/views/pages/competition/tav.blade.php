@@ -109,15 +109,14 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-		<h1 class="comp_title">Our Talkshow</h1>
+		<h1 class="comp_title_li">Our Talkshow</h1>
 		</div>
     </div>
 </div>
 
 </section>
 
-@if (empty($talkshow))
-<section class="d-flex align-items-center justify-content-center">
+<!-- <section class="d-flex align-items-center justify-content-center">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-12 col-lg-12">
@@ -125,14 +124,13 @@
 		</div>
     </div>
 </div>
-</section>
-@else
+</section> -->
 <!-- coming soon POSTER -->
 <section class="d-flex align-items-center justify-content-center">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<img src="{{ $talkshow->picture }}" class="img-fluid" >
+			<img src="{{ url('assets/img/talkshow/commoviecator.png')}}" class="img-fluid" >
 		</div>
     </div>
 </div>
@@ -141,12 +139,21 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
-			<p class="desc_comp">&emsp;&emsp; {{ $talkshow->description }}</p>
+			<p class="desc_comp">
+				<b>
+					<center>
+					Andibachtiar Yusuf Foster a Perspective that Movie can Impact on Social Climate Empowerment through a Webinar held by Commoviecator 2022
+					</center>
+				</b>
+			</p>
+			<p class="desc_comp">&emsp;&emsp; JATINANGOR, on Wednesday (18/5/2022) Commoviecator 2022 held a webinar titled “Movie Impact On Social Climate Empowerment”. This webinar was presented by an Indonesian film director, Andibachtiar Yusuf. As a speaker, he engaged Youngsters especially filmmakers to empower the society through films.</p>
+			<p class="desc_comp">&emsp;&emsp; The session was led by Rayhan Renaldi as moderator, who is also a young director and alumnus from Fikom Unpad. Together with Rayhan, Andibachtiar Yusuf – known as Bang Ucup – discussed the film as a media that can be used as a forum to improve the socioeconomic condition in society for a better future. As the climate crisis impacts on society, a film can be the medium to advocate the current issue that happened because of the climate crisis. The speaker also mentioned step-by-step on how to raise a climate issue through the film production and distribution.</p>
+			<p class="desc_comp">&emsp;&emsp; During the event, Bang Ucup delivered the lessons by answering a topic that was raised by the moderator. After that, some participants asked questions in the question and answer session through a platform called sli.do and through a comment section in Zoom. This event was also attended by Dr. Sri Seti Indriani, S.IP., M.Si. as the head of the Television and Film Study Program, Fikom Unpad, who supervised the activities held by Commoviecator 2022. She gave her remarks at the beginning of the event.</p>
+			<p class="desc_comp">&emsp;&emsp; The purpose of this webinar is to provide information on social climate issues through film media and encourage the Youngsters, so that they can create films that can empower and bring awareness to their society. Moreover, through this webinar, Youngsters could build on their knowledge and get a deep understanding of the webinar’s themes from the perspective of a filmmaker. The webinar was closed by giving certificates to both the speaker and moderator with a photo session.</p>
 		</div>
     </div>
 </div>
 </section>
-@endif
 
 <!-- Section Judges -->
 <section class="d-flex align-items-center justify-content-center ">

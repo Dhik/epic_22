@@ -104,15 +104,13 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title">Our Talkshow</h1>
+			<h1 class="comp_title_li">Our Talkshow</h1>
 		</div>
     </div>
 </div>
-
 </section>
 
-@if (empty($talkshow))
-<section class="d-flex align-items-center justify-content-center">
+<!-- <section class="d-flex align-items-center justify-content-center">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-12 col-lg-12">
@@ -120,14 +118,13 @@
 		</div>
     </div>
 </div>
-</section>
-@else
+</section> -->
 <!-- coming soon POSTER -->
 <section class="d-flex align-items-center justify-content-center">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<img src="{{ $talkshow->picture }}" class="img-fluid" >
+			<img src="{{ url('assets/img/talkshow/ideation.png')}}" class="img-fluid" >
 		</div>
     </div>
 </div>
@@ -136,12 +133,24 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
-			<p class="desc_comp">&emsp;&emsp; {{ $talkshow->description }}</p>
+			<p class="desc_comp">&emsp;&emsp; Ideation is a competition held by the Communication Management study program and is part of Epicentrum, a communication competition festival held by the Faculty of Communication Sciences, Padjadjaran University. This year, Ideation carries the theme "Communication to Action: Youth Changemakers for Climate Change" to call on Ideators, young generations around the world who care about climate change issues to contribute to conveying ideas and share solutions in the form of social campaigns.</p>
+			<p class="desc_comp">&emsp;&emsp; One of Ideation's main events is a webinar held on 18 May 2022 with the title "Communication to Action: Climate Change and How to Voice It Through Social Media". The webinar was held from 14.00 WIB to 16.25 WIB which began with a warm welcome from the head of the Communication Management study program, Dr. Ira Mirawati, M.Si., the Head of Hima Mankom, M. Rizky Debtian, and the Ideation 2022 Project Officer, Novianne Rahma Dinti.</p>
+			<p class="desc_comp">&emsp;&emsp; This webinar is open to public and attended by two speakers, Aliya Alifadrianti from Maverick Indonesia, a specialist in social media management who has won many awards in the campaign field, and Azis Kurniawan from Coaction Indonesia, a research manager who has written many research journals on material biofuels, which can help tackle global warming and climate change. The webinar focused on explaining climate change and also social media campaigns. It is hoped that after attending this webinar, all participants will be able to know the initial steps needed to spread public awareness about climate change through social media.</p>
+			<p class="desc_comp">&emsp;&emsp; The Ideation 2022 series of activities cannot run perfectly without the dedication given by the entire committee and the collaboration with sponsors, Maverick Indonesia and Coaction Indonesia, media partners, Committee Info, Mankom Career Center (MCC), Indonesian Student Association Universiti Putra Malaysia (PPI UPM), Bumi Buddies, Indonesian Events, Campus Events, PPI Hyderabad, PPI Konya, and PPI World Radio and support from Hima Mankom.</p>
+			<p class="desc_comp">Contact Person: <br>
+Dara Natasya (Dara)
+<br>
+Head of External Relations Ideation 2022
+<br>
+Line		: daranatsya
+<br>
+Whatsapp	: 085224029090
+<br>
+E-mail		: ideation.epicentrum@gmail.com</p>
 		</div>
     </div>
 </div>
 </section>
-@endif
 
 <!-- Section Judges -->
 <section class="d-flex align-items-center justify-content-center ">

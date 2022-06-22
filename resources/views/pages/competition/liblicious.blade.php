@@ -105,15 +105,13 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title">Our Talkshow</h1>
+			<h1 class="comp_title_li">Our Talkshow</h1>
 		</div>
     </div>
 </div>
-
 </section>
 
-@if (empty($talkshow))
-<section class="d-flex align-items-center justify-content-center">
+<!-- <section class="d-flex align-items-center justify-content-center">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-12 col-lg-12">
@@ -121,14 +119,13 @@
 		</div>
     </div>
 </div>
-</section>
-@else
+</section> -->
 <!-- coming soon POSTER -->
 <section class="d-flex align-items-center justify-content-center">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<img src="{{ $talkshow->picture }}" class="img-fluid" >
+			<img src="{{ url('assets/img/talkshow/liblicious.png')}}" class="img-fluid" >
 		</div>
     </div>
 </div>
@@ -137,12 +134,15 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
-			<p class="desc_comp">&emsp;&emsp; {{ $talkshow->description }}</p>
+			<p class="desc_comp">&emsp;&emsp; This year, Liblicious was again held with the big theme "Innovation of Community Empowerment using Local Wisdom in Managing Food Waste Banks" which was held on 17-20 May 2022. </p>
+			<p class="desc_comp">&emsp;&emsp; On Tuesday 17 May 2022, the main event began with an opening ceremony to welcome the participants. Liblicious 2022 which will be continued with Gathering activities with the participants. In the Gathering activity, a meeting was held via Zoom Meeting between the committee and participants to explain the technicalities and draw the presentation order in the Final Presentation series. </p>
+			<p class="desc_comp">&emsp;&emsp; On the next day, May 18, 2022, Liblicious 2022 held a Talkshow with the theme “Small Acts to Reduce Food Waste: Waste Less Save More” which has two segments through Zoom Meeting. In the first segment, Kak Deddhy Bharoto as COO of Garda Pangan Indonesia presented the theme "The Role of the Food Waste Bank Management Community for the Community in Efforts to Respond to Food Waste Problems in Indonesia". Followed by the second segment with the theme "Maximizing Food Waste Management in Indonesia as a Means to Reduce Food Waste with Local Wisdom" which was delivered by Kak Cogito Ergo Sumadi Rasan as General Manager of FoodCycle Indonesia. The high enthusiasm of the participants was evidenced by the many questions in the question and answer session by the participants. </p>
+			<p class="desc_comp">&emsp;&emsp; The Liblicious 2022 series was closed with a Final Presentation on the next day, May 19, 2022 which was attended by the judges, namely Mr. Robi Andoyo, STP., M.Sc., Ph.D. (Lecturer of the Faculty of Agricultural Industrial Technology, University of Padjadjaran), Mr. Samson CMS., S.Sos., M.I.Kom., and Mrs. Siti Chaerani Djen Amar, MA., Ph.D. (Lecturer of the Faculty of Communication Sciences, Padjadjaran University). The participants presented the works that had been made in the form of group presentations in front of the judges in the order that had been determined. </p>
+			<p class="desc_comp">&emsp;&emsp; Of course, Liblicious will come back in the following years with your support with more exciting themes and activities and of course adding insight. Therefore, look forward to Liblicious' return next year!</p>
 		</div>
     </div>
 </div>
 </section>
-@endif
 
 <!-- Section Judges -->
 <section class="d-flex align-items-center justify-content-center ">

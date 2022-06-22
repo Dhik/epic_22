@@ -116,8 +116,7 @@
 
 </section>
 
-@if (empty($talkshow))
-<section class="d-flex align-items-center justify-content-center">
+<!-- <section class="d-flex align-items-center justify-content-center">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-12 col-lg-12">
@@ -125,14 +124,13 @@
 		</div>
     </div>
 </div>
-</section>
-@else
+</section> -->
 <!-- coming soon POSTER -->
 <section class="d-flex align-items-center justify-content-center">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<img src="{{ $talkshow->picture }}" class="img-fluid" >
+			<img src="{{ url('assets/img/talkshow/liblicious.png')}}" class="img-fluid" >
 		</div>
     </div>
 </div>
@@ -141,12 +139,22 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
-			<p class="desc_comp">&emsp;&emsp; {{ $talkshow->description }}</p>
+			<p class="desc_comp">
+				<b>
+					<center>
+					Manage Your Used Medical Waste Properly
+					</center>
+				</b>
+			</p>
+			<p class="desc_comp">&emsp;&emsp; Mediation or Media in Action is one of the sub-competition of the Epicentrum Unpad from the Management of Media Production study program. In Mediation 2022, the sub-theme used is "Accessibility of Media Information to Household Medical Waste" by raising the concept of production house which has three competition outputs, that is videography, audio, and digital posters. Through this sub-theme, Mediation 2022 can increase public awareness of the importance of managing household medical waste nowadays. </p>
+			<p class="desc_comp">&emsp;&emsp; This talkshow is called by the title of “Manage Your Used Medical Waste Properly” is a series of events from the Mediation 2022. This year's Talkshow Mediation has been held at 1 P.M, on Wednesday, May 18th, 2022, via Zoom Meeting, MC-ing by Annisa Aprilia. This talkshow was attended by 65 participants from various circles and institutions. This year, the Mediation’s Talkshow carries the theme "Accessibility of Media Information on Medical Waste Masks" that we hope participants can gain knowledge regarding the management of medical waste masks that can be applied in their daily lives.</p>
+			<p class="desc_comp">&emsp;&emsp; 
+This event lasted for 2 hours and began with remarks from the Head of the Study Program, Dr. Iwan Koswara, M.Si., followed by remarks from the Chairman of the Management of Media Production Student Association, Firhand El Schumy, and finally remarks from Project Officer of Mediation, Danti First Rianti. Next, enter the Talkshow Session and Sharing Session with the MC and also our two great speakers who have been invited, namely, Jessica Halim, a co-founder from Demibumi and Dr. Eng Pandji Prawisudha S.T., M.T., a CTO of Golimbah. After that, proceed to the question and answer session, the participants are welcome to ask questions directly to the speaker. Then, the certificate submission and closed with documentation.</p>
+			<p class="desc_comp">&emsp;&emsp; Talkshow Mediation took place lively and smoothly. In the attendance form, many participants filled out, because in addition to getting knowledge about medical waste masks, participants also received a certificate of attendance. Talkshow Mediation is very useful for students and students or the general public, especially the topics that are presented are very interesting and the speakers are very well versed in the material. Overall the event went well and can be improved continuously for the next year to be even better.</p>
 		</div>
     </div>
 </div>
 </section>
-@endif
 
 <!-- Section Judges -->
 <section class="d-flex align-items-center justify-content-center ">

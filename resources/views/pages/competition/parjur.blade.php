@@ -104,15 +104,14 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<h1 class="comp_title">Our Talkshow</h1>
+			<h1 class="comp_title_li">Our Talkshow</h1>
 		</div>
     </div>
 </div>
 
 </section>
 
-@if (empty($talkshow))
-<section class="d-flex align-items-center justify-content-center">
+<!-- <section class="d-flex align-items-center justify-content-center">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-12 col-lg-12">
@@ -120,14 +119,13 @@
 		</div>
     </div>
 </div>
-</section>
-@else
+</section> -->
 <!-- coming soon POSTER -->
 <section class="d-flex align-items-center justify-content-center">
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-7 col-lg-8">
-			<img src="{{ $talkshow->picture }}" class="img-fluid" >
+			<img src="{{ url('assets/img/talkshow/parjur.png')}}" class="img-fluid" >
 		</div>
     </div>
 </div>
@@ -136,12 +134,15 @@
 <div class="container" data-aos="fade-up">
 	<div class="row justify-content-center" data-aos="fade-up" data-aos-delay="150">
 		<div class="col-xl-10 col-lg-8">
-			<p class="desc_comp">&emsp;&emsp; {{ $talkshow->description }}</p>
+			<p class="desc_comp">&emsp;&emsp; Parade Jurnalistik is an annual journalism competition, which in this year came up with the theme “Climate Change Challenge: Raising Youth Awareness on Climate Change through Science Journalism”. Being part of Epicentrum 2022 that speaks for “Earthmergency Call”, Parade Jurnalistik is contributing in spreading scientific information about climate change through science journalism, so that everyone, especially youth can gain the understanding that stimulates further actions.</p>
+			<p class="desc_comp">&emsp;&emsp; Besides competition, Parade Jurnalistik also held a series of events in 3 days for the public and its participants. Starting from talkshow with the theme “Encouraging The Society to Understand Climate Matters Through Science Journalism” on Tuesday, May 17th. The talkshow was attended by around 80 participicants coming from more than 5 different universities in Indonesia. All of them got the chance to gain more insights about climate change from the Executive Director of WALHI Jawa Barat, Meiki Wemly Paendong.</p>
+			<p class="desc_comp">&emsp;&emsp; The next day on May 18th, workshop with the same theme was held exclusively for the Parade Jurnalistik’s finalists. The topic of climate change was brought by Mardiyah Chamim as the Communication Strategist Development Dialogue Asia and the topic about delivering climate change issus with OSINT was explained by Aqwam Fiazmi Hanifan as a Visual Investigation Producer from Narasi Newsroom. From the workshop, participants are expected to gain new skill as well as deepen their understanding about climate change. </p>
+			<p class="desc_comp">&emsp;&emsp; For the last event on May 19th, the finalists of Parade Jurnalistik presented their journalism product in form of audiovisual to the judges. Through presentation day, Parade Jurnalistik found its top 3 winners for this year.</p>
+			<p class="desc_comp">&emsp;&emsp; Parade Jurnalistik 2022 went smoothly from the start until all of the 3 winners were announced. Moreover, the series of events, such as talkshow and workshop, received good feedbacks from the participants. Looking forward for that much of enthusiasm in Parade Jurnalistik that will be coming to you again next year!</p>
 		</div>
     </div>
 </div>
 </section>
-@endif
 
 <!-- Section Judges -->
 <section class="d-flex align-items-center justify-content-center ">
